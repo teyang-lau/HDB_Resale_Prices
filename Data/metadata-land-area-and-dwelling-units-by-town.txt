@@ -1,0 +1,94 @@
+# Metadata for Land Area and Dwelling Units by Town
+---
+Identifier: 'e0397cd9-9fb6-4de4-83d9-f9dba2591ead'
+Name: 'land-area-and-dwelling-units-by-town'
+Title: 'Land Area and Dwelling Units by Town'
+Description:
+  - 'Land area and number of dwelling units under HDB''s management by town.'
+  - ''
+  - 'Notes:'
+  - ''
+  - '- “Total Land Area” includes private developments on private and state land'
+  - '- “Residential Land Area” includes private developments under Government Land
+    Sales Programme. The projected ultimate figures may change.'
+  - '- “Projected Ultimate” refers to the total ultimate residential dwelling units
+    when the town is fully developed. It includes completed as well as planned public
+    housing to be developed by HDB, and private developments (eg Condominiums and
+    Executive Condominiums) to be developed under the Government Land Sales (GLS)
+    Programme within HDB’s town development boundary.'
+  - '- “Other Estates” comprises Bukit Timah, Central Area and Marine Parade.'
+  - '- “Toa Payoh” includes Bidadari in FY13/14 and FY14/15.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'HDB'
+  - 'Housing'
+  - 'Property'
+Publisher:
+  Name: 'Housing and Development Board'
+  Admin 1:
+    Name: 'Michelle Tay'
+    Department: 'HDB'
+    Email: 'michelle_mb_tay@hdb.gov.sg'
+  Admin 2:
+    Name: 'Toh Xue Qin'
+    Department: 'HDB'
+    Email: 'toh_xue_qin@hdb.gov.sg'
+Sources:
+  - 'Housing and Development Board'
+Source Url: 'http://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/annual-reports'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2008-04-01 to 2019-03-31'
+Last Updated: '2020-01-02T06:17:44.504839'
+Resources:
+  -
+    Identifier: '898d985a-0996-4efd-b2c2-7d9fab4138e9'
+    Title: 'Land Area and Dwelling Units by Town'
+    Url: 'https://storage.data.gov.sg/land-area-and-dwelling-units-by-town/resources/land-area-and-dwelling-units-by-town-2020-01-02T06-17-43Z.csv'
+    Format: 'CSV'
+    Coverage: '2008-04-01 to 2019-03-31'
+    Description: 'This dataset is a snapshot of the latest FY data as at 31 Mar of
+      the year.'
+    Last Updated: '2020-01-02T06:17:43.320399'
+    Schema:
+      -
+        Name: 'financial_year'
+        Title: 'Financial Year'
+        Type: 'datetime'
+        Sub Type: 'financial_year'
+        Format: 'YYYY'
+        Description: 'Financial year starts on 1 April and ends on 31 March'
+      -
+        Name: 'town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'total_land_area'
+        Title: 'Total Land Area'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hectares'
+        Description:
+          - '"na" : Data not available or not applicable'
+          - '"-" : Data is negligible or not significant'
+      -
+        Name: 'residential_land_area'
+        Title: 'Residential Land Area'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hectares'
+      -
+        Name: 'dwelling_units_under_management'
+        Title: 'Dwelling Units under Management'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Units'
+        Description: '"-" : Data is negligible or not significant'
+      -
+        Name: 'projected_ultimate_dwelling_units'
+        Title: 'Projected Ultimate Dwelling Units'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Units'

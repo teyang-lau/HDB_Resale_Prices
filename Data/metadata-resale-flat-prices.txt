@@ -1,0 +1,423 @@
+# Metadata for Resale Flat Prices
+---
+Identifier: '7a339d20-3c57-4b11-a695-9348adfd7614'
+Name: 'resale-flat-prices'
+Title: 'Resale Flat Prices'
+Description:
+  - 'Resale transacted prices.'
+  - 'Prior to March 2012, data is based on date of approval for the resale transactions.'
+  - 'For March 2012 onwards, the data is based on date of registration for the resale
+    transactions.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'Cost of Living'
+  - 'HDB'
+  - 'Housing'
+  - 'Property'
+  - 'Public Housing'
+  - 'Resale Flats'
+Publisher:
+  Name: 'Housing and Development Board'
+  Admin 1:
+    Name: 'Michelle Tay'
+    Department: 'HDB'
+    Email: 'Michelle_MB_TAY@hdb.gov.sg'
+  Admin 2:
+    Name: 'Toh Xue Qin'
+    Department: 'HDB'
+    Email: 'toh_xue_qin@hdb.gov.sg'
+Sources:
+  - 'Housing and Development Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Monthly'
+Coverage: '1990-01-01 to 2020-09-30'
+Last Updated: '2020-10-26T05:27:31.316593'
+Resources:
+  -
+    Identifier: '42ff9cfe-abe5-4b54-beda-c88f9bb438ee'
+    Title: 'Resale Flat Prices (Based on Registration Date), From Jan 2017 onwards'
+    Url: 'https://storage.data.gov.sg/resale-flat-prices/resources/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards-2020-10-26T05-27-30Z.csv'
+    Format: 'CSV'
+    Coverage: '2017-01-01 to 2020-09-30'
+    Description:
+      - 'Notes:'
+      - ''
+      - '1. The approximate floor area includes any recess area purchased, space adding
+        item under HDB’s upgrading programmes, roof terrace, etc.'
+      - ''
+      - '2. The transactions exclude resale transactions that may not reflect the
+        full market price such as resale between relatives and resale of part shares.'
+      - ''
+      - '3. Resale prices should be taken as indicative only as the resale prices
+        agreed between buyers and sellers are dependent on many factors.'
+      - ''
+      - '4. "Remaining lease" is the number of years, months and days left before
+        the lease expires. This information is computed as at the resale flat application
+        and has been rounded up to the nearest month for the purpose of CPF monies
+        usage and HDB loan application.'
+    Last Updated: '2020-10-26T05:27:30.019213'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'flat_type'
+        Title: 'Flat type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'block'
+        Title: 'Block'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'street_name'
+        Title: 'Street name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'storey_range'
+        Title: 'Storey range'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'floor_area_sqm'
+        Title: 'Floor area sqm'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Sqm'
+      -
+        Name: 'flat_model'
+        Title: 'Flat model'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'lease_commence_date'
+        Title: 'Lease commence date'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'remaining_lease'
+        Title: 'Remaining lease'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Years and Months'
+      -
+        Name: 'resale_price'
+        Title: 'Resale price'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: '$'
+  -
+    Identifier: '1b702208-44bf-4829-b620-4615ee19b57c'
+    Title: 'Resale Flat Prices (Based on Registration Date), From Jan 2015 to Dec
+      2016'
+    Url: 'https://storage.data.gov.sg/resale-flat-prices/resources/resale-flat-prices-based-on-registration-date-from-jan-2015-to-dec-2016-2019-06-17T09-03-16Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2016-12-31'
+    Description:
+      - 'Notes:'
+      - ''
+      - '1. The approximate floor area includes any recess area purchased, space adding
+        item under HDB’s upgrading programmes, roof terrace, etc.'
+      - ''
+      - '2. The transactions exclude resale transactions that may not reflect the
+        full market price such as resale between relatives and resale of part shares.'
+      - ''
+      - '3. Resale prices should be taken as indicative only as the resale prices
+        agreed between buyers and sellers are dependent on many factors.'
+      - ''
+      - '4. "Remaining lease" is the number of years left before the lease ends. This
+        information is computed as at the resale flat application.'
+    Last Updated: '2019-06-17T09:03:16.240486'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'flat_type'
+        Title: 'Flat Type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'block'
+        Title: 'Block'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'street_name'
+        Title: 'Street Name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'storey_range'
+        Title: 'Storey Range'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'floor_area_sqm'
+        Title: 'Floor Area'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Sqm'
+      -
+        Name: 'flat_model'
+        Title: 'Flat Model'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'lease_commence_date'
+        Title: 'Lease Commencement Date'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'remaining_lease'
+        Title: 'Remaining Lease'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Years'
+      -
+        Name: 'resale_price'
+        Title: 'Resale Price'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: '$'
+  -
+    Identifier: '83b2fc37-ce8c-4df4-968b-370fd818138b'
+    Title: 'Resale Flat Prices (Based on Registration Date), From Mar 2012 to Dec
+      2014'
+    Url: 'https://storage.data.gov.sg/resale-flat-prices/resources/resale-flat-prices-based-on-registration-date-from-mar-2012-to-dec-2014-2019-06-17T09-04-34Z.csv'
+    Format: 'CSV'
+    Coverage: '2012-03-01 to 2014-12-31'
+    Description:
+      - 'Notes:'
+      - ''
+      - '1. The approximate floor area includes any recess area purchased, space adding
+        item under HDB’s upgrading programmes, roof terrace, etc.'
+      - ''
+      - '2. The transactions exclude resale transactions that may not reflect the
+        full market price such as resale between relatives and resale of part shares.'
+      - ''
+      - '3. Resale prices should be taken as indicative only as the resale prices
+        agreed between buyers and sellers are dependent on many factors.'
+    Last Updated: '2019-06-17T09:04:34.538580'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'flat_type'
+        Title: 'Flat Type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'block'
+        Title: 'Block'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'street_name'
+        Title: 'Street Name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'storey_range'
+        Title: 'Storey Range'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'floor_area_sqm'
+        Title: 'Floor Area'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Sqm'
+      -
+        Name: 'flat_model'
+        Title: 'Flat Model'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'lease_commence_date'
+        Title: 'Lease Commence Date'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'resale_price'
+        Title: 'Resale Price'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+  -
+    Identifier: '8c00bf08-9124-479e-aeca-7cc411d884c4'
+    Title: 'Resale Flat Prices (Based on Approval Date), 2000 - Feb 2012'
+    Url: 'https://storage.data.gov.sg/resale-flat-prices/resources/resale-flat-prices-based-on-approval-date-2000-feb-2012-2019-06-28T10-14-13Z.csv'
+    Format: 'CSV'
+    Coverage: '2000-01-01 to 2012-02-29'
+    Description:
+      - 'Notes:'
+      - ''
+      - '1. The approximate floor area includes any recess area purchased, space adding
+        item under HDB’s upgrading programmes, roof terrace, etc.'
+      - ''
+      - '2. The transactions exclude resale transactions that may not reflect the
+        full market price such as resale between relatives and resale of part shares.'
+      - ''
+      - '3. Resale prices should be taken as indicative only as the resale prices
+        agreed between buyers and sellers are dependent on many factors.'
+    Last Updated: '2019-06-28T10:14:13.202606'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'flat_type'
+        Title: 'Flat Type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'block'
+        Title: 'Block'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'street_name'
+        Title: 'Street Name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'storey_range'
+        Title: 'Storey Range'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'floor_area_sqm'
+        Title: 'Floor Area'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Sqm'
+      -
+        Name: 'flat_model'
+        Title: 'Flat Model'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'lease_commence_date'
+        Title: 'Lease Commence Date'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'resale_price'
+        Title: 'Resale Price'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+  -
+    Identifier: 'adbbddd3-30e2-445f-a123-29bee150a6fe'
+    Title: 'Resale Flat Prices (Based on Approval Date), 1990 - 1999'
+    Url: 'https://storage.data.gov.sg/resale-flat-prices/resources/resale-flat-prices-based-on-approval-date-1990-1999-2019-06-28T09-56-35Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 1999-12-31'
+    Description:
+      - 'Notes:'
+      - ''
+      - '1. The approximate floor area includes any recess area purchased, space adding
+        item under HDB’s upgrading programmes, roof terrace, etc.'
+      - ''
+      - '2. The transactions exclude resale transactions that may not reflect the
+        full market price such as resale between relatives and resale of part shares.'
+      - ''
+      - '3. Resale prices should be taken as indicative only as the resale prices
+        agreed between buyers and sellers are dependent on many factors.'
+    Last Updated: '2019-06-28T09:56:35.759870'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'flat_type'
+        Title: 'Flat Type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'block'
+        Title: 'Block'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'street_name'
+        Title: 'Street Name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'storey_range'
+        Title: 'Storey Range'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'floor_area_sqm'
+        Title: 'Floor Area'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Sqm'
+      -
+        Name: 'flat_model'
+        Title: 'Flat Model'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'lease_commence_date'
+        Title: 'Lease Commence Date'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'resale_price'
+        Title: 'Resale Price'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'

@@ -1,0 +1,207 @@
+# Metadata for HDB Property Information
+---
+Identifier: '9dd41b9c-b7d7-405b-88f8-61b9ca9ba224'
+Name: 'hdb-property-information'
+Title: 'HDB Property Information'
+Description: 'HDB property information contains the location of existing HDB blocks,
+  highest floor level, year of completion, type of building and number of HDB flats
+  (breakdown by flat type) per block etc.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'housing'
+  - 'housing type'
+Publisher:
+  Name: 'Housing and Development Board'
+  Admin 1:
+    Name: 'Michelle Tay'
+    Department: 'HDB'
+    Email: 'michelle_mb_tay@hdb.gov.sg'
+  Admin 2:
+    Name: 'Toh Xue Qin'
+    Department: 'HDB'
+    Email: 'toh_xue_qin@hdb.gov.sg'
+Sources:
+  - 'Housing and Development Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '1937-01-01 to 2020-09-30'
+Last Updated: '2020-10-05T06:58:44.107462'
+Resources:
+  -
+    Identifier: '482bfa14-2977-4035-9c61-c85f871daf4e'
+    Title: 'HDB Property Information'
+    Url: 'https://storage.data.gov.sg/hdb-property-information/resources/hdb-property-information-2020-10-05T06-58-42Z.csv'
+    Format: 'CSV'
+    Coverage: '1937-01-01 to 2020-09-30'
+    Description: 'Please approach SingPost (www.singpost.com/contact-us/service-enquiry)
+      if you require the postal code information. Do note that there may be charges
+      involved.'
+    Last Updated: '2020-10-05T06:58:42.223448'
+    Schema:
+      -
+        Name: 'blk_no'
+        Title: 'Block number'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'street'
+        Title: 'Street'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'max_floor_lvl'
+        Title: 'Maximum floor level'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of storeys'
+      -
+        Name: 'year_completed'
+        Title: 'Year completed'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'residential'
+        Title: 'Residential property tag'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'commercial'
+        Title: 'Commercial property tag'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'market_hawker'
+        Title: 'Market and hawker tag'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'miscellaneous'
+        Title: 'Miscellaneous'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Examples include admin office, childcare centre, education centre,
+          Residents'' Committees centre'
+      -
+        Name: 'multistorey_carpark'
+        Title: 'Multi-storey carpark tag'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'precinct_pavilion'
+        Title: 'Precinct pavilion tag'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'bldg_contract_town'
+        Title: 'Town'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Legend:'
+          - 'AMK - ANG MO KIO'
+          - 'BB - BUKIT BATOK'
+          - 'BD - BEDOK'
+          - 'BH - BISHAN'
+          - 'BM - BUKIT MERAH'
+          - 'BP - BUKIT PANJANG'
+          - 'BT - BUKIT TIMAH'
+          - 'CCK - CHOA CHU KANG'
+          - 'CL - CLEMENTI'
+          - 'CT - CENTRAL AREA'
+          - 'GL - GEYLANG'
+          - 'HG - HOUGANG'
+          - 'JE - JURONG EAST'
+          - 'JW - JURONG WEST'
+          - 'KWN - KALLANG/WHAMPOA'
+          - 'MP - MARINE PARADE'
+          - 'PG - PUNGGOL'
+          - 'PRC - PASIR RIS'
+          - 'QT - QUEENSTOWN'
+          - 'SB - SEMBAWANG'
+          - 'SGN - SERANGOON'
+          - 'SK - SENGKANG'
+          - 'TAP - TAMPINES'
+          - 'TG - TENGAH'
+          - 'TP - TOA PAYOH'
+          - 'WL - WOODLANDS'
+          - 'YS - YISHUN'
+      -
+        Name: 'total_dwelling_units'
+        Title: 'Total dwelling units'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '1room_sold'
+        Title: 'Number of 1-room sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '2room_sold'
+        Title: 'Number of 2-room sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '3room_sold'
+        Title: 'Number of 3-room sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '4room_sold'
+        Title: 'Number of 4-room sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '5room_sold'
+        Title: 'Number of 5-room sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: 'exec_sold'
+        Title: 'Number of Executive sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: 'multigen_sold'
+        Title: 'Number of Multi-generation sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: 'studio_apartment_sold'
+        Title: 'Number of Studio apartment sold flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '1room_rental'
+        Title: 'Number of 1-room rental flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '2room_rental'
+        Title: 'Number of 2-room rental flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: '3room_rental'
+        Title: 'Number of 3-room rental flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'
+      -
+        Name: 'other_room_rental'
+        Title: 'Number of Other room rental flats'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of units'

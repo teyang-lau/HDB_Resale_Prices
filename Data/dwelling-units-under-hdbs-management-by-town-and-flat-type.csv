@@ -1,0 +1,3888 @@
+financial_year,town_or_estate,flat_type,sold_or_rental,no_of_dwelling_units
+2008,Ang Mo Kio,1-room,Rental Units,1318
+2008,Ang Mo Kio,1-room,Sold Units,0
+2008,Ang Mo Kio,2-room,Rental Units,2860
+2008,Ang Mo Kio,2-room,Sold Units,633
+2008,Ang Mo Kio,3-room,Rental Units,62
+2008,Ang Mo Kio,3-room,Sold Units,24437
+2008,Ang Mo Kio,4-room,Rental Units,3
+2008,Ang Mo Kio,4-room,Sold Units,13023
+2008,Ang Mo Kio,5-room,Rental Units,0
+2008,Ang Mo Kio,5-room,Sold Units,5252
+2008,Ang Mo Kio,Executive,Sold Units,481
+2008,Ang Mo Kio,Studio Apartment,Rental Units,0
+2008,Ang Mo Kio,Studio Apartment,Sold Units,0
+2008,Ang Mo Kio,HUDC,Sold Units,0
+2008,Bedok,1-room,Rental Units,2250
+2008,Bedok,1-room,Sold Units,0
+2008,Bedok,2-room,Rental Units,1155
+2008,Bedok,2-room,Sold Units,670
+2008,Bedok,3-room,Rental Units,28
+2008,Bedok,3-room,Sold Units,22555
+2008,Bedok,4-room,Rental Units,0
+2008,Bedok,4-room,Sold Units,20247
+2008,Bedok,5-room,Rental Units,0
+2008,Bedok,5-room,Sold Units,10182
+2008,Bedok,Executive,Sold Units,2712
+2008,Bedok,Studio Apartment,Rental Units,0
+2008,Bedok,Studio Apartment,Sold Units,130
+2008,Bedok,HUDC,Sold Units,0
+2008,Bishan,1-room,Rental Units,396
+2008,Bishan,1-room,Sold Units,0
+2008,Bishan,2-room,Rental Units,0
+2008,Bishan,2-room,Sold Units,0
+2008,Bishan,3-room,Rental Units,0
+2008,Bishan,3-room,Sold Units,2359
+2008,Bishan,4-room,Rental Units,0
+2008,Bishan,4-room,Sold Units,9199
+2008,Bishan,5-room,Rental Units,0
+2008,Bishan,5-room,Sold Units,5395
+2008,Bishan,Executive,Sold Units,1660
+2008,Bishan,Studio Apartment,Rental Units,0
+2008,Bishan,Studio Apartment,Sold Units,0
+2008,Bishan,HUDC,Sold Units,358
+2008,Bukit Batok,1-room,Rental Units,20
+2008,Bukit Batok,1-room,Sold Units,0
+2008,Bukit Batok,2-room,Rental Units,20
+2008,Bukit Batok,2-room,Sold Units,0
+2008,Bukit Batok,3-room,Rental Units,6
+2008,Bukit Batok,3-room,Sold Units,10271
+2008,Bukit Batok,4-room,Rental Units,0
+2008,Bukit Batok,4-room,Sold Units,13850
+2008,Bukit Batok,5-room,Rental Units,0
+2008,Bukit Batok,5-room,Sold Units,4832
+2008,Bukit Batok,Executive,Sold Units,2732
+2008,Bukit Batok,Studio Apartment,Rental Units,0
+2008,Bukit Batok,Studio Apartment,Sold Units,0
+2008,Bukit Batok,HUDC,Sold Units,0
+2008,Bukit Merah,1-room,Rental Units,4473
+2008,Bukit Merah,1-room,Sold Units,258
+2008,Bukit Merah,2-room,Rental Units,4980
+2008,Bukit Merah,2-room,Sold Units,1018
+2008,Bukit Merah,3-room,Rental Units,198
+2008,Bukit Merah,3-room,Sold Units,16038
+2008,Bukit Merah,4-room,Rental Units,96
+2008,Bukit Merah,4-room,Sold Units,13832
+2008,Bukit Merah,5-room,Rental Units,0
+2008,Bukit Merah,5-room,Sold Units,9098
+2008,Bukit Merah,Executive,Sold Units,44
+2008,Bukit Merah,Studio Apartment,Rental Units,0
+2008,Bukit Merah,Studio Apartment,Sold Units,212
+2008,Bukit Merah,HUDC,Sold Units,0
+2008,Bukit Panjang,1-room,Rental Units,0
+2008,Bukit Panjang,1-room,Sold Units,0
+2008,Bukit Panjang,2-room,Rental Units,0
+2008,Bukit Panjang,2-room,Sold Units,0
+2008,Bukit Panjang,3-room,Rental Units,0
+2008,Bukit Panjang,3-room,Sold Units,2620
+2008,Bukit Panjang,4-room,Rental Units,0
+2008,Bukit Panjang,4-room,Sold Units,13980
+2008,Bukit Panjang,5-room,Rental Units,0
+2008,Bukit Panjang,5-room,Sold Units,9517
+2008,Bukit Panjang,Executive,Sold Units,3381
+2008,Bukit Panjang,Studio Apartment,Rental Units,0
+2008,Bukit Panjang,Studio Apartment,Sold Units,0
+2008,Bukit Panjang,HUDC,Sold Units,0
+2008,Bukit Timah,1-room,Rental Units,0
+2008,Bukit Timah,1-room,Sold Units,0
+2008,Bukit Timah,2-room,Rental Units,0
+2008,Bukit Timah,2-room,Sold Units,0
+2008,Bukit Timah,3-room,Rental Units,0
+2008,Bukit Timah,3-room,Sold Units,441
+2008,Bukit Timah,4-room,Rental Units,0
+2008,Bukit Timah,4-room,Sold Units,920
+2008,Bukit Timah,5-room,Rental Units,0
+2008,Bukit Timah,5-room,Sold Units,682
+2008,Bukit Timah,Executive,Sold Units,380
+2008,Bukit Timah,Studio Apartment,Rental Units,0
+2008,Bukit Timah,Studio Apartment,Sold Units,0
+2008,Bukit Timah,HUDC,Sold Units,0
+2008,Central Area,1-room,Rental Units,2073
+2008,Central Area,1-room,Sold Units,0
+2008,Central Area,2-room,Rental Units,975
+2008,Central Area,2-room,Sold Units,341
+2008,Central Area,3-room,Rental Units,53
+2008,Central Area,3-room,Sold Units,4695
+2008,Central Area,4-room,Rental Units,14
+2008,Central Area,4-room,Sold Units,2282
+2008,Central Area,5-room,Rental Units,0
+2008,Central Area,5-room,Sold Units,284
+2008,Central Area,Executive,Sold Units,9
+2008,Central Area,Studio Apartment,Rental Units,0
+2008,Central Area,Studio Apartment,Sold Units,0
+2008,Central Area,HUDC,Sold Units,38
+2008,Choa Chu Kang,1-room,Rental Units,0
+2008,Choa Chu Kang,1-room,Sold Units,0
+2008,Choa Chu Kang,2-room,Rental Units,240
+2008,Choa Chu Kang,2-room,Sold Units,0
+2008,Choa Chu Kang,3-room,Rental Units,0
+2008,Choa Chu Kang,3-room,Sold Units,1312
+2008,Choa Chu Kang,4-room,Rental Units,0
+2008,Choa Chu Kang,4-room,Sold Units,19437
+2008,Choa Chu Kang,5-room,Rental Units,0
+2008,Choa Chu Kang,5-room,Sold Units,13422
+2008,Choa Chu Kang,Executive,Sold Units,4762
+2008,Choa Chu Kang,Studio Apartment,Rental Units,0
+2008,Choa Chu Kang,Studio Apartment,Sold Units,0
+2008,Choa Chu Kang,HUDC,Sold Units,0
+2008,Clementi,1-room,Rental Units,454
+2008,Clementi,1-room,Sold Units,0
+2008,Clementi,2-room,Rental Units,479
+2008,Clementi,2-room,Sold Units,41
+2008,Clementi,3-room,Rental Units,63
+2008,Clementi,3-room,Sold Units,12128
+2008,Clementi,4-room,Rental Units,0
+2008,Clementi,4-room,Sold Units,7677
+2008,Clementi,5-room,Rental Units,0
+2008,Clementi,5-room,Sold Units,2408
+2008,Clementi,Executive,Sold Units,623
+2008,Clementi,Studio Apartment,Rental Units,0
+2008,Clementi,Studio Apartment,Sold Units,0
+2008,Clementi,HUDC,Sold Units,0
+2008,Geylang,1-room,Rental Units,1044
+2008,Geylang,1-room,Sold Units,0
+2008,Geylang,2-room,Rental Units,2401
+2008,Geylang,2-room,Sold Units,750
+2008,Geylang,3-room,Rental Units,536
+2008,Geylang,3-room,Sold Units,11453
+2008,Geylang,4-room,Rental Units,0
+2008,Geylang,4-room,Sold Units,9364
+2008,Geylang,5-room,Rental Units,0
+2008,Geylang,5-room,Sold Units,3601
+2008,Geylang,Executive,Sold Units,831
+2008,Geylang,Studio Apartment,Rental Units,0
+2008,Geylang,Studio Apartment,Sold Units,107
+2008,Geylang,HUDC,Sold Units,330
+2008,Hougang,1-room,Rental Units,34
+2008,Hougang,1-room,Sold Units,0
+2008,Hougang,2-room,Rental Units,315
+2008,Hougang,2-room,Sold Units,0
+2008,Hougang,3-room,Rental Units,230
+2008,Hougang,3-room,Sold Units,9219
+2008,Hougang,4-room,Rental Units,6
+2008,Hougang,4-room,Sold Units,23160
+2008,Hougang,5-room,Rental Units,0
+2008,Hougang,5-room,Sold Units,9923
+2008,Hougang,Executive,Sold Units,4310
+2008,Hougang,Studio Apartment,Rental Units,0
+2008,Hougang,Studio Apartment,Sold Units,0
+2008,Hougang,HUDC,Sold Units,622
+2008,Jurong East,1-room,Rental Units,0
+2008,Jurong East,1-room,Sold Units,0
+2008,Jurong East,2-room,Rental Units,0
+2008,Jurong East,2-room,Sold Units,0
+2008,Jurong East,3-room,Rental Units,78
+2008,Jurong East,3-room,Sold Units,6975
+2008,Jurong East,4-room,Rental Units,0
+2008,Jurong East,4-room,Sold Units,7333
+2008,Jurong East,5-room,Rental Units,0
+2008,Jurong East,5-room,Sold Units,5899
+2008,Jurong East,Executive,Sold Units,1871
+2008,Jurong East,Studio Apartment,Rental Units,0
+2008,Jurong East,Studio Apartment,Sold Units,143
+2008,Jurong East,HUDC,Sold Units,0
+2008,Jurong West,1-room,Rental Units,84
+2008,Jurong West,1-room,Sold Units,0
+2008,Jurong West,2-room,Rental Units,1147
+2008,Jurong West,2-room,Sold Units,123
+2008,Jurong West,3-room,Rental Units,1475
+2008,Jurong West,3-room,Sold Units,11107
+2008,Jurong West,4-room,Rental Units,2
+2008,Jurong West,4-room,Sold Units,27454
+2008,Jurong West,5-room,Rental Units,0
+2008,Jurong West,5-room,Sold Units,20860
+2008,Jurong West,Executive,Sold Units,6506
+2008,Jurong West,Studio Apartment,Rental Units,0
+2008,Jurong West,Studio Apartment,Sold Units,0
+2008,Jurong West,HUDC,Sold Units,0
+2008,Kallang/Whampoa,1-room,Rental Units,4401
+2008,Kallang/Whampoa,1-room,Sold Units,0
+2008,Kallang/Whampoa,2-room,Rental Units,2025
+2008,Kallang/Whampoa,2-room,Sold Units,444
+2008,Kallang/Whampoa,3-room,Rental Units,57
+2008,Kallang/Whampoa,3-room,Sold Units,12933
+2008,Kallang/Whampoa,4-room,Rental Units,4
+2008,Kallang/Whampoa,4-room,Sold Units,9079
+2008,Kallang/Whampoa,5-room,Rental Units,0
+2008,Kallang/Whampoa,5-room,Sold Units,4843
+2008,Kallang/Whampoa,Executive,Sold Units,502
+2008,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2008,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2008,Kallang/Whampoa,HUDC,Sold Units,0
+2008,Marine Parade,1-room,Rental Units,0
+2008,Marine Parade,1-room,Sold Units,0
+2008,Marine Parade,2-room,Rental Units,1324
+2008,Marine Parade,2-room,Sold Units,26
+2008,Marine Parade,3-room,Rental Units,2
+2008,Marine Parade,3-room,Sold Units,3041
+2008,Marine Parade,4-room,Rental Units,0
+2008,Marine Parade,4-room,Sold Units,1798
+2008,Marine Parade,5-room,Rental Units,0
+2008,Marine Parade,5-room,Sold Units,1674
+2008,Marine Parade,Executive,Sold Units,0
+2008,Marine Parade,Studio Apartment,Rental Units,0
+2008,Marine Parade,Studio Apartment,Sold Units,0
+2008,Marine Parade,HUDC,Sold Units,0
+2008,Pasir Ris,1-room,Rental Units,0
+2008,Pasir Ris,1-room,Sold Units,0
+2008,Pasir Ris,2-room,Rental Units,0
+2008,Pasir Ris,2-room,Sold Units,21
+2008,Pasir Ris,3-room,Rental Units,4
+2008,Pasir Ris,3-room,Sold Units,160
+2008,Pasir Ris,4-room,Rental Units,0
+2008,Pasir Ris,4-room,Sold Units,10716
+2008,Pasir Ris,5-room,Rental Units,0
+2008,Pasir Ris,5-room,Sold Units,9055
+2008,Pasir Ris,Executive,Sold Units,7460
+2008,Pasir Ris,Studio Apartment,Rental Units,0
+2008,Pasir Ris,Studio Apartment,Sold Units,0
+2008,Pasir Ris,HUDC,Sold Units,98
+2008,Punggol,1-room,Rental Units,0
+2008,Punggol,1-room,Sold Units,0
+2008,Punggol,2-room,Rental Units,0
+2008,Punggol,2-room,Sold Units,0
+2008,Punggol,3-room,Rental Units,0
+2008,Punggol,3-room,Sold Units,0
+2008,Punggol,4-room,Rental Units,0
+2008,Punggol,4-room,Sold Units,5704
+2008,Punggol,5-room,Rental Units,0
+2008,Punggol,5-room,Sold Units,10273
+2008,Punggol,Executive,Sold Units,1126
+2008,Punggol,Studio Apartment,Rental Units,0
+2008,Punggol,Studio Apartment,Sold Units,0
+2008,Punggol,HUDC,Sold Units,0
+2008,Queenstown,1-room,Rental Units,575
+2008,Queenstown,1-room,Sold Units,0
+2008,Queenstown,2-room,Rental Units,1699
+2008,Queenstown,2-room,Sold Units,1311
+2008,Queenstown,3-room,Rental Units,157
+2008,Queenstown,3-room,Sold Units,15323
+2008,Queenstown,4-room,Rental Units,0
+2008,Queenstown,4-room,Sold Units,6201
+2008,Queenstown,5-room,Rental Units,0
+2008,Queenstown,5-room,Sold Units,3338
+2008,Queenstown,Executive,Sold Units,359
+2008,Queenstown,Studio Apartment,Rental Units,0
+2008,Queenstown,Studio Apartment,Sold Units,114
+2008,Queenstown,HUDC,Sold Units,0
+2008,Sembawang,1-room,Rental Units,0
+2008,Sembawang,1-room,Sold Units,0
+2008,Sembawang,2-room,Rental Units,0
+2008,Sembawang,2-room,Sold Units,0
+2008,Sembawang,3-room,Rental Units,0
+2008,Sembawang,3-room,Sold Units,0
+2008,Sembawang,4-room,Rental Units,0
+2008,Sembawang,4-room,Sold Units,7238
+2008,Sembawang,5-room,Rental Units,0
+2008,Sembawang,5-room,Sold Units,7556
+2008,Sembawang,Executive,Sold Units,2870
+2008,Sembawang,Studio Apartment,Rental Units,0
+2008,Sembawang,Studio Apartment,Sold Units,0
+2008,Sembawang,HUDC,Sold Units,0
+2008,Sengkang,1-room,Rental Units,0
+2008,Sengkang,1-room,Sold Units,0
+2008,Sengkang,2-room,Rental Units,0
+2008,Sengkang,2-room,Sold Units,84
+2008,Sengkang,3-room,Rental Units,0
+2008,Sengkang,3-room,Sold Units,240
+2008,Sengkang,4-room,Rental Units,0
+2008,Sengkang,4-room,Sold Units,18468
+2008,Sengkang,5-room,Rental Units,0
+2008,Sengkang,5-room,Sold Units,19316
+2008,Sengkang,Executive,Sold Units,4462
+2008,Sengkang,Studio Apartment,Rental Units,0
+2008,Sengkang,Studio Apartment,Sold Units,0
+2008,Sengkang,HUDC,Sold Units,0
+2008,Serangoon,1-room,Rental Units,0
+2008,Serangoon,1-room,Sold Units,0
+2008,Serangoon,2-room,Rental Units,88
+2008,Serangoon,2-room,Sold Units,66
+2008,Serangoon,3-room,Rental Units,0
+2008,Serangoon,3-room,Sold Units,4547
+2008,Serangoon,4-room,Rental Units,0
+2008,Serangoon,4-room,Sold Units,10231
+2008,Serangoon,5-room,Rental Units,0
+2008,Serangoon,5-room,Sold Units,3751
+2008,Serangoon,Executive,Sold Units,2365
+2008,Serangoon,Studio Apartment,Rental Units,0
+2008,Serangoon,Studio Apartment,Sold Units,0
+2008,Serangoon,HUDC,Sold Units,244
+2008,Tampines,1-room,Rental Units,154
+2008,Tampines,1-room,Sold Units,0
+2008,Tampines,2-room,Rental Units,126
+2008,Tampines,2-room,Sold Units,4
+2008,Tampines,3-room,Rental Units,20
+2008,Tampines,3-room,Sold Units,12240
+2008,Tampines,4-room,Rental Units,0
+2008,Tampines,4-room,Sold Units,27093
+2008,Tampines,5-room,Rental Units,0
+2008,Tampines,5-room,Sold Units,16409
+2008,Tampines,Executive,Sold Units,5845
+2008,Tampines,Studio Apartment,Rental Units,0
+2008,Tampines,Studio Apartment,Sold Units,208
+2008,Tampines,HUDC,Sold Units,0
+2008,Toa Payoh,1-room,Rental Units,1170
+2008,Toa Payoh,1-room,Sold Units,0
+2008,Toa Payoh,2-room,Rental Units,2956
+2008,Toa Payoh,2-room,Sold Units,657
+2008,Toa Payoh,3-room,Rental Units,42
+2008,Toa Payoh,3-room,Sold Units,14897
+2008,Toa Payoh,4-room,Rental Units,0
+2008,Toa Payoh,4-room,Sold Units,9304
+2008,Toa Payoh,5-room,Rental Units,0
+2008,Toa Payoh,5-room,Sold Units,5209
+2008,Toa Payoh,Executive,Sold Units,853
+2008,Toa Payoh,Studio Apartment,Rental Units,0
+2008,Toa Payoh,Studio Apartment,Sold Units,156
+2008,Toa Payoh,HUDC,Sold Units,175
+2008,Woodlands,1-room,Rental Units,932
+2008,Woodlands,1-room,Sold Units,0
+2008,Woodlands,2-room,Rental Units,385
+2008,Woodlands,2-room,Sold Units,51
+2008,Woodlands,3-room,Rental Units,75
+2008,Woodlands,3-room,Sold Units,5380
+2008,Woodlands,4-room,Rental Units,154
+2008,Woodlands,4-room,Sold Units,25848
+2008,Woodlands,5-room,Rental Units,0
+2008,Woodlands,5-room,Sold Units,19010
+2008,Woodlands,Executive,Sold Units,6190
+2008,Woodlands,Studio Apartment,Rental Units,0
+2008,Woodlands,Studio Apartment,Sold Units,0
+2008,Woodlands,HUDC,Sold Units,0
+2008,Yishun,1-room,Rental Units,16
+2008,Yishun,1-room,Sold Units,0
+2008,Yishun,2-room,Rental Units,16
+2008,Yishun,2-room,Sold Units,0
+2008,Yishun,3-room,Rental Units,61
+2008,Yishun,3-room,Sold Units,13027
+2008,Yishun,4-room,Rental Units,2
+2008,Yishun,4-room,Sold Units,23301
+2008,Yishun,5-room,Rental Units,0
+2008,Yishun,5-room,Sold Units,7280
+2008,Yishun,Executive,Sold Units,2741
+2008,Yishun,Studio Apartment,Rental Units,0
+2008,Yishun,Studio Apartment,Sold Units,169
+2008,Yishun,HUDC,Sold Units,0
+2009,Ang Mo Kio,1-room,Rental Units,1318
+2009,Ang Mo Kio,1-room,Sold Units,0
+2009,Ang Mo Kio,2-room,Rental Units,2855
+2009,Ang Mo Kio,2-room,Sold Units,638
+2009,Ang Mo Kio,3-room,Rental Units,58
+2009,Ang Mo Kio,3-room,Sold Units,24439
+2009,Ang Mo Kio,4-room,Rental Units,3
+2009,Ang Mo Kio,4-room,Sold Units,13023
+2009,Ang Mo Kio,5-room,Rental Units,0
+2009,Ang Mo Kio,5-room,Sold Units,5252
+2009,Ang Mo Kio,Executive,Sold Units,482
+2009,Ang Mo Kio,Studio Apartment,Rental Units,0
+2009,Ang Mo Kio,Studio Apartment,Sold Units,0
+2009,Ang Mo Kio,HUDC,Sold Units,0
+2009,Bedok,1-room,Rental Units,2250
+2009,Bedok,1-room,Sold Units,0
+2009,Bedok,2-room,Rental Units,1145
+2009,Bedok,2-room,Sold Units,680
+2009,Bedok,3-room,Rental Units,19
+2009,Bedok,3-room,Sold Units,22344
+2009,Bedok,4-room,Rental Units,0
+2009,Bedok,4-room,Sold Units,19741
+2009,Bedok,5-room,Rental Units,0
+2009,Bedok,5-room,Sold Units,10180
+2009,Bedok,Executive,Sold Units,2712
+2009,Bedok,Studio Apartment,Rental Units,0
+2009,Bedok,Studio Apartment,Sold Units,130
+2009,Bedok,HUDC,Sold Units,0
+2009,Bishan,1-room,Rental Units,396
+2009,Bishan,1-room,Sold Units,0
+2009,Bishan,2-room,Rental Units,0
+2009,Bishan,2-room,Sold Units,0
+2009,Bishan,3-room,Rental Units,0
+2009,Bishan,3-room,Sold Units,2359
+2009,Bishan,4-room,Rental Units,0
+2009,Bishan,4-room,Sold Units,9199
+2009,Bishan,5-room,Rental Units,0
+2009,Bishan,5-room,Sold Units,5395
+2009,Bishan,Executive,Sold Units,1660
+2009,Bishan,Studio Apartment,Rental Units,0
+2009,Bishan,Studio Apartment,Sold Units,0
+2009,Bishan,HUDC,Sold Units,358
+2009,Bukit Batok,1-room,Rental Units,20
+2009,Bukit Batok,1-room,Sold Units,0
+2009,Bukit Batok,2-room,Rental Units,20
+2009,Bukit Batok,2-room,Sold Units,0
+2009,Bukit Batok,3-room,Rental Units,5
+2009,Bukit Batok,3-room,Sold Units,10272
+2009,Bukit Batok,4-room,Rental Units,0
+2009,Bukit Batok,4-room,Sold Units,13850
+2009,Bukit Batok,5-room,Rental Units,0
+2009,Bukit Batok,5-room,Sold Units,4832
+2009,Bukit Batok,Executive,Sold Units,2732
+2009,Bukit Batok,Studio Apartment,Rental Units,0
+2009,Bukit Batok,Studio Apartment,Sold Units,0
+2009,Bukit Batok,HUDC,Sold Units,0
+2009,Bukit Merah,1-room,Rental Units,4473
+2009,Bukit Merah,1-room,Sold Units,258
+2009,Bukit Merah,2-room,Rental Units,4980
+2009,Bukit Merah,2-room,Sold Units,1018
+2009,Bukit Merah,3-room,Rental Units,195
+2009,Bukit Merah,3-room,Sold Units,16041
+2009,Bukit Merah,4-room,Rental Units,96
+2009,Bukit Merah,4-room,Sold Units,13832
+2009,Bukit Merah,5-room,Rental Units,0
+2009,Bukit Merah,5-room,Sold Units,9098
+2009,Bukit Merah,Executive,Sold Units,44
+2009,Bukit Merah,Studio Apartment,Rental Units,0
+2009,Bukit Merah,Studio Apartment,Sold Units,212
+2009,Bukit Merah,HUDC,Sold Units,0
+2009,Bukit Panjang,1-room,Rental Units,0
+2009,Bukit Panjang,1-room,Sold Units,0
+2009,Bukit Panjang,2-room,Rental Units,0
+2009,Bukit Panjang,2-room,Sold Units,0
+2009,Bukit Panjang,3-room,Rental Units,0
+2009,Bukit Panjang,3-room,Sold Units,2620
+2009,Bukit Panjang,4-room,Rental Units,0
+2009,Bukit Panjang,4-room,Sold Units,13980
+2009,Bukit Panjang,5-room,Rental Units,0
+2009,Bukit Panjang,5-room,Sold Units,9517
+2009,Bukit Panjang,Executive,Sold Units,3381
+2009,Bukit Panjang,Studio Apartment,Rental Units,0
+2009,Bukit Panjang,Studio Apartment,Sold Units,0
+2009,Bukit Panjang,HUDC,Sold Units,0
+2009,Bukit Timah,1-room,Rental Units,0
+2009,Bukit Timah,1-room,Sold Units,0
+2009,Bukit Timah,2-room,Rental Units,0
+2009,Bukit Timah,2-room,Sold Units,0
+2009,Bukit Timah,3-room,Rental Units,0
+2009,Bukit Timah,3-room,Sold Units,441
+2009,Bukit Timah,4-room,Rental Units,0
+2009,Bukit Timah,4-room,Sold Units,920
+2009,Bukit Timah,5-room,Rental Units,0
+2009,Bukit Timah,5-room,Sold Units,682
+2009,Bukit Timah,Executive,Sold Units,380
+2009,Bukit Timah,Studio Apartment,Rental Units,0
+2009,Bukit Timah,Studio Apartment,Sold Units,0
+2009,Bukit Timah,HUDC,Sold Units,0
+2009,Central Area,1-room,Rental Units,2073
+2009,Central Area,1-room,Sold Units,0
+2009,Central Area,2-room,Rental Units,971
+2009,Central Area,2-room,Sold Units,345
+2009,Central Area,3-room,Rental Units,53
+2009,Central Area,3-room,Sold Units,4693
+2009,Central Area,4-room,Rental Units,14
+2009,Central Area,4-room,Sold Units,3514
+2009,Central Area,5-room,Rental Units,0
+2009,Central Area,5-room,Sold Units,901
+2009,Central Area,Executive,Sold Units,9
+2009,Central Area,Studio Apartment,Rental Units,0
+2009,Central Area,Studio Apartment,Sold Units,0
+2009,Central Area,HUDC,Sold Units,38
+2009,Choa Chu Kang,1-room,Rental Units,182
+2009,Choa Chu Kang,1-room,Sold Units,0
+2009,Choa Chu Kang,2-room,Rental Units,396
+2009,Choa Chu Kang,2-room,Sold Units,0
+2009,Choa Chu Kang,3-room,Rental Units,0
+2009,Choa Chu Kang,3-room,Sold Units,1312
+2009,Choa Chu Kang,4-room,Rental Units,0
+2009,Choa Chu Kang,4-room,Sold Units,19437
+2009,Choa Chu Kang,5-room,Rental Units,0
+2009,Choa Chu Kang,5-room,Sold Units,13422
+2009,Choa Chu Kang,Executive,Sold Units,4762
+2009,Choa Chu Kang,Studio Apartment,Rental Units,0
+2009,Choa Chu Kang,Studio Apartment,Sold Units,0
+2009,Choa Chu Kang,HUDC,Sold Units,0
+2009,Clementi,1-room,Rental Units,454
+2009,Clementi,1-room,Sold Units,0
+2009,Clementi,2-room,Rental Units,479
+2009,Clementi,2-room,Sold Units,41
+2009,Clementi,3-room,Rental Units,60
+2009,Clementi,3-room,Sold Units,12127
+2009,Clementi,4-room,Rental Units,0
+2009,Clementi,4-room,Sold Units,7677
+2009,Clementi,5-room,Rental Units,0
+2009,Clementi,5-room,Sold Units,2409
+2009,Clementi,Executive,Sold Units,624
+2009,Clementi,Studio Apartment,Rental Units,0
+2009,Clementi,Studio Apartment,Sold Units,0
+2009,Clementi,HUDC,Sold Units,0
+2009,Geylang,1-room,Rental Units,1044
+2009,Geylang,1-room,Sold Units,0
+2009,Geylang,2-room,Rental Units,2400
+2009,Geylang,2-room,Sold Units,751
+2009,Geylang,3-room,Rental Units,533
+2009,Geylang,3-room,Sold Units,11456
+2009,Geylang,4-room,Rental Units,0
+2009,Geylang,4-room,Sold Units,9457
+2009,Geylang,5-room,Rental Units,0
+2009,Geylang,5-room,Sold Units,3601
+2009,Geylang,Executive,Sold Units,831
+2009,Geylang,Studio Apartment,Rental Units,0
+2009,Geylang,Studio Apartment,Sold Units,107
+2009,Geylang,HUDC,Sold Units,330
+2009,Hougang,1-room,Rental Units,34
+2009,Hougang,1-room,Sold Units,0
+2009,Hougang,2-room,Rental Units,315
+2009,Hougang,2-room,Sold Units,0
+2009,Hougang,3-room,Rental Units,230
+2009,Hougang,3-room,Sold Units,9219
+2009,Hougang,4-room,Rental Units,6
+2009,Hougang,4-room,Sold Units,23160
+2009,Hougang,5-room,Rental Units,0
+2009,Hougang,5-room,Sold Units,9923
+2009,Hougang,Executive,Sold Units,4310
+2009,Hougang,Studio Apartment,Rental Units,0
+2009,Hougang,Studio Apartment,Sold Units,0
+2009,Hougang,HUDC,Sold Units,622
+2009,Jurong East,1-room,Rental Units,0
+2009,Jurong East,1-room,Sold Units,0
+2009,Jurong East,2-room,Rental Units,0
+2009,Jurong East,2-room,Sold Units,0
+2009,Jurong East,3-room,Rental Units,76
+2009,Jurong East,3-room,Sold Units,6977
+2009,Jurong East,4-room,Rental Units,0
+2009,Jurong East,4-room,Sold Units,7333
+2009,Jurong East,5-room,Rental Units,0
+2009,Jurong East,5-room,Sold Units,5899
+2009,Jurong East,Executive,Sold Units,1871
+2009,Jurong East,Studio Apartment,Rental Units,0
+2009,Jurong East,Studio Apartment,Sold Units,143
+2009,Jurong East,HUDC,Sold Units,0
+2009,Jurong West,1-room,Rental Units,84
+2009,Jurong West,1-room,Sold Units,0
+2009,Jurong West,2-room,Rental Units,1049
+2009,Jurong West,2-room,Sold Units,221
+2009,Jurong West,3-room,Rental Units,1082
+2009,Jurong West,3-room,Sold Units,11502
+2009,Jurong West,4-room,Rental Units,1
+2009,Jurong West,4-room,Sold Units,27455
+2009,Jurong West,5-room,Rental Units,0
+2009,Jurong West,5-room,Sold Units,20860
+2009,Jurong West,Executive,Sold Units,6506
+2009,Jurong West,Studio Apartment,Rental Units,0
+2009,Jurong West,Studio Apartment,Sold Units,0
+2009,Jurong West,HUDC,Sold Units,0
+2009,Kallang/Whampoa,1-room,Rental Units,4401
+2009,Kallang/Whampoa,1-room,Sold Units,0
+2009,Kallang/Whampoa,2-room,Rental Units,2024
+2009,Kallang/Whampoa,2-room,Sold Units,445
+2009,Kallang/Whampoa,3-room,Rental Units,54
+2009,Kallang/Whampoa,3-room,Sold Units,12936
+2009,Kallang/Whampoa,4-room,Rental Units,3
+2009,Kallang/Whampoa,4-room,Sold Units,9080
+2009,Kallang/Whampoa,5-room,Rental Units,0
+2009,Kallang/Whampoa,5-room,Sold Units,4843
+2009,Kallang/Whampoa,Executive,Sold Units,502
+2009,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2009,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2009,Kallang/Whampoa,HUDC,Sold Units,0
+2009,Marine Parade,1-room,Rental Units,0
+2009,Marine Parade,1-room,Sold Units,0
+2009,Marine Parade,2-room,Rental Units,1324
+2009,Marine Parade,2-room,Sold Units,26
+2009,Marine Parade,3-room,Rental Units,2
+2009,Marine Parade,3-room,Sold Units,3039
+2009,Marine Parade,4-room,Rental Units,0
+2009,Marine Parade,4-room,Sold Units,1798
+2009,Marine Parade,5-room,Rental Units,0
+2009,Marine Parade,5-room,Sold Units,1675
+2009,Marine Parade,Executive,Sold Units,0
+2009,Marine Parade,Studio Apartment,Rental Units,0
+2009,Marine Parade,Studio Apartment,Sold Units,0
+2009,Marine Parade,HUDC,Sold Units,0
+2009,Pasir Ris,1-room,Rental Units,0
+2009,Pasir Ris,1-room,Sold Units,0
+2009,Pasir Ris,2-room,Rental Units,0
+2009,Pasir Ris,2-room,Sold Units,21
+2009,Pasir Ris,3-room,Rental Units,3
+2009,Pasir Ris,3-room,Sold Units,161
+2009,Pasir Ris,4-room,Rental Units,0
+2009,Pasir Ris,4-room,Sold Units,10716
+2009,Pasir Ris,5-room,Rental Units,0
+2009,Pasir Ris,5-room,Sold Units,9055
+2009,Pasir Ris,Executive,Sold Units,7460
+2009,Pasir Ris,Studio Apartment,Rental Units,0
+2009,Pasir Ris,Studio Apartment,Sold Units,0
+2009,Pasir Ris,HUDC,Sold Units,98
+2009,Punggol,1-room,Rental Units,416
+2009,Punggol,1-room,Sold Units,0
+2009,Punggol,2-room,Rental Units,96
+2009,Punggol,2-room,Sold Units,0
+2009,Punggol,3-room,Rental Units,0
+2009,Punggol,3-room,Sold Units,0
+2009,Punggol,4-room,Rental Units,0
+2009,Punggol,4-room,Sold Units,6069
+2009,Punggol,5-room,Rental Units,0
+2009,Punggol,5-room,Sold Units,10273
+2009,Punggol,Executive,Sold Units,1126
+2009,Punggol,Studio Apartment,Rental Units,0
+2009,Punggol,Studio Apartment,Sold Units,0
+2009,Punggol,HUDC,Sold Units,0
+2009,Queenstown,1-room,Rental Units,575
+2009,Queenstown,1-room,Sold Units,0
+2009,Queenstown,2-room,Rental Units,1699
+2009,Queenstown,2-room,Sold Units,1311
+2009,Queenstown,3-room,Rental Units,155
+2009,Queenstown,3-room,Sold Units,15477
+2009,Queenstown,4-room,Rental Units,0
+2009,Queenstown,4-room,Sold Units,6706
+2009,Queenstown,5-room,Rental Units,0
+2009,Queenstown,5-room,Sold Units,3416
+2009,Queenstown,Executive,Sold Units,359
+2009,Queenstown,Studio Apartment,Rental Units,0
+2009,Queenstown,Studio Apartment,Sold Units,114
+2009,Queenstown,HUDC,Sold Units,0
+2009,Sembawang,1-room,Rental Units,169
+2009,Sembawang,1-room,Sold Units,0
+2009,Sembawang,2-room,Rental Units,67
+2009,Sembawang,2-room,Sold Units,50
+2009,Sembawang,3-room,Rental Units,0
+2009,Sembawang,3-room,Sold Units,0
+2009,Sembawang,4-room,Rental Units,0
+2009,Sembawang,4-room,Sold Units,7709
+2009,Sembawang,5-room,Rental Units,0
+2009,Sembawang,5-room,Sold Units,7556
+2009,Sembawang,Executive,Sold Units,2870
+2009,Sembawang,Studio Apartment,Rental Units,0
+2009,Sembawang,Studio Apartment,Sold Units,0
+2009,Sembawang,HUDC,Sold Units,0
+2009,Sengkang,1-room,Rental Units,0
+2009,Sengkang,1-room,Sold Units,0
+2009,Sengkang,2-room,Rental Units,0
+2009,Sengkang,2-room,Sold Units,170
+2009,Sengkang,3-room,Rental Units,0
+2009,Sengkang,3-room,Sold Units,543
+2009,Sengkang,4-room,Rental Units,0
+2009,Sengkang,4-room,Sold Units,19357
+2009,Sengkang,5-room,Rental Units,0
+2009,Sengkang,5-room,Sold Units,19316
+2009,Sengkang,Executive,Sold Units,4462
+2009,Sengkang,Studio Apartment,Rental Units,0
+2009,Sengkang,Studio Apartment,Sold Units,0
+2009,Sengkang,HUDC,Sold Units,0
+2009,Serangoon,1-room,Rental Units,0
+2009,Serangoon,1-room,Sold Units,0
+2009,Serangoon,2-room,Rental Units,77
+2009,Serangoon,2-room,Sold Units,77
+2009,Serangoon,3-room,Rental Units,0
+2009,Serangoon,3-room,Sold Units,4547
+2009,Serangoon,4-room,Rental Units,0
+2009,Serangoon,4-room,Sold Units,10231
+2009,Serangoon,5-room,Rental Units,0
+2009,Serangoon,5-room,Sold Units,3751
+2009,Serangoon,Executive,Sold Units,2365
+2009,Serangoon,Studio Apartment,Rental Units,0
+2009,Serangoon,Studio Apartment,Sold Units,0
+2009,Serangoon,HUDC,Sold Units,244
+2009,Tampines,1-room,Rental Units,352
+2009,Tampines,1-room,Sold Units,0
+2009,Tampines,2-room,Rental Units,198
+2009,Tampines,2-room,Sold Units,4
+2009,Tampines,3-room,Rental Units,19
+2009,Tampines,3-room,Sold Units,12241
+2009,Tampines,4-room,Rental Units,0
+2009,Tampines,4-room,Sold Units,27093
+2009,Tampines,5-room,Rental Units,0
+2009,Tampines,5-room,Sold Units,16409
+2009,Tampines,Executive,Sold Units,5845
+2009,Tampines,Studio Apartment,Rental Units,0
+2009,Tampines,Studio Apartment,Sold Units,208
+2009,Tampines,HUDC,Sold Units,0
+2009,Toa Payoh,1-room,Rental Units,1170
+2009,Toa Payoh,1-room,Sold Units,0
+2009,Toa Payoh,2-room,Rental Units,2899
+2009,Toa Payoh,2-room,Sold Units,714
+2009,Toa Payoh,3-room,Rental Units,38
+2009,Toa Payoh,3-room,Sold Units,14899
+2009,Toa Payoh,4-room,Rental Units,0
+2009,Toa Payoh,4-room,Sold Units,9304
+2009,Toa Payoh,5-room,Rental Units,0
+2009,Toa Payoh,5-room,Sold Units,5210
+2009,Toa Payoh,Executive,Sold Units,853
+2009,Toa Payoh,Studio Apartment,Rental Units,0
+2009,Toa Payoh,Studio Apartment,Sold Units,156
+2009,Toa Payoh,HUDC,Sold Units,175
+2009,Woodlands,1-room,Rental Units,1312
+2009,Woodlands,1-room,Sold Units,0
+2009,Woodlands,2-room,Rental Units,504
+2009,Woodlands,2-room,Sold Units,52
+2009,Woodlands,3-room,Rental Units,74
+2009,Woodlands,3-room,Sold Units,5381
+2009,Woodlands,4-room,Rental Units,154
+2009,Woodlands,4-room,Sold Units,25848
+2009,Woodlands,5-room,Rental Units,0
+2009,Woodlands,5-room,Sold Units,19010
+2009,Woodlands,Executive,Sold Units,6190
+2009,Woodlands,Studio Apartment,Rental Units,0
+2009,Woodlands,Studio Apartment,Sold Units,0
+2009,Woodlands,HUDC,Sold Units,0
+2009,Yishun,1-room,Rental Units,236
+2009,Yishun,1-room,Sold Units,0
+2009,Yishun,2-room,Rental Units,82
+2009,Yishun,2-room,Sold Units,66
+2009,Yishun,3-room,Rental Units,58
+2009,Yishun,3-room,Sold Units,13030
+2009,Yishun,4-room,Rental Units,2
+2009,Yishun,4-room,Sold Units,23301
+2009,Yishun,5-room,Rental Units,0
+2009,Yishun,5-room,Sold Units,7280
+2009,Yishun,Executive,Sold Units,2741
+2009,Yishun,Studio Apartment,Rental Units,0
+2009,Yishun,Studio Apartment,Sold Units,169
+2009,Yishun,HUDC,Sold Units,0
+2010,Ang Mo Kio,1-room,Rental Units,1318
+2010,Ang Mo Kio,1-room,Sold Units,0
+2010,Ang Mo Kio,2-room,Rental Units,2855
+2010,Ang Mo Kio,2-room,Sold Units,638
+2010,Ang Mo Kio,3-room,Rental Units,44
+2010,Ang Mo Kio,3-room,Sold Units,24677
+2010,Ang Mo Kio,4-room,Rental Units,2
+2010,Ang Mo Kio,4-room,Sold Units,13433
+2010,Ang Mo Kio,5-room,Rental Units,0
+2010,Ang Mo Kio,5-room,Sold Units,5368
+2010,Ang Mo Kio,Executive,Sold Units,484
+2010,Ang Mo Kio,Studio Apartment,Rental Units,0
+2010,Ang Mo Kio,Studio Apartment,Sold Units,136
+2010,Ang Mo Kio,HUDC,Sold Units,0
+2010,Bedok,1-room,Rental Units,2250
+2010,Bedok,1-room,Sold Units,0
+2010,Bedok,2-room,Rental Units,1145
+2010,Bedok,2-room,Sold Units,680
+2010,Bedok,3-room,Rental Units,12
+2010,Bedok,3-room,Sold Units,22347
+2010,Bedok,4-room,Rental Units,0
+2010,Bedok,4-room,Sold Units,19741
+2010,Bedok,5-room,Rental Units,0
+2010,Bedok,5-room,Sold Units,10182
+2010,Bedok,Executive,Sold Units,2712
+2010,Bedok,Studio Apartment,Rental Units,0
+2010,Bedok,Studio Apartment,Sold Units,130
+2010,Bedok,HUDC,Sold Units,0
+2010,Bishan,1-room,Rental Units,396
+2010,Bishan,1-room,Sold Units,0
+2010,Bishan,2-room,Rental Units,0
+2010,Bishan,2-room,Sold Units,0
+2010,Bishan,3-room,Rental Units,0
+2010,Bishan,3-room,Sold Units,2359
+2010,Bishan,4-room,Rental Units,0
+2010,Bishan,4-room,Sold Units,9199
+2010,Bishan,5-room,Rental Units,0
+2010,Bishan,5-room,Sold Units,5395
+2010,Bishan,Executive,Sold Units,1660
+2010,Bishan,Studio Apartment,Rental Units,0
+2010,Bishan,Studio Apartment,Sold Units,176
+2010,Bishan,HUDC,Sold Units,358
+2010,Bukit Batok,1-room,Rental Units,20
+2010,Bukit Batok,1-room,Sold Units,0
+2010,Bukit Batok,2-room,Rental Units,20
+2010,Bukit Batok,2-room,Sold Units,0
+2010,Bukit Batok,3-room,Rental Units,2
+2010,Bukit Batok,3-room,Sold Units,10275
+2010,Bukit Batok,4-room,Rental Units,0
+2010,Bukit Batok,4-room,Sold Units,13850
+2010,Bukit Batok,5-room,Rental Units,0
+2010,Bukit Batok,5-room,Sold Units,4832
+2010,Bukit Batok,Executive,Sold Units,2732
+2010,Bukit Batok,Studio Apartment,Rental Units,0
+2010,Bukit Batok,Studio Apartment,Sold Units,0
+2010,Bukit Batok,HUDC,Sold Units,0
+2010,Bukit Merah,1-room,Rental Units,4473
+2010,Bukit Merah,1-room,Sold Units,258
+2010,Bukit Merah,2-room,Rental Units,4979
+2010,Bukit Merah,2-room,Sold Units,1019
+2010,Bukit Merah,3-room,Rental Units,186
+2010,Bukit Merah,3-room,Sold Units,16050
+2010,Bukit Merah,4-room,Rental Units,96
+2010,Bukit Merah,4-room,Sold Units,13832
+2010,Bukit Merah,5-room,Rental Units,0
+2010,Bukit Merah,5-room,Sold Units,9098
+2010,Bukit Merah,Executive,Sold Units,44
+2010,Bukit Merah,Studio Apartment,Rental Units,0
+2010,Bukit Merah,Studio Apartment,Sold Units,212
+2010,Bukit Merah,HUDC,Sold Units,0
+2010,Bukit Panjang,1-room,Rental Units,114
+2010,Bukit Panjang,1-room,Sold Units,0
+2010,Bukit Panjang,2-room,Rental Units,20
+2010,Bukit Panjang,2-room,Sold Units,0
+2010,Bukit Panjang,3-room,Rental Units,0
+2010,Bukit Panjang,3-room,Sold Units,2695
+2010,Bukit Panjang,4-room,Rental Units,0
+2010,Bukit Panjang,4-room,Sold Units,14227
+2010,Bukit Panjang,5-room,Rental Units,0
+2010,Bukit Panjang,5-room,Sold Units,9517
+2010,Bukit Panjang,Executive,Sold Units,3381
+2010,Bukit Panjang,Studio Apartment,Rental Units,0
+2010,Bukit Panjang,Studio Apartment,Sold Units,0
+2010,Bukit Panjang,HUDC,Sold Units,0
+2010,Bukit Timah,1-room,Rental Units,0
+2010,Bukit Timah,1-room,Sold Units,0
+2010,Bukit Timah,2-room,Rental Units,0
+2010,Bukit Timah,2-room,Sold Units,0
+2010,Bukit Timah,3-room,Rental Units,0
+2010,Bukit Timah,3-room,Sold Units,441
+2010,Bukit Timah,4-room,Rental Units,0
+2010,Bukit Timah,4-room,Sold Units,920
+2010,Bukit Timah,5-room,Rental Units,0
+2010,Bukit Timah,5-room,Sold Units,682
+2010,Bukit Timah,Executive,Sold Units,380
+2010,Bukit Timah,Studio Apartment,Rental Units,0
+2010,Bukit Timah,Studio Apartment,Sold Units,0
+2010,Bukit Timah,HUDC,Sold Units,0
+2010,Central Area,1-room,Rental Units,2073
+2010,Central Area,1-room,Sold Units,0
+2010,Central Area,2-room,Rental Units,971
+2010,Central Area,2-room,Sold Units,345
+2010,Central Area,3-room,Rental Units,53
+2010,Central Area,3-room,Sold Units,4691
+2010,Central Area,4-room,Rental Units,14
+2010,Central Area,4-room,Sold Units,3514
+2010,Central Area,5-room,Rental Units,0
+2010,Central Area,5-room,Sold Units,902
+2010,Central Area,Executive,Sold Units,9
+2010,Central Area,Studio Apartment,Rental Units,0
+2010,Central Area,Studio Apartment,Sold Units,0
+2010,Central Area,HUDC,Sold Units,38
+2010,Choa Chu Kang,1-room,Rental Units,182
+2010,Choa Chu Kang,1-room,Sold Units,0
+2010,Choa Chu Kang,2-room,Rental Units,396
+2010,Choa Chu Kang,2-room,Sold Units,78
+2010,Choa Chu Kang,3-room,Rental Units,0
+2010,Choa Chu Kang,3-room,Sold Units,1364
+2010,Choa Chu Kang,4-room,Rental Units,0
+2010,Choa Chu Kang,4-room,Sold Units,19437
+2010,Choa Chu Kang,5-room,Rental Units,0
+2010,Choa Chu Kang,5-room,Sold Units,13422
+2010,Choa Chu Kang,Executive,Sold Units,4762
+2010,Choa Chu Kang,Studio Apartment,Rental Units,0
+2010,Choa Chu Kang,Studio Apartment,Sold Units,0
+2010,Choa Chu Kang,HUDC,Sold Units,0
+2010,Clementi,1-room,Rental Units,454
+2010,Clementi,1-room,Sold Units,0
+2010,Clementi,2-room,Rental Units,479
+2010,Clementi,2-room,Sold Units,41
+2010,Clementi,3-room,Rental Units,55
+2010,Clementi,3-room,Sold Units,12128
+2010,Clementi,4-room,Rental Units,0
+2010,Clementi,4-room,Sold Units,7743
+2010,Clementi,5-room,Rental Units,0
+2010,Clementi,5-room,Sold Units,2476
+2010,Clementi,Executive,Sold Units,625
+2010,Clementi,Studio Apartment,Rental Units,0
+2010,Clementi,Studio Apartment,Sold Units,0
+2010,Clementi,HUDC,Sold Units,0
+2010,Geylang,1-room,Rental Units,1044
+2010,Geylang,1-room,Sold Units,0
+2010,Geylang,2-room,Rental Units,2399
+2010,Geylang,2-room,Sold Units,752
+2010,Geylang,3-room,Rental Units,528
+2010,Geylang,3-room,Sold Units,11459
+2010,Geylang,4-room,Rental Units,0
+2010,Geylang,4-room,Sold Units,9811
+2010,Geylang,5-room,Rental Units,0
+2010,Geylang,5-room,Sold Units,3602
+2010,Geylang,Executive,Sold Units,831
+2010,Geylang,Studio Apartment,Rental Units,0
+2010,Geylang,Studio Apartment,Sold Units,107
+2010,Geylang,HUDC,Sold Units,330
+2010,Hougang,1-room,Rental Units,334
+2010,Hougang,1-room,Sold Units,0
+2010,Hougang,2-room,Rental Units,405
+2010,Hougang,2-room,Sold Units,140
+2010,Hougang,3-room,Rental Units,228
+2010,Hougang,3-room,Sold Units,9359
+2010,Hougang,4-room,Rental Units,6
+2010,Hougang,4-room,Sold Units,23160
+2010,Hougang,5-room,Rental Units,0
+2010,Hougang,5-room,Sold Units,9924
+2010,Hougang,Executive,Sold Units,4310
+2010,Hougang,Studio Apartment,Rental Units,0
+2010,Hougang,Studio Apartment,Sold Units,0
+2010,Hougang,HUDC,Sold Units,622
+2010,Jurong East,1-room,Rental Units,0
+2010,Jurong East,1-room,Sold Units,0
+2010,Jurong East,2-room,Rental Units,0
+2010,Jurong East,2-room,Sold Units,0
+2010,Jurong East,3-room,Rental Units,56
+2010,Jurong East,3-room,Sold Units,6997
+2010,Jurong East,4-room,Rental Units,0
+2010,Jurong East,4-room,Sold Units,7333
+2010,Jurong East,5-room,Rental Units,0
+2010,Jurong East,5-room,Sold Units,5899
+2010,Jurong East,Executive,Sold Units,1871
+2010,Jurong East,Studio Apartment,Rental Units,0
+2010,Jurong East,Studio Apartment,Sold Units,143
+2010,Jurong East,HUDC,Sold Units,0
+2010,Jurong West,1-room,Rental Units,540
+2010,Jurong West,1-room,Sold Units,0
+2010,Jurong West,2-room,Rental Units,1169
+2010,Jurong West,2-room,Sold Units,221
+2010,Jurong West,3-room,Rental Units,749
+2010,Jurong West,3-room,Sold Units,11832
+2010,Jurong West,4-room,Rental Units,0
+2010,Jurong West,4-room,Sold Units,27627
+2010,Jurong West,5-room,Rental Units,0
+2010,Jurong West,5-room,Sold Units,20898
+2010,Jurong West,Executive,Sold Units,6506
+2010,Jurong West,Studio Apartment,Rental Units,0
+2010,Jurong West,Studio Apartment,Sold Units,97
+2010,Jurong West,HUDC,Sold Units,0
+2010,Kallang/Whampoa,1-room,Rental Units,4401
+2010,Kallang/Whampoa,1-room,Sold Units,0
+2010,Kallang/Whampoa,2-room,Rental Units,2024
+2010,Kallang/Whampoa,2-room,Sold Units,445
+2010,Kallang/Whampoa,3-room,Rental Units,48
+2010,Kallang/Whampoa,3-room,Sold Units,13419
+2010,Kallang/Whampoa,4-room,Rental Units,3
+2010,Kallang/Whampoa,4-room,Sold Units,9846
+2010,Kallang/Whampoa,5-room,Rental Units,0
+2010,Kallang/Whampoa,5-room,Sold Units,5368
+2010,Kallang/Whampoa,Executive,Sold Units,502
+2010,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2010,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2010,Kallang/Whampoa,HUDC,Sold Units,0
+2010,Marine Parade,1-room,Rental Units,0
+2010,Marine Parade,1-room,Sold Units,0
+2010,Marine Parade,2-room,Rental Units,1324
+2010,Marine Parade,2-room,Sold Units,26
+2010,Marine Parade,3-room,Rental Units,2
+2010,Marine Parade,3-room,Sold Units,3039
+2010,Marine Parade,4-room,Rental Units,0
+2010,Marine Parade,4-room,Sold Units,1798
+2010,Marine Parade,5-room,Rental Units,0
+2010,Marine Parade,5-room,Sold Units,1675
+2010,Marine Parade,Executive,Sold Units,0
+2010,Marine Parade,Studio Apartment,Rental Units,0
+2010,Marine Parade,Studio Apartment,Sold Units,0
+2010,Marine Parade,HUDC,Sold Units,0
+2010,Pasir Ris,1-room,Rental Units,0
+2010,Pasir Ris,1-room,Sold Units,0
+2010,Pasir Ris,2-room,Rental Units,0
+2010,Pasir Ris,2-room,Sold Units,21
+2010,Pasir Ris,3-room,Rental Units,3
+2010,Pasir Ris,3-room,Sold Units,161
+2010,Pasir Ris,4-room,Rental Units,0
+2010,Pasir Ris,4-room,Sold Units,10716
+2010,Pasir Ris,5-room,Rental Units,0
+2010,Pasir Ris,5-room,Sold Units,9055
+2010,Pasir Ris,Executive,Sold Units,7460
+2010,Pasir Ris,Studio Apartment,Rental Units,0
+2010,Pasir Ris,Studio Apartment,Sold Units,0
+2010,Pasir Ris,HUDC,Sold Units,98
+2010,Punggol,1-room,Rental Units,416
+2010,Punggol,1-room,Sold Units,0
+2010,Punggol,2-room,Rental Units,96
+2010,Punggol,2-room,Sold Units,105
+2010,Punggol,3-room,Rental Units,0
+2010,Punggol,3-room,Sold Units,422
+2010,Punggol,4-room,Rental Units,0
+2010,Punggol,4-room,Sold Units,8066
+2010,Punggol,5-room,Rental Units,0
+2010,Punggol,5-room,Sold Units,10287
+2010,Punggol,Executive,Sold Units,1126
+2010,Punggol,Studio Apartment,Rental Units,0
+2010,Punggol,Studio Apartment,Sold Units,0
+2010,Punggol,HUDC,Sold Units,0
+2010,Queenstown,1-room,Rental Units,575
+2010,Queenstown,1-room,Sold Units,0
+2010,Queenstown,2-room,Rental Units,1699
+2010,Queenstown,2-room,Sold Units,1311
+2010,Queenstown,3-room,Rental Units,138
+2010,Queenstown,3-room,Sold Units,14998
+2010,Queenstown,4-room,Rental Units,0
+2010,Queenstown,4-room,Sold Units,7193
+2010,Queenstown,5-room,Rental Units,0
+2010,Queenstown,5-room,Sold Units,3674
+2010,Queenstown,Executive,Sold Units,354
+2010,Queenstown,Studio Apartment,Rental Units,0
+2010,Queenstown,Studio Apartment,Sold Units,266
+2010,Queenstown,HUDC,Sold Units,0
+2010,Sembawang,1-room,Rental Units,169
+2010,Sembawang,1-room,Sold Units,0
+2010,Sembawang,2-room,Rental Units,67
+2010,Sembawang,2-room,Sold Units,50
+2010,Sembawang,3-room,Rental Units,0
+2010,Sembawang,3-room,Sold Units,0
+2010,Sembawang,4-room,Rental Units,0
+2010,Sembawang,4-room,Sold Units,7709
+2010,Sembawang,5-room,Rental Units,0
+2010,Sembawang,5-room,Sold Units,7556
+2010,Sembawang,Executive,Sold Units,2870
+2010,Sembawang,Studio Apartment,Rental Units,0
+2010,Sembawang,Studio Apartment,Sold Units,0
+2010,Sembawang,HUDC,Sold Units,0
+2010,Sengkang,1-room,Rental Units,0
+2010,Sengkang,1-room,Sold Units,0
+2010,Sengkang,2-room,Rental Units,0
+2010,Sengkang,2-room,Sold Units,394
+2010,Sengkang,3-room,Rental Units,0
+2010,Sengkang,3-room,Sold Units,829
+2010,Sengkang,4-room,Rental Units,0
+2010,Sengkang,4-room,Sold Units,21021
+2010,Sengkang,5-room,Rental Units,0
+2010,Sengkang,5-room,Sold Units,19316
+2010,Sengkang,Executive,Sold Units,4462
+2010,Sengkang,Studio Apartment,Rental Units,0
+2010,Sengkang,Studio Apartment,Sold Units,0
+2010,Sengkang,HUDC,Sold Units,0
+2010,Serangoon,1-room,Rental Units,0
+2010,Serangoon,1-room,Sold Units,0
+2010,Serangoon,2-room,Rental Units,77
+2010,Serangoon,2-room,Sold Units,77
+2010,Serangoon,3-room,Rental Units,0
+2010,Serangoon,3-room,Sold Units,4545
+2010,Serangoon,4-room,Rental Units,0
+2010,Serangoon,4-room,Sold Units,10231
+2010,Serangoon,5-room,Rental Units,0
+2010,Serangoon,5-room,Sold Units,3752
+2010,Serangoon,Executive,Sold Units,2365
+2010,Serangoon,Studio Apartment,Rental Units,0
+2010,Serangoon,Studio Apartment,Sold Units,0
+2010,Serangoon,HUDC,Sold Units,244
+2010,Tampines,1-room,Rental Units,352
+2010,Tampines,1-room,Sold Units,0
+2010,Tampines,2-room,Rental Units,198
+2010,Tampines,2-room,Sold Units,58
+2010,Tampines,3-room,Rental Units,18
+2010,Tampines,3-room,Sold Units,12296
+2010,Tampines,4-room,Rental Units,0
+2010,Tampines,4-room,Sold Units,27213
+2010,Tampines,5-room,Rental Units,0
+2010,Tampines,5-room,Sold Units,16649
+2010,Tampines,Executive,Sold Units,5845
+2010,Tampines,Studio Apartment,Rental Units,0
+2010,Tampines,Studio Apartment,Sold Units,208
+2010,Tampines,HUDC,Sold Units,0
+2010,Toa Payoh,1-room,Rental Units,1170
+2010,Toa Payoh,1-room,Sold Units,0
+2010,Toa Payoh,2-room,Rental Units,2898
+2010,Toa Payoh,2-room,Sold Units,715
+2010,Toa Payoh,3-room,Rental Units,37
+2010,Toa Payoh,3-room,Sold Units,14892
+2010,Toa Payoh,4-room,Rental Units,0
+2010,Toa Payoh,4-room,Sold Units,9304
+2010,Toa Payoh,5-room,Rental Units,0
+2010,Toa Payoh,5-room,Sold Units,5214
+2010,Toa Payoh,Executive,Sold Units,853
+2010,Toa Payoh,Studio Apartment,Rental Units,0
+2010,Toa Payoh,Studio Apartment,Sold Units,156
+2010,Toa Payoh,HUDC,Sold Units,175
+2010,Woodlands,1-room,Rental Units,1312
+2010,Woodlands,1-room,Sold Units,0
+2010,Woodlands,2-room,Rental Units,504
+2010,Woodlands,2-room,Sold Units,52
+2010,Woodlands,3-room,Rental Units,74
+2010,Woodlands,3-room,Sold Units,5381
+2010,Woodlands,4-room,Rental Units,154
+2010,Woodlands,4-room,Sold Units,25848
+2010,Woodlands,5-room,Rental Units,0
+2010,Woodlands,5-room,Sold Units,19010
+2010,Woodlands,Executive,Sold Units,6190
+2010,Woodlands,Studio Apartment,Rental Units,0
+2010,Woodlands,Studio Apartment,Sold Units,0
+2010,Woodlands,HUDC,Sold Units,0
+2010,Yishun,1-room,Rental Units,236
+2010,Yishun,1-room,Sold Units,0
+2010,Yishun,2-room,Rental Units,82
+2010,Yishun,2-room,Sold Units,102
+2010,Yishun,3-room,Rental Units,53
+2010,Yishun,3-room,Sold Units,13153
+2010,Yishun,4-room,Rental Units,2
+2010,Yishun,4-room,Sold Units,23889
+2010,Yishun,5-room,Rental Units,0
+2010,Yishun,5-room,Sold Units,7281
+2010,Yishun,Executive,Sold Units,2741
+2010,Yishun,Studio Apartment,Rental Units,0
+2010,Yishun,Studio Apartment,Sold Units,169
+2010,Yishun,HUDC,Sold Units,0
+2011,Ang Mo Kio,1-room,Rental Units,1318
+2011,Ang Mo Kio,1-room,Sold Units,0
+2011,Ang Mo Kio,2-room,Rental Units,2855
+2011,Ang Mo Kio,2-room,Sold Units,638
+2011,Ang Mo Kio,3-room,Rental Units,39
+2011,Ang Mo Kio,3-room,Sold Units,24753
+2011,Ang Mo Kio,4-room,Rental Units,1
+2011,Ang Mo Kio,4-room,Sold Units,13795
+2011,Ang Mo Kio,5-room,Rental Units,0
+2011,Ang Mo Kio,5-room,Sold Units,5828
+2011,Ang Mo Kio,Executive,Sold Units,485
+2011,Ang Mo Kio,Studio Apartment,Rental Units,0
+2011,Ang Mo Kio,Studio Apartment,Sold Units,136
+2011,Ang Mo Kio,HUDC,Sold Units,0
+2011,Bedok,1-room,Rental Units,2250
+2011,Bedok,1-room,Sold Units,0
+2011,Bedok,2-room,Rental Units,1145
+2011,Bedok,2-room,Sold Units,680
+2011,Bedok,3-room,Rental Units,11
+2011,Bedok,3-room,Sold Units,22348
+2011,Bedok,4-room,Rental Units,0
+2011,Bedok,4-room,Sold Units,19741
+2011,Bedok,5-room,Rental Units,0
+2011,Bedok,5-room,Sold Units,10182
+2011,Bedok,Executive,Sold Units,2712
+2011,Bedok,Studio Apartment,Rental Units,0
+2011,Bedok,Studio Apartment,Sold Units,130
+2011,Bedok,HUDC,Sold Units,0
+2011,Bishan,1-room,Rental Units,396
+2011,Bishan,1-room,Sold Units,0
+2011,Bishan,2-room,Rental Units,0
+2011,Bishan,2-room,Sold Units,0
+2011,Bishan,3-room,Rental Units,0
+2011,Bishan,3-room,Sold Units,2359
+2011,Bishan,4-room,Rental Units,0
+2011,Bishan,4-room,Sold Units,9359
+2011,Bishan,5-room,Rental Units,0
+2011,Bishan,5-room,Sold Units,5715
+2011,Bishan,Executive,Sold Units,1660
+2011,Bishan,Studio Apartment,Rental Units,0
+2011,Bishan,Studio Apartment,Sold Units,176
+2011,Bishan,HUDC,Sold Units,358
+2011,Bukit Batok,1-room,Rental Units,305
+2011,Bukit Batok,1-room,Sold Units,0
+2011,Bukit Batok,2-room,Rental Units,95
+2011,Bukit Batok,2-room,Sold Units,0
+2011,Bukit Batok,3-room,Rental Units,2
+2011,Bukit Batok,3-room,Sold Units,10278
+2011,Bukit Batok,4-room,Rental Units,0
+2011,Bukit Batok,4-room,Sold Units,13851
+2011,Bukit Batok,5-room,Rental Units,0
+2011,Bukit Batok,5-room,Sold Units,4832
+2011,Bukit Batok,Executive,Sold Units,2732
+2011,Bukit Batok,Studio Apartment,Rental Units,0
+2011,Bukit Batok,Studio Apartment,Sold Units,0
+2011,Bukit Batok,HUDC,Sold Units,0
+2011,Bukit Merah,1-room,Rental Units,4473
+2011,Bukit Merah,1-room,Sold Units,258
+2011,Bukit Merah,2-room,Rental Units,4979
+2011,Bukit Merah,2-room,Sold Units,1160
+2011,Bukit Merah,3-room,Rental Units,183
+2011,Bukit Merah,3-room,Sold Units,16725
+2011,Bukit Merah,4-room,Rental Units,96
+2011,Bukit Merah,4-room,Sold Units,15267
+2011,Bukit Merah,5-room,Rental Units,0
+2011,Bukit Merah,5-room,Sold Units,9335
+2011,Bukit Merah,Executive,Sold Units,44
+2011,Bukit Merah,Studio Apartment,Rental Units,0
+2011,Bukit Merah,Studio Apartment,Sold Units,442
+2011,Bukit Merah,HUDC,Sold Units,0
+2011,Bukit Panjang,1-room,Rental Units,223
+2011,Bukit Panjang,1-room,Sold Units,0
+2011,Bukit Panjang,2-room,Rental Units,74
+2011,Bukit Panjang,2-room,Sold Units,48
+2011,Bukit Panjang,3-room,Rental Units,0
+2011,Bukit Panjang,3-room,Sold Units,2757
+2011,Bukit Panjang,4-room,Rental Units,0
+2011,Bukit Panjang,4-room,Sold Units,14444
+2011,Bukit Panjang,5-room,Rental Units,0
+2011,Bukit Panjang,5-room,Sold Units,9517
+2011,Bukit Panjang,Executive,Sold Units,3381
+2011,Bukit Panjang,Studio Apartment,Rental Units,0
+2011,Bukit Panjang,Studio Apartment,Sold Units,0
+2011,Bukit Panjang,HUDC,Sold Units,0
+2011,Bukit Timah,1-room,Rental Units,0
+2011,Bukit Timah,1-room,Sold Units,0
+2011,Bukit Timah,2-room,Rental Units,0
+2011,Bukit Timah,2-room,Sold Units,0
+2011,Bukit Timah,3-room,Rental Units,0
+2011,Bukit Timah,3-room,Sold Units,441
+2011,Bukit Timah,4-room,Rental Units,0
+2011,Bukit Timah,4-room,Sold Units,920
+2011,Bukit Timah,5-room,Rental Units,0
+2011,Bukit Timah,5-room,Sold Units,682
+2011,Bukit Timah,Executive,Sold Units,380
+2011,Bukit Timah,Studio Apartment,Rental Units,0
+2011,Bukit Timah,Studio Apartment,Sold Units,0
+2011,Bukit Timah,HUDC,Sold Units,0
+2011,Central Area,1-room,Rental Units,2075
+2011,Central Area,1-room,Sold Units,0
+2011,Central Area,2-room,Rental Units,971
+2011,Central Area,2-room,Sold Units,345
+2011,Central Area,3-room,Rental Units,52
+2011,Central Area,3-room,Sold Units,4691
+2011,Central Area,4-room,Rental Units,14
+2011,Central Area,4-room,Sold Units,3514
+2011,Central Area,5-room,Rental Units,0
+2011,Central Area,5-room,Sold Units,902
+2011,Central Area,Executive,Sold Units,9
+2011,Central Area,Studio Apartment,Rental Units,0
+2011,Central Area,Studio Apartment,Sold Units,0
+2011,Central Area,HUDC,Sold Units,38
+2011,Choa Chu Kang,1-room,Rental Units,182
+2011,Choa Chu Kang,1-room,Sold Units,0
+2011,Choa Chu Kang,2-room,Rental Units,396
+2011,Choa Chu Kang,2-room,Sold Units,78
+2011,Choa Chu Kang,3-room,Rental Units,0
+2011,Choa Chu Kang,3-room,Sold Units,1481
+2011,Choa Chu Kang,4-room,Rental Units,0
+2011,Choa Chu Kang,4-room,Sold Units,19608
+2011,Choa Chu Kang,5-room,Rental Units,0
+2011,Choa Chu Kang,5-room,Sold Units,13422
+2011,Choa Chu Kang,Executive,Sold Units,4762
+2011,Choa Chu Kang,Studio Apartment,Rental Units,0
+2011,Choa Chu Kang,Studio Apartment,Sold Units,164
+2011,Choa Chu Kang,HUDC,Sold Units,0
+2011,Clementi,1-room,Rental Units,760
+2011,Clementi,1-room,Sold Units,0
+2011,Clementi,2-room,Rental Units,683
+2011,Clementi,2-room,Sold Units,249
+2011,Clementi,3-room,Rental Units,55
+2011,Clementi,3-room,Sold Units,12520
+2011,Clementi,4-room,Rental Units,0
+2011,Clementi,4-room,Sold Units,8399
+2011,Clementi,5-room,Rental Units,0
+2011,Clementi,5-room,Sold Units,2476
+2011,Clementi,Executive,Sold Units,626
+2011,Clementi,Studio Apartment,Rental Units,0
+2011,Clementi,Studio Apartment,Sold Units,0
+2011,Clementi,HUDC,Sold Units,0
+2011,Geylang,1-room,Rental Units,1044
+2011,Geylang,1-room,Sold Units,0
+2011,Geylang,2-room,Rental Units,2398
+2011,Geylang,2-room,Sold Units,752
+2011,Geylang,3-room,Rental Units,489
+2011,Geylang,3-room,Sold Units,10875
+2011,Geylang,4-room,Rental Units,0
+2011,Geylang,4-room,Sold Units,9176
+2011,Geylang,5-room,Rental Units,0
+2011,Geylang,5-room,Sold Units,3590
+2011,Geylang,Executive,Sold Units,830
+2011,Geylang,Studio Apartment,Rental Units,0
+2011,Geylang,Studio Apartment,Sold Units,107
+2011,Geylang,HUDC,Sold Units,0
+2011,Hougang,1-room,Rental Units,334
+2011,Hougang,1-room,Sold Units,0
+2011,Hougang,2-room,Rental Units,405
+2011,Hougang,2-room,Sold Units,140
+2011,Hougang,3-room,Rental Units,228
+2011,Hougang,3-room,Sold Units,9359
+2011,Hougang,4-room,Rental Units,6
+2011,Hougang,4-room,Sold Units,23160
+2011,Hougang,5-room,Rental Units,0
+2011,Hougang,5-room,Sold Units,9924
+2011,Hougang,Executive,Sold Units,4310
+2011,Hougang,Studio Apartment,Rental Units,0
+2011,Hougang,Studio Apartment,Sold Units,0
+2011,Hougang,HUDC,Sold Units,622
+2011,Jurong East,1-room,Rental Units,352
+2011,Jurong East,1-room,Sold Units,0
+2011,Jurong East,2-room,Rental Units,110
+2011,Jurong East,2-room,Sold Units,92
+2011,Jurong East,3-room,Rental Units,54
+2011,Jurong East,3-room,Sold Units,7113
+2011,Jurong East,4-room,Rental Units,0
+2011,Jurong East,4-room,Sold Units,7822
+2011,Jurong East,5-room,Rental Units,0
+2011,Jurong East,5-room,Sold Units,6050
+2011,Jurong East,Executive,Sold Units,1871
+2011,Jurong East,Studio Apartment,Rental Units,0
+2011,Jurong East,Studio Apartment,Sold Units,143
+2011,Jurong East,HUDC,Sold Units,0
+2011,Jurong West,1-room,Rental Units,540
+2011,Jurong West,1-room,Sold Units,0
+2011,Jurong West,2-room,Rental Units,1169
+2011,Jurong West,2-room,Sold Units,221
+2011,Jurong West,3-room,Rental Units,715
+2011,Jurong West,3-room,Sold Units,11224
+2011,Jurong West,4-room,Rental Units,0
+2011,Jurong West,4-room,Sold Units,27187
+2011,Jurong West,5-room,Rental Units,0
+2011,Jurong West,5-room,Sold Units,20889
+2011,Jurong West,Executive,Sold Units,6506
+2011,Jurong West,Studio Apartment,Rental Units,0
+2011,Jurong West,Studio Apartment,Sold Units,97
+2011,Jurong West,HUDC,Sold Units,0
+2011,Kallang/Whampoa,1-room,Rental Units,4401
+2011,Kallang/Whampoa,1-room,Sold Units,0
+2011,Kallang/Whampoa,2-room,Rental Units,2024
+2011,Kallang/Whampoa,2-room,Sold Units,445
+2011,Kallang/Whampoa,3-room,Rental Units,31
+2011,Kallang/Whampoa,3-room,Sold Units,13140
+2011,Kallang/Whampoa,4-room,Rental Units,3
+2011,Kallang/Whampoa,4-room,Sold Units,9847
+2011,Kallang/Whampoa,5-room,Rental Units,0
+2011,Kallang/Whampoa,5-room,Sold Units,5365
+2011,Kallang/Whampoa,Executive,Sold Units,502
+2011,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2011,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2011,Kallang/Whampoa,HUDC,Sold Units,0
+2011,Marine Parade,1-room,Rental Units,0
+2011,Marine Parade,1-room,Sold Units,0
+2011,Marine Parade,2-room,Rental Units,1324
+2011,Marine Parade,2-room,Sold Units,26
+2011,Marine Parade,3-room,Rental Units,2
+2011,Marine Parade,3-room,Sold Units,3039
+2011,Marine Parade,4-room,Rental Units,0
+2011,Marine Parade,4-room,Sold Units,1798
+2011,Marine Parade,5-room,Rental Units,0
+2011,Marine Parade,5-room,Sold Units,1675
+2011,Marine Parade,Executive,Sold Units,0
+2011,Marine Parade,Studio Apartment,Rental Units,0
+2011,Marine Parade,Studio Apartment,Sold Units,0
+2011,Marine Parade,HUDC,Sold Units,0
+2011,Pasir Ris,1-room,Rental Units,176
+2011,Pasir Ris,1-room,Sold Units,0
+2011,Pasir Ris,2-room,Rental Units,44
+2011,Pasir Ris,2-room,Sold Units,21
+2011,Pasir Ris,3-room,Rental Units,2
+2011,Pasir Ris,3-room,Sold Units,162
+2011,Pasir Ris,4-room,Rental Units,0
+2011,Pasir Ris,4-room,Sold Units,10716
+2011,Pasir Ris,5-room,Rental Units,0
+2011,Pasir Ris,5-room,Sold Units,9055
+2011,Pasir Ris,Executive,Sold Units,7460
+2011,Pasir Ris,Studio Apartment,Rental Units,0
+2011,Pasir Ris,Studio Apartment,Sold Units,0
+2011,Pasir Ris,HUDC,Sold Units,98
+2011,Punggol,1-room,Rental Units,701
+2011,Punggol,1-room,Sold Units,0
+2011,Punggol,2-room,Rental Units,186
+2011,Punggol,2-room,Sold Units,105
+2011,Punggol,3-room,Rental Units,0
+2011,Punggol,3-room,Sold Units,542
+2011,Punggol,4-room,Rental Units,0
+2011,Punggol,4-room,Sold Units,11073
+2011,Punggol,5-room,Rental Units,0
+2011,Punggol,5-room,Sold Units,11126
+2011,Punggol,Executive,Sold Units,1126
+2011,Punggol,Studio Apartment,Rental Units,0
+2011,Punggol,Studio Apartment,Sold Units,0
+2011,Punggol,HUDC,Sold Units,0
+2011,Queenstown,1-room,Rental Units,575
+2011,Queenstown,1-room,Sold Units,0
+2011,Queenstown,2-room,Rental Units,1699
+2011,Queenstown,2-room,Sold Units,1482
+2011,Queenstown,3-room,Rental Units,109
+2011,Queenstown,3-room,Sold Units,14713
+2011,Queenstown,4-room,Rental Units,0
+2011,Queenstown,4-room,Sold Units,7868
+2011,Queenstown,5-room,Rental Units,0
+2011,Queenstown,5-room,Sold Units,3690
+2011,Queenstown,Executive,Sold Units,354
+2011,Queenstown,Studio Apartment,Rental Units,0
+2011,Queenstown,Studio Apartment,Sold Units,266
+2011,Queenstown,HUDC,Sold Units,0
+2011,Sembawang,1-room,Rental Units,169
+2011,Sembawang,1-room,Sold Units,0
+2011,Sembawang,2-room,Rental Units,67
+2011,Sembawang,2-room,Sold Units,50
+2011,Sembawang,3-room,Rental Units,0
+2011,Sembawang,3-room,Sold Units,0
+2011,Sembawang,4-room,Rental Units,0
+2011,Sembawang,4-room,Sold Units,7709
+2011,Sembawang,5-room,Rental Units,0
+2011,Sembawang,5-room,Sold Units,7556
+2011,Sembawang,Executive,Sold Units,2870
+2011,Sembawang,Studio Apartment,Rental Units,0
+2011,Sembawang,Studio Apartment,Sold Units,0
+2011,Sembawang,HUDC,Sold Units,0
+2011,Sengkang,1-room,Rental Units,189
+2011,Sengkang,1-room,Sold Units,0
+2011,Sengkang,2-room,Rental Units,105
+2011,Sengkang,2-room,Sold Units,494
+2011,Sengkang,3-room,Rental Units,0
+2011,Sengkang,3-room,Sold Units,1036
+2011,Sengkang,4-room,Rental Units,0
+2011,Sengkang,4-room,Sold Units,22039
+2011,Sengkang,5-room,Rental Units,0
+2011,Sengkang,5-room,Sold Units,19524
+2011,Sengkang,Executive,Sold Units,4462
+2011,Sengkang,Studio Apartment,Rental Units,0
+2011,Sengkang,Studio Apartment,Sold Units,0
+2011,Sengkang,HUDC,Sold Units,0
+2011,Serangoon,1-room,Rental Units,182
+2011,Serangoon,1-room,Sold Units,0
+2011,Serangoon,2-room,Rental Units,142
+2011,Serangoon,2-room,Sold Units,77
+2011,Serangoon,3-room,Rental Units,0
+2011,Serangoon,3-room,Sold Units,4545
+2011,Serangoon,4-room,Rental Units,0
+2011,Serangoon,4-room,Sold Units,10231
+2011,Serangoon,5-room,Rental Units,0
+2011,Serangoon,5-room,Sold Units,3752
+2011,Serangoon,Executive,Sold Units,2365
+2011,Serangoon,Studio Apartment,Rental Units,0
+2011,Serangoon,Studio Apartment,Sold Units,0
+2011,Serangoon,HUDC,Sold Units,244
+2011,Tampines,1-room,Rental Units,644
+2011,Tampines,1-room,Sold Units,0
+2011,Tampines,2-room,Rental Units,290
+2011,Tampines,2-room,Sold Units,58
+2011,Tampines,3-room,Rental Units,17
+2011,Tampines,3-room,Sold Units,12297
+2011,Tampines,4-room,Rental Units,0
+2011,Tampines,4-room,Sold Units,27213
+2011,Tampines,5-room,Rental Units,0
+2011,Tampines,5-room,Sold Units,16649
+2011,Tampines,Executive,Sold Units,5845
+2011,Tampines,Studio Apartment,Rental Units,0
+2011,Tampines,Studio Apartment,Sold Units,208
+2011,Tampines,HUDC,Sold Units,0
+2011,Toa Payoh,1-room,Rental Units,1170
+2011,Toa Payoh,1-room,Sold Units,0
+2011,Toa Payoh,2-room,Rental Units,2898
+2011,Toa Payoh,2-room,Sold Units,715
+2011,Toa Payoh,3-room,Rental Units,34
+2011,Toa Payoh,3-room,Sold Units,14895
+2011,Toa Payoh,4-room,Rental Units,0
+2011,Toa Payoh,4-room,Sold Units,9304
+2011,Toa Payoh,5-room,Rental Units,0
+2011,Toa Payoh,5-room,Sold Units,5214
+2011,Toa Payoh,Executive,Sold Units,853
+2011,Toa Payoh,Studio Apartment,Rental Units,0
+2011,Toa Payoh,Studio Apartment,Sold Units,156
+2011,Toa Payoh,HUDC,Sold Units,175
+2011,Woodlands,1-room,Rental Units,1312
+2011,Woodlands,1-room,Sold Units,0
+2011,Woodlands,2-room,Rental Units,504
+2011,Woodlands,2-room,Sold Units,52
+2011,Woodlands,3-room,Rental Units,73
+2011,Woodlands,3-room,Sold Units,5441
+2011,Woodlands,4-room,Rental Units,154
+2011,Woodlands,4-room,Sold Units,26162
+2011,Woodlands,5-room,Rental Units,0
+2011,Woodlands,5-room,Sold Units,19090
+2011,Woodlands,Executive,Sold Units,6190
+2011,Woodlands,Studio Apartment,Rental Units,0
+2011,Woodlands,Studio Apartment,Sold Units,56
+2011,Woodlands,HUDC,Sold Units,0
+2011,Yishun,1-room,Rental Units,530
+2011,Yishun,1-room,Sold Units,0
+2011,Yishun,2-room,Rental Units,180
+2011,Yishun,2-room,Sold Units,246
+2011,Yishun,3-room,Rental Units,35
+2011,Yishun,3-room,Sold Units,13377
+2011,Yishun,4-room,Rental Units,0
+2011,Yishun,4-room,Sold Units,24465
+2011,Yishun,5-room,Rental Units,0
+2011,Yishun,5-room,Sold Units,7281
+2011,Yishun,Executive,Sold Units,2741
+2011,Yishun,Studio Apartment,Rental Units,0
+2011,Yishun,Studio Apartment,Sold Units,169
+2011,Yishun,HUDC,Sold Units,0
+2012,Ang Mo Kio,1-room,Rental Units,1318
+2012,Ang Mo Kio,1-room,Sold Units,0
+2012,Ang Mo Kio,2-room,Rental Units,2855
+2012,Ang Mo Kio,2-room,Sold Units,638
+2012,Ang Mo Kio,3-room,Rental Units,20
+2012,Ang Mo Kio,3-room,Sold Units,24127
+2012,Ang Mo Kio,4-room,Rental Units,1
+2012,Ang Mo Kio,4-room,Sold Units,13681
+2012,Ang Mo Kio,5-room,Rental Units,0
+2012,Ang Mo Kio,5-room,Sold Units,5653
+2012,Ang Mo Kio,Executive,Sold Units,487
+2012,Ang Mo Kio,Studio Apartment,Rental Units,0
+2012,Ang Mo Kio,Studio Apartment,Sold Units,136
+2012,Ang Mo Kio,HUDC,Sold Units,0
+2012,Bedok,1-room,Rental Units,2250
+2012,Bedok,1-room,Sold Units,0
+2012,Bedok,2-room,Rental Units,1145
+2012,Bedok,2-room,Sold Units,680
+2012,Bedok,3-room,Rental Units,10
+2012,Bedok,3-room,Sold Units,22345
+2012,Bedok,4-room,Rental Units,0
+2012,Bedok,4-room,Sold Units,19741
+2012,Bedok,5-room,Rental Units,0
+2012,Bedok,5-room,Sold Units,10184
+2012,Bedok,Executive,Sold Units,2712
+2012,Bedok,Studio Apartment,Rental Units,0
+2012,Bedok,Studio Apartment,Sold Units,130
+2012,Bedok,HUDC,Sold Units,0
+2012,Bishan,1-room,Rental Units,396
+2012,Bishan,1-room,Sold Units,0
+2012,Bishan,2-room,Rental Units,0
+2012,Bishan,2-room,Sold Units,0
+2012,Bishan,3-room,Rental Units,0
+2012,Bishan,3-room,Sold Units,2359
+2012,Bishan,4-room,Rental Units,0
+2012,Bishan,4-room,Sold Units,9359
+2012,Bishan,5-room,Rental Units,0
+2012,Bishan,5-room,Sold Units,5715
+2012,Bishan,Executive,Sold Units,1660
+2012,Bishan,Studio Apartment,Rental Units,0
+2012,Bishan,Studio Apartment,Sold Units,176
+2012,Bishan,HUDC,Sold Units,0
+2012,Bukit Batok,1-room,Rental Units,305
+2012,Bukit Batok,1-room,Sold Units,0
+2012,Bukit Batok,2-room,Rental Units,95
+2012,Bukit Batok,2-room,Sold Units,0
+2012,Bukit Batok,3-room,Rental Units,1
+2012,Bukit Batok,3-room,Sold Units,10279
+2012,Bukit Batok,4-room,Rental Units,0
+2012,Bukit Batok,4-room,Sold Units,13851
+2012,Bukit Batok,5-room,Rental Units,0
+2012,Bukit Batok,5-room,Sold Units,4832
+2012,Bukit Batok,Executive,Sold Units,2732
+2012,Bukit Batok,Studio Apartment,Rental Units,0
+2012,Bukit Batok,Studio Apartment,Sold Units,0
+2012,Bukit Batok,HUDC,Sold Units,0
+2012,Bukit Merah,1-room,Rental Units,4473
+2012,Bukit Merah,1-room,Sold Units,258
+2012,Bukit Merah,2-room,Rental Units,4599
+2012,Bukit Merah,2-room,Sold Units,1158
+2012,Bukit Merah,3-room,Rental Units,168
+2012,Bukit Merah,3-room,Sold Units,15738
+2012,Bukit Merah,4-room,Rental Units,96
+2012,Bukit Merah,4-room,Sold Units,14923
+2012,Bukit Merah,5-room,Rental Units,0
+2012,Bukit Merah,5-room,Sold Units,9323
+2012,Bukit Merah,Executive,Sold Units,44
+2012,Bukit Merah,Studio Apartment,Rental Units,0
+2012,Bukit Merah,Studio Apartment,Sold Units,442
+2012,Bukit Merah,HUDC,Sold Units,0
+2012,Bukit Panjang,1-room,Rental Units,223
+2012,Bukit Panjang,1-room,Sold Units,0
+2012,Bukit Panjang,2-room,Rental Units,74
+2012,Bukit Panjang,2-room,Sold Units,96
+2012,Bukit Panjang,3-room,Rental Units,0
+2012,Bukit Panjang,3-room,Sold Units,2804
+2012,Bukit Panjang,4-room,Rental Units,0
+2012,Bukit Panjang,4-room,Sold Units,14586
+2012,Bukit Panjang,5-room,Rental Units,0
+2012,Bukit Panjang,5-room,Sold Units,9517
+2012,Bukit Panjang,Executive,Sold Units,3381
+2012,Bukit Panjang,Studio Apartment,Rental Units,0
+2012,Bukit Panjang,Studio Apartment,Sold Units,0
+2012,Bukit Panjang,HUDC,Sold Units,0
+2012,Bukit Timah,1-room,Rental Units,0
+2012,Bukit Timah,1-room,Sold Units,0
+2012,Bukit Timah,2-room,Rental Units,0
+2012,Bukit Timah,2-room,Sold Units,0
+2012,Bukit Timah,3-room,Rental Units,0
+2012,Bukit Timah,3-room,Sold Units,441
+2012,Bukit Timah,4-room,Rental Units,0
+2012,Bukit Timah,4-room,Sold Units,920
+2012,Bukit Timah,5-room,Rental Units,0
+2012,Bukit Timah,5-room,Sold Units,682
+2012,Bukit Timah,Executive,Sold Units,380
+2012,Bukit Timah,Studio Apartment,Rental Units,0
+2012,Bukit Timah,Studio Apartment,Sold Units,0
+2012,Bukit Timah,HUDC,Sold Units,0
+2012,Central Area,1-room,Rental Units,2075
+2012,Central Area,1-room,Sold Units,0
+2012,Central Area,2-room,Rental Units,971
+2012,Central Area,2-room,Sold Units,345
+2012,Central Area,3-room,Rental Units,52
+2012,Central Area,3-room,Sold Units,4691
+2012,Central Area,4-room,Rental Units,14
+2012,Central Area,4-room,Sold Units,3514
+2012,Central Area,5-room,Rental Units,0
+2012,Central Area,5-room,Sold Units,902
+2012,Central Area,Executive,Sold Units,9
+2012,Central Area,Studio Apartment,Rental Units,0
+2012,Central Area,Studio Apartment,Sold Units,0
+2012,Central Area,HUDC,Sold Units,38
+2012,Choa Chu Kang,1-room,Rental Units,355
+2012,Choa Chu Kang,1-room,Sold Units,0
+2012,Choa Chu Kang,2-room,Rental Units,513
+2012,Choa Chu Kang,2-room,Sold Units,78
+2012,Choa Chu Kang,3-room,Rental Units,0
+2012,Choa Chu Kang,3-room,Sold Units,1481
+2012,Choa Chu Kang,4-room,Rental Units,0
+2012,Choa Chu Kang,4-room,Sold Units,19608
+2012,Choa Chu Kang,5-room,Rental Units,0
+2012,Choa Chu Kang,5-room,Sold Units,13422
+2012,Choa Chu Kang,Executive,Sold Units,4762
+2012,Choa Chu Kang,Studio Apartment,Rental Units,0
+2012,Choa Chu Kang,Studio Apartment,Sold Units,164
+2012,Choa Chu Kang,HUDC,Sold Units,0
+2012,Clementi,1-room,Rental Units,760
+2012,Clementi,1-room,Sold Units,0
+2012,Clementi,2-room,Rental Units,683
+2012,Clementi,2-room,Sold Units,249
+2012,Clementi,3-room,Rental Units,49
+2012,Clementi,3-room,Sold Units,12396
+2012,Clementi,4-room,Rental Units,0
+2012,Clementi,4-room,Sold Units,8281
+2012,Clementi,5-room,Rental Units,0
+2012,Clementi,5-room,Sold Units,2773
+2012,Clementi,Executive,Sold Units,625
+2012,Clementi,Studio Apartment,Rental Units,0
+2012,Clementi,Studio Apartment,Sold Units,0
+2012,Clementi,HUDC,Sold Units,0
+2012,Geylang,1-room,Rental Units,1044
+2012,Geylang,1-room,Sold Units,0
+2012,Geylang,2-room,Rental Units,2398
+2012,Geylang,2-room,Sold Units,752
+2012,Geylang,3-room,Rental Units,484
+2012,Geylang,3-room,Sold Units,10878
+2012,Geylang,4-room,Rental Units,0
+2012,Geylang,4-room,Sold Units,9177
+2012,Geylang,5-room,Rental Units,0
+2012,Geylang,5-room,Sold Units,3590
+2012,Geylang,Executive,Sold Units,830
+2012,Geylang,Studio Apartment,Rental Units,0
+2012,Geylang,Studio Apartment,Sold Units,107
+2012,Geylang,HUDC,Sold Units,0
+2012,Hougang,1-room,Rental Units,532
+2012,Hougang,1-room,Sold Units,0
+2012,Hougang,2-room,Rental Units,624
+2012,Hougang,2-room,Sold Units,268
+2012,Hougang,3-room,Rental Units,228
+2012,Hougang,3-room,Sold Units,9612
+2012,Hougang,4-room,Rental Units,6
+2012,Hougang,4-room,Sold Units,23466
+2012,Hougang,5-room,Rental Units,0
+2012,Hougang,5-room,Sold Units,9924
+2012,Hougang,Executive,Sold Units,4310
+2012,Hougang,Studio Apartment,Rental Units,0
+2012,Hougang,Studio Apartment,Sold Units,192
+2012,Hougang,HUDC,Sold Units,622
+2012,Jurong East,1-room,Rental Units,352
+2012,Jurong East,1-room,Sold Units,0
+2012,Jurong East,2-room,Rental Units,110
+2012,Jurong East,2-room,Sold Units,302
+2012,Jurong East,3-room,Rental Units,46
+2012,Jurong East,3-room,Sold Units,7175
+2012,Jurong East,4-room,Rental Units,0
+2012,Jurong East,4-room,Sold Units,7915
+2012,Jurong East,5-room,Rental Units,0
+2012,Jurong East,5-room,Sold Units,6029
+2012,Jurong East,Executive,Sold Units,1871
+2012,Jurong East,Studio Apartment,Rental Units,0
+2012,Jurong East,Studio Apartment,Sold Units,143
+2012,Jurong East,HUDC,Sold Units,0
+2012,Jurong West,1-room,Rental Units,540
+2012,Jurong West,1-room,Sold Units,0
+2012,Jurong West,2-room,Rental Units,1169
+2012,Jurong West,2-room,Sold Units,461
+2012,Jurong West,3-room,Rental Units,706
+2012,Jurong West,3-room,Sold Units,11526
+2012,Jurong West,4-room,Rental Units,0
+2012,Jurong West,4-room,Sold Units,27352
+2012,Jurong West,5-room,Rental Units,0
+2012,Jurong West,5-room,Sold Units,20889
+2012,Jurong West,Executive,Sold Units,6506
+2012,Jurong West,Studio Apartment,Rental Units,0
+2012,Jurong West,Studio Apartment,Sold Units,97
+2012,Jurong West,HUDC,Sold Units,0
+2012,Kallang/Whampoa,1-room,Rental Units,4401
+2012,Kallang/Whampoa,1-room,Sold Units,0
+2012,Kallang/Whampoa,2-room,Rental Units,2024
+2012,Kallang/Whampoa,2-room,Sold Units,445
+2012,Kallang/Whampoa,3-room,Rental Units,15
+2012,Kallang/Whampoa,3-room,Sold Units,13145
+2012,Kallang/Whampoa,4-room,Rental Units,2
+2012,Kallang/Whampoa,4-room,Sold Units,9847
+2012,Kallang/Whampoa,5-room,Rental Units,0
+2012,Kallang/Whampoa,5-room,Sold Units,5364
+2012,Kallang/Whampoa,Executive,Sold Units,503
+2012,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2012,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2012,Kallang/Whampoa,HUDC,Sold Units,0
+2012,Marine Parade,1-room,Rental Units,0
+2012,Marine Parade,1-room,Sold Units,0
+2012,Marine Parade,2-room,Rental Units,1324
+2012,Marine Parade,2-room,Sold Units,26
+2012,Marine Parade,3-room,Rental Units,1
+2012,Marine Parade,3-room,Sold Units,3040
+2012,Marine Parade,4-room,Rental Units,0
+2012,Marine Parade,4-room,Sold Units,1798
+2012,Marine Parade,5-room,Rental Units,0
+2012,Marine Parade,5-room,Sold Units,1675
+2012,Marine Parade,Executive,Sold Units,0
+2012,Marine Parade,Studio Apartment,Rental Units,0
+2012,Marine Parade,Studio Apartment,Sold Units,0
+2012,Marine Parade,HUDC,Sold Units,0
+2012,Pasir Ris,1-room,Rental Units,176
+2012,Pasir Ris,1-room,Sold Units,0
+2012,Pasir Ris,2-room,Rental Units,44
+2012,Pasir Ris,2-room,Sold Units,21
+2012,Pasir Ris,3-room,Rental Units,1
+2012,Pasir Ris,3-room,Sold Units,163
+2012,Pasir Ris,4-room,Rental Units,0
+2012,Pasir Ris,4-room,Sold Units,10716
+2012,Pasir Ris,5-room,Rental Units,0
+2012,Pasir Ris,5-room,Sold Units,9055
+2012,Pasir Ris,Executive,Sold Units,7460
+2012,Pasir Ris,Studio Apartment,Rental Units,0
+2012,Pasir Ris,Studio Apartment,Sold Units,0
+2012,Pasir Ris,HUDC,Sold Units,98
+2012,Punggol,1-room,Rental Units,701
+2012,Punggol,1-room,Sold Units,0
+2012,Punggol,2-room,Rental Units,186
+2012,Punggol,2-room,Sold Units,526
+2012,Punggol,3-room,Rental Units,0
+2012,Punggol,3-room,Sold Units,1323
+2012,Punggol,4-room,Rental Units,0
+2012,Punggol,4-room,Sold Units,13152
+2012,Punggol,5-room,Rental Units,0
+2012,Punggol,5-room,Sold Units,11495
+2012,Punggol,Executive,Sold Units,1126
+2012,Punggol,Studio Apartment,Rental Units,0
+2012,Punggol,Studio Apartment,Sold Units,130
+2012,Punggol,HUDC,Sold Units,0
+2012,Queenstown,1-room,Rental Units,575
+2012,Queenstown,1-room,Sold Units,0
+2012,Queenstown,2-room,Rental Units,1699
+2012,Queenstown,2-room,Sold Units,1529
+2012,Queenstown,3-room,Rental Units,82
+2012,Queenstown,3-room,Sold Units,14352
+2012,Queenstown,4-room,Rental Units,0
+2012,Queenstown,4-room,Sold Units,7396
+2012,Queenstown,5-room,Rental Units,0
+2012,Queenstown,5-room,Sold Units,3686
+2012,Queenstown,Executive,Sold Units,354
+2012,Queenstown,Studio Apartment,Rental Units,0
+2012,Queenstown,Studio Apartment,Sold Units,266
+2012,Queenstown,HUDC,Sold Units,0
+2012,Sembawang,1-room,Rental Units,169
+2012,Sembawang,1-room,Sold Units,0
+2012,Sembawang,2-room,Rental Units,67
+2012,Sembawang,2-room,Sold Units,50
+2012,Sembawang,3-room,Rental Units,0
+2012,Sembawang,3-room,Sold Units,0
+2012,Sembawang,4-room,Rental Units,0
+2012,Sembawang,4-room,Sold Units,7709
+2012,Sembawang,5-room,Rental Units,0
+2012,Sembawang,5-room,Sold Units,7556
+2012,Sembawang,Executive,Sold Units,2870
+2012,Sembawang,Studio Apartment,Rental Units,0
+2012,Sembawang,Studio Apartment,Sold Units,0
+2012,Sembawang,HUDC,Sold Units,0
+2012,Sengkang,1-room,Rental Units,512
+2012,Sengkang,1-room,Sold Units,0
+2012,Sengkang,2-room,Rental Units,220
+2012,Sengkang,2-room,Sold Units,872
+2012,Sengkang,3-room,Rental Units,0
+2012,Sengkang,3-room,Sold Units,1809
+2012,Sengkang,4-room,Rental Units,0
+2012,Sengkang,4-room,Sold Units,22566
+2012,Sengkang,5-room,Rental Units,0
+2012,Sengkang,5-room,Sold Units,19639
+2012,Sengkang,Executive,Sold Units,4462
+2012,Sengkang,Studio Apartment,Rental Units,0
+2012,Sengkang,Studio Apartment,Sold Units,0
+2012,Sengkang,HUDC,Sold Units,0
+2012,Serangoon,1-room,Rental Units,182
+2012,Serangoon,1-room,Sold Units,0
+2012,Serangoon,2-room,Rental Units,142
+2012,Serangoon,2-room,Sold Units,77
+2012,Serangoon,3-room,Rental Units,0
+2012,Serangoon,3-room,Sold Units,4545
+2012,Serangoon,4-room,Rental Units,0
+2012,Serangoon,4-room,Sold Units,10231
+2012,Serangoon,5-room,Rental Units,0
+2012,Serangoon,5-room,Sold Units,3752
+2012,Serangoon,Executive,Sold Units,2365
+2012,Serangoon,Studio Apartment,Rental Units,0
+2012,Serangoon,Studio Apartment,Sold Units,0
+2012,Serangoon,HUDC,Sold Units,244
+2012,Tampines,1-room,Rental Units,775
+2012,Tampines,1-room,Sold Units,0
+2012,Tampines,2-room,Rental Units,387
+2012,Tampines,2-room,Sold Units,219
+2012,Tampines,3-room,Rental Units,16
+2012,Tampines,3-room,Sold Units,12364
+2012,Tampines,4-room,Rental Units,0
+2012,Tampines,4-room,Sold Units,27213
+2012,Tampines,5-room,Rental Units,0
+2012,Tampines,5-room,Sold Units,16649
+2012,Tampines,Executive,Sold Units,5845
+2012,Tampines,Studio Apartment,Rental Units,0
+2012,Tampines,Studio Apartment,Sold Units,208
+2012,Tampines,HUDC,Sold Units,0
+2012,Toa Payoh,1-room,Rental Units,1170
+2012,Toa Payoh,1-room,Sold Units,0
+2012,Toa Payoh,2-room,Rental Units,2898
+2012,Toa Payoh,2-room,Sold Units,715
+2012,Toa Payoh,3-room,Rental Units,31
+2012,Toa Payoh,3-room,Sold Units,14993
+2012,Toa Payoh,4-room,Rental Units,0
+2012,Toa Payoh,4-room,Sold Units,9610
+2012,Toa Payoh,5-room,Rental Units,0
+2012,Toa Payoh,5-room,Sold Units,6016
+2012,Toa Payoh,Executive,Sold Units,853
+2012,Toa Payoh,Studio Apartment,Rental Units,0
+2012,Toa Payoh,Studio Apartment,Sold Units,156
+2012,Toa Payoh,HUDC,Sold Units,175
+2012,Woodlands,1-room,Rental Units,1312
+2012,Woodlands,1-room,Sold Units,0
+2012,Woodlands,2-room,Rental Units,503
+2012,Woodlands,2-room,Sold Units,53
+2012,Woodlands,3-room,Rental Units,73
+2012,Woodlands,3-room,Sold Units,5723
+2012,Woodlands,4-room,Rental Units,154
+2012,Woodlands,4-room,Sold Units,26446
+2012,Woodlands,5-room,Rental Units,0
+2012,Woodlands,5-room,Sold Units,19195
+2012,Woodlands,Executive,Sold Units,6190
+2012,Woodlands,Studio Apartment,Rental Units,0
+2012,Woodlands,Studio Apartment,Sold Units,416
+2012,Woodlands,HUDC,Sold Units,0
+2012,Yishun,1-room,Rental Units,530
+2012,Yishun,1-room,Sold Units,0
+2012,Yishun,2-room,Rental Units,180
+2012,Yishun,2-room,Sold Units,246
+2012,Yishun,3-room,Rental Units,26
+2012,Yishun,3-room,Sold Units,13386
+2012,Yishun,4-room,Rental Units,0
+2012,Yishun,4-room,Sold Units,24609
+2012,Yishun,5-room,Rental Units,0
+2012,Yishun,5-room,Sold Units,7281
+2012,Yishun,Executive,Sold Units,2741
+2012,Yishun,Studio Apartment,Rental Units,0
+2012,Yishun,Studio Apartment,Sold Units,169
+2012,Yishun,HUDC,Sold Units,0
+2013,Ang Mo Kio,1-room,Rental Units,1318
+2013,Ang Mo Kio,1-room,Sold Units,0
+2013,Ang Mo Kio,2-room,Rental Units,2855
+2013,Ang Mo Kio,2-room,Sold Units,638
+2013,Ang Mo Kio,3-room,Rental Units,18
+2013,Ang Mo Kio,3-room,Sold Units,24127
+2013,Ang Mo Kio,4-room,Rental Units,1
+2013,Ang Mo Kio,4-room,Sold Units,13681
+2013,Ang Mo Kio,5-room,Rental Units,0
+2013,Ang Mo Kio,5-room,Sold Units,5653
+2013,Ang Mo Kio,Executive,Sold Units,488
+2013,Ang Mo Kio,Studio Apartment,Rental Units,0
+2013,Ang Mo Kio,Studio Apartment,Sold Units,136
+2013,Ang Mo Kio,HUDC,Sold Units,0
+2013,Bedok,1-room,Rental Units,2250
+2013,Bedok,1-room,Sold Units,0
+2013,Bedok,2-room,Rental Units,1145
+2013,Bedok,2-room,Sold Units,680
+2013,Bedok,3-room,Rental Units,10
+2013,Bedok,3-room,Sold Units,22349
+2013,Bedok,4-room,Rental Units,0
+2013,Bedok,4-room,Sold Units,19744
+2013,Bedok,5-room,Rental Units,0
+2013,Bedok,5-room,Sold Units,10184
+2013,Bedok,Executive,Sold Units,2713
+2013,Bedok,Studio Apartment,Rental Units,0
+2013,Bedok,Studio Apartment,Sold Units,130
+2013,Bedok,HUDC,Sold Units,0
+2013,Bishan,1-room,Rental Units,396
+2013,Bishan,1-room,Sold Units,0
+2013,Bishan,2-room,Rental Units,0
+2013,Bishan,2-room,Sold Units,0
+2013,Bishan,3-room,Rental Units,0
+2013,Bishan,3-room,Sold Units,2359
+2013,Bishan,4-room,Rental Units,0
+2013,Bishan,4-room,Sold Units,9359
+2013,Bishan,5-room,Rental Units,0
+2013,Bishan,5-room,Sold Units,5715
+2013,Bishan,Executive,Sold Units,1660
+2013,Bishan,Studio Apartment,Rental Units,0
+2013,Bishan,Studio Apartment,Sold Units,176
+2013,Bishan,HUDC,Sold Units,0
+2013,Bukit Batok,1-room,Rental Units,305
+2013,Bukit Batok,1-room,Sold Units,0
+2013,Bukit Batok,2-room,Rental Units,95
+2013,Bukit Batok,2-room,Sold Units,0
+2013,Bukit Batok,3-room,Rental Units,1
+2013,Bukit Batok,3-room,Sold Units,10279
+2013,Bukit Batok,4-room,Rental Units,0
+2013,Bukit Batok,4-room,Sold Units,13851
+2013,Bukit Batok,5-room,Rental Units,0
+2013,Bukit Batok,5-room,Sold Units,4832
+2013,Bukit Batok,Executive,Sold Units,2732
+2013,Bukit Batok,Studio Apartment,Rental Units,0
+2013,Bukit Batok,Studio Apartment,Sold Units,180
+2013,Bukit Batok,HUDC,Sold Units,0
+2013,Bukit Merah,1-room,Rental Units,4473
+2013,Bukit Merah,1-room,Sold Units,258
+2013,Bukit Merah,2-room,Rental Units,4599
+2013,Bukit Merah,2-room,Sold Units,1157
+2013,Bukit Merah,3-room,Rental Units,165
+2013,Bukit Merah,3-room,Sold Units,15704
+2013,Bukit Merah,4-room,Rental Units,96
+2013,Bukit Merah,4-room,Sold Units,14924
+2013,Bukit Merah,5-room,Rental Units,0
+2013,Bukit Merah,5-room,Sold Units,9323
+2013,Bukit Merah,Executive,Sold Units,44
+2013,Bukit Merah,Studio Apartment,Rental Units,0
+2013,Bukit Merah,Studio Apartment,Sold Units,442
+2013,Bukit Merah,HUDC,Sold Units,0
+2013,Bukit Panjang,1-room,Rental Units,223
+2013,Bukit Panjang,1-room,Sold Units,0
+2013,Bukit Panjang,2-room,Rental Units,74
+2013,Bukit Panjang,2-room,Sold Units,211
+2013,Bukit Panjang,3-room,Rental Units,0
+2013,Bukit Panjang,3-room,Sold Units,3021
+2013,Bukit Panjang,4-room,Rental Units,0
+2013,Bukit Panjang,4-room,Sold Units,14926
+2013,Bukit Panjang,5-room,Rental Units,0
+2013,Bukit Panjang,5-room,Sold Units,9661
+2013,Bukit Panjang,Executive,Sold Units,3381
+2013,Bukit Panjang,Studio Apartment,Rental Units,0
+2013,Bukit Panjang,Studio Apartment,Sold Units,0
+2013,Bukit Panjang,HUDC,Sold Units,0
+2013,Bukit Timah,1-room,Rental Units,0
+2013,Bukit Timah,1-room,Sold Units,0
+2013,Bukit Timah,2-room,Rental Units,0
+2013,Bukit Timah,2-room,Sold Units,0
+2013,Bukit Timah,3-room,Rental Units,0
+2013,Bukit Timah,3-room,Sold Units,441
+2013,Bukit Timah,4-room,Rental Units,0
+2013,Bukit Timah,4-room,Sold Units,920
+2013,Bukit Timah,5-room,Rental Units,0
+2013,Bukit Timah,5-room,Sold Units,682
+2013,Bukit Timah,Executive,Sold Units,380
+2013,Bukit Timah,Studio Apartment,Rental Units,0
+2013,Bukit Timah,Studio Apartment,Sold Units,0
+2013,Bukit Timah,HUDC,Sold Units,0
+2013,Central Area,1-room,Rental Units,2075
+2013,Central Area,1-room,Sold Units,0
+2013,Central Area,2-room,Rental Units,971
+2013,Central Area,2-room,Sold Units,345
+2013,Central Area,3-room,Rental Units,52
+2013,Central Area,3-room,Sold Units,4687
+2013,Central Area,4-room,Rental Units,14
+2013,Central Area,4-room,Sold Units,3515
+2013,Central Area,5-room,Rental Units,0
+2013,Central Area,5-room,Sold Units,903
+2013,Central Area,Executive,Sold Units,9
+2013,Central Area,Studio Apartment,Rental Units,0
+2013,Central Area,Studio Apartment,Sold Units,0
+2013,Central Area,HUDC,Sold Units,38
+2013,Choa Chu Kang,1-room,Rental Units,355
+2013,Choa Chu Kang,1-room,Sold Units,0
+2013,Choa Chu Kang,2-room,Rental Units,513
+2013,Choa Chu Kang,2-room,Sold Units,238
+2013,Choa Chu Kang,3-room,Rental Units,0
+2013,Choa Chu Kang,3-room,Sold Units,1731
+2013,Choa Chu Kang,4-room,Rental Units,0
+2013,Choa Chu Kang,4-room,Sold Units,19796
+2013,Choa Chu Kang,5-room,Rental Units,0
+2013,Choa Chu Kang,5-room,Sold Units,13422
+2013,Choa Chu Kang,Executive,Sold Units,4762
+2013,Choa Chu Kang,Studio Apartment,Rental Units,0
+2013,Choa Chu Kang,Studio Apartment,Sold Units,440
+2013,Choa Chu Kang,HUDC,Sold Units,0
+2013,Clementi,1-room,Rental Units,760
+2013,Clementi,1-room,Sold Units,0
+2013,Clementi,2-room,Rental Units,683
+2013,Clementi,2-room,Sold Units,249
+2013,Clementi,3-room,Rental Units,11
+2013,Clementi,3-room,Sold Units,11720
+2013,Clementi,4-room,Rental Units,0
+2013,Clementi,4-room,Sold Units,8075
+2013,Clementi,5-room,Rental Units,0
+2013,Clementi,5-room,Sold Units,2765
+2013,Clementi,Executive,Sold Units,618
+2013,Clementi,Studio Apartment,Rental Units,0
+2013,Clementi,Studio Apartment,Sold Units,0
+2013,Clementi,HUDC,Sold Units,0
+2013,Geylang,1-room,Rental Units,1044
+2013,Geylang,1-room,Sold Units,0
+2013,Geylang,2-room,Rental Units,2398
+2013,Geylang,2-room,Sold Units,752
+2013,Geylang,3-room,Rental Units,481
+2013,Geylang,3-room,Sold Units,10875
+2013,Geylang,4-room,Rental Units,0
+2013,Geylang,4-room,Sold Units,9180
+2013,Geylang,5-room,Rental Units,0
+2013,Geylang,5-room,Sold Units,3590
+2013,Geylang,Executive,Sold Units,830
+2013,Geylang,Studio Apartment,Rental Units,0
+2013,Geylang,Studio Apartment,Sold Units,107
+2013,Geylang,HUDC,Sold Units,0
+2013,Hougang,1-room,Rental Units,532
+2013,Hougang,1-room,Sold Units,0
+2013,Hougang,2-room,Rental Units,624
+2013,Hougang,2-room,Sold Units,268
+2013,Hougang,3-room,Rental Units,220
+2013,Hougang,3-room,Sold Units,9668
+2013,Hougang,4-room,Rental Units,0
+2013,Hougang,4-room,Sold Units,23854
+2013,Hougang,5-room,Rental Units,0
+2013,Hougang,5-room,Sold Units,9958
+2013,Hougang,Executive,Sold Units,4310
+2013,Hougang,Studio Apartment,Rental Units,0
+2013,Hougang,Studio Apartment,Sold Units,192
+2013,Hougang,HUDC,Sold Units,622
+2013,Jurong East,1-room,Rental Units,352
+2013,Jurong East,1-room,Sold Units,0
+2013,Jurong East,2-room,Rental Units,110
+2013,Jurong East,2-room,Sold Units,302
+2013,Jurong East,3-room,Rental Units,30
+2013,Jurong East,3-room,Sold Units,6791
+2013,Jurong East,4-room,Rental Units,0
+2013,Jurong East,4-room,Sold Units,7855
+2013,Jurong East,5-room,Rental Units,0
+2013,Jurong East,5-room,Sold Units,5925
+2013,Jurong East,Executive,Sold Units,1871
+2013,Jurong East,Studio Apartment,Rental Units,0
+2013,Jurong East,Studio Apartment,Sold Units,143
+2013,Jurong East,HUDC,Sold Units,0
+2013,Jurong West,1-room,Rental Units,540
+2013,Jurong West,1-room,Sold Units,0
+2013,Jurong West,2-room,Rental Units,1169
+2013,Jurong West,2-room,Sold Units,461
+2013,Jurong West,3-room,Rental Units,704
+2013,Jurong West,3-room,Sold Units,11526
+2013,Jurong West,4-room,Rental Units,0
+2013,Jurong West,4-room,Sold Units,27938
+2013,Jurong West,5-room,Rental Units,0
+2013,Jurong West,5-room,Sold Units,21191
+2013,Jurong West,Executive,Sold Units,6507
+2013,Jurong West,Studio Apartment,Rental Units,0
+2013,Jurong West,Studio Apartment,Sold Units,287
+2013,Jurong West,HUDC,Sold Units,0
+2013,Kallang/Whampoa,1-room,Rental Units,4401
+2013,Kallang/Whampoa,1-room,Sold Units,0
+2013,Kallang/Whampoa,2-room,Rental Units,2024
+2013,Kallang/Whampoa,2-room,Sold Units,445
+2013,Kallang/Whampoa,3-room,Rental Units,11
+2013,Kallang/Whampoa,3-room,Sold Units,13144
+2013,Kallang/Whampoa,4-room,Rental Units,1
+2013,Kallang/Whampoa,4-room,Sold Units,9848
+2013,Kallang/Whampoa,5-room,Rental Units,0
+2013,Kallang/Whampoa,5-room,Sold Units,5365
+2013,Kallang/Whampoa,Executive,Sold Units,503
+2013,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2013,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2013,Kallang/Whampoa,HUDC,Sold Units,0
+2013,Marine Parade,1-room,Rental Units,0
+2013,Marine Parade,1-room,Sold Units,0
+2013,Marine Parade,2-room,Rental Units,1324
+2013,Marine Parade,2-room,Sold Units,26
+2013,Marine Parade,3-room,Rental Units,1
+2013,Marine Parade,3-room,Sold Units,3038
+2013,Marine Parade,4-room,Rental Units,0
+2013,Marine Parade,4-room,Sold Units,1798
+2013,Marine Parade,5-room,Rental Units,0
+2013,Marine Parade,5-room,Sold Units,1676
+2013,Marine Parade,Executive,Sold Units,0
+2013,Marine Parade,Studio Apartment,Rental Units,0
+2013,Marine Parade,Studio Apartment,Sold Units,0
+2013,Marine Parade,HUDC,Sold Units,0
+2013,Pasir Ris,1-room,Rental Units,176
+2013,Pasir Ris,1-room,Sold Units,0
+2013,Pasir Ris,2-room,Rental Units,44
+2013,Pasir Ris,2-room,Sold Units,21
+2013,Pasir Ris,3-room,Rental Units,1
+2013,Pasir Ris,3-room,Sold Units,163
+2013,Pasir Ris,4-room,Rental Units,0
+2013,Pasir Ris,4-room,Sold Units,10716
+2013,Pasir Ris,5-room,Rental Units,0
+2013,Pasir Ris,5-room,Sold Units,9055
+2013,Pasir Ris,Executive,Sold Units,7460
+2013,Pasir Ris,Studio Apartment,Rental Units,0
+2013,Pasir Ris,Studio Apartment,Sold Units,185
+2013,Pasir Ris,HUDC,Sold Units,98
+2013,Punggol,1-room,Rental Units,701
+2013,Punggol,1-room,Sold Units,0
+2013,Punggol,2-room,Rental Units,186
+2013,Punggol,2-room,Sold Units,646
+2013,Punggol,3-room,Rental Units,0
+2013,Punggol,3-room,Sold Units,1764
+2013,Punggol,4-room,Rental Units,0
+2013,Punggol,4-room,Sold Units,14166
+2013,Punggol,5-room,Rental Units,0
+2013,Punggol,5-room,Sold Units,11970
+2013,Punggol,Executive,Sold Units,1126
+2013,Punggol,Studio Apartment,Rental Units,0
+2013,Punggol,Studio Apartment,Sold Units,318
+2013,Punggol,HUDC,Sold Units,0
+2013,Queenstown,1-room,Rental Units,575
+2013,Queenstown,1-room,Sold Units,0
+2013,Queenstown,2-room,Rental Units,1699
+2013,Queenstown,2-room,Sold Units,1529
+2013,Queenstown,3-room,Rental Units,81
+2013,Queenstown,3-room,Sold Units,14559
+2013,Queenstown,4-room,Rental Units,0
+2013,Queenstown,4-room,Sold Units,7663
+2013,Queenstown,5-room,Rental Units,0
+2013,Queenstown,5-room,Sold Units,3767
+2013,Queenstown,Executive,Sold Units,354
+2013,Queenstown,Studio Apartment,Rental Units,0
+2013,Queenstown,Studio Apartment,Sold Units,266
+2013,Queenstown,HUDC,Sold Units,0
+2013,Sembawang,1-room,Rental Units,169
+2013,Sembawang,1-room,Sold Units,0
+2013,Sembawang,2-room,Rental Units,67
+2013,Sembawang,2-room,Sold Units,397
+2013,Sembawang,3-room,Rental Units,0
+2013,Sembawang,3-room,Sold Units,349
+2013,Sembawang,4-room,Rental Units,0
+2013,Sembawang,4-room,Sold Units,8447
+2013,Sembawang,5-room,Rental Units,0
+2013,Sembawang,5-room,Sold Units,7556
+2013,Sembawang,Executive,Sold Units,2870
+2013,Sembawang,Studio Apartment,Rental Units,0
+2013,Sembawang,Studio Apartment,Sold Units,0
+2013,Sembawang,HUDC,Sold Units,0
+2013,Sengkang,1-room,Rental Units,512
+2013,Sengkang,1-room,Sold Units,0
+2013,Sengkang,2-room,Rental Units,220
+2013,Sengkang,2-room,Sold Units,872
+2013,Sengkang,3-room,Rental Units,0
+2013,Sengkang,3-room,Sold Units,1961
+2013,Sengkang,4-room,Rental Units,0
+2013,Sengkang,4-room,Sold Units,24883
+2013,Sengkang,5-room,Rental Units,0
+2013,Sengkang,5-room,Sold Units,20308
+2013,Sengkang,Executive,Sold Units,4462
+2013,Sengkang,Studio Apartment,Rental Units,0
+2013,Sengkang,Studio Apartment,Sold Units,240
+2013,Sengkang,HUDC,Sold Units,0
+2013,Serangoon,1-room,Rental Units,182
+2013,Serangoon,1-room,Sold Units,0
+2013,Serangoon,2-room,Rental Units,142
+2013,Serangoon,2-room,Sold Units,77
+2013,Serangoon,3-room,Rental Units,0
+2013,Serangoon,3-room,Sold Units,4545
+2013,Serangoon,4-room,Rental Units,0
+2013,Serangoon,4-room,Sold Units,10231
+2013,Serangoon,5-room,Rental Units,0
+2013,Serangoon,5-room,Sold Units,3752
+2013,Serangoon,Executive,Sold Units,2365
+2013,Serangoon,Studio Apartment,Rental Units,0
+2013,Serangoon,Studio Apartment,Sold Units,0
+2013,Serangoon,HUDC,Sold Units,244
+2013,Tampines,1-room,Rental Units,775
+2013,Tampines,1-room,Sold Units,0
+2013,Tampines,2-room,Rental Units,387
+2013,Tampines,2-room,Sold Units,251
+2013,Tampines,3-room,Rental Units,16
+2013,Tampines,3-room,Sold Units,12528
+2013,Tampines,4-room,Rental Units,0
+2013,Tampines,4-room,Sold Units,27529
+2013,Tampines,5-room,Rental Units,0
+2013,Tampines,5-room,Sold Units,16777
+2013,Tampines,Executive,Sold Units,5845
+2013,Tampines,Studio Apartment,Rental Units,0
+2013,Tampines,Studio Apartment,Sold Units,417
+2013,Tampines,HUDC,Sold Units,0
+2013,Toa Payoh,1-room,Rental Units,1170
+2013,Toa Payoh,1-room,Sold Units,0
+2013,Toa Payoh,2-room,Rental Units,2898
+2013,Toa Payoh,2-room,Sold Units,715
+2013,Toa Payoh,3-room,Rental Units,26
+2013,Toa Payoh,3-room,Sold Units,14996
+2013,Toa Payoh,4-room,Rental Units,0
+2013,Toa Payoh,4-room,Sold Units,9610
+2013,Toa Payoh,5-room,Rental Units,0
+2013,Toa Payoh,5-room,Sold Units,6016
+2013,Toa Payoh,Executive,Sold Units,854
+2013,Toa Payoh,Studio Apartment,Rental Units,0
+2013,Toa Payoh,Studio Apartment,Sold Units,156
+2013,Toa Payoh,HUDC,Sold Units,175
+2013,Woodlands,1-room,Rental Units,1492
+2013,Woodlands,1-room,Sold Units,0
+2013,Woodlands,2-room,Rental Units,743
+2013,Woodlands,2-room,Sold Units,263
+2013,Woodlands,3-room,Rental Units,64
+2013,Woodlands,3-room,Sold Units,6037
+2013,Woodlands,4-room,Rental Units,154
+2013,Woodlands,4-room,Sold Units,27285
+2013,Woodlands,5-room,Rental Units,0
+2013,Woodlands,5-room,Sold Units,19345
+2013,Woodlands,Executive,Sold Units,6190
+2013,Woodlands,Studio Apartment,Rental Units,0
+2013,Woodlands,Studio Apartment,Sold Units,416
+2013,Woodlands,HUDC,Sold Units,0
+2013,Yishun,1-room,Rental Units,530
+2013,Yishun,1-room,Sold Units,0
+2013,Yishun,2-room,Rental Units,180
+2013,Yishun,2-room,Sold Units,438
+2013,Yishun,3-room,Rental Units,23
+2013,Yishun,3-room,Sold Units,13995
+2013,Yishun,4-room,Rental Units,0
+2013,Yishun,4-room,Sold Units,26451
+2013,Yishun,5-room,Rental Units,0
+2013,Yishun,5-room,Sold Units,8162
+2013,Yishun,Executive,Sold Units,2741
+2013,Yishun,Studio Apartment,Rental Units,0
+2013,Yishun,Studio Apartment,Sold Units,357
+2013,Yishun,HUDC,Sold Units,0
+2014,Ang Mo Kio,1-room,Rental Units,1318
+2014,Ang Mo Kio,1-room,Sold Units,0
+2014,Ang Mo Kio,2-room,Rental Units,2855
+2014,Ang Mo Kio,2-room,Sold Units,638
+2014,Ang Mo Kio,3-room,Rental Units,15
+2014,Ang Mo Kio,3-room,Sold Units,24224
+2014,Ang Mo Kio,4-room,Rental Units,1
+2014,Ang Mo Kio,4-room,Sold Units,13681
+2014,Ang Mo Kio,5-room,Rental Units,0
+2014,Ang Mo Kio,5-room,Sold Units,5654
+2014,Ang Mo Kio,Executive,Sold Units,489
+2014,Ang Mo Kio,Studio Apartment,Rental Units,0
+2014,Ang Mo Kio,Studio Apartment,Sold Units,294
+2014,Bedok,1-room,Rental Units,2250
+2014,Bedok,1-room,Sold Units,0
+2014,Bedok,2-room,Rental Units,1145
+2014,Bedok,2-room,Sold Units,778
+2014,Bedok,3-room,Rental Units,9
+2014,Bedok,3-room,Sold Units,22506
+2014,Bedok,4-room,Rental Units,0
+2014,Bedok,4-room,Sold Units,20065
+2014,Bedok,5-room,Rental Units,0
+2014,Bedok,5-room,Sold Units,10390
+2014,Bedok,Executive,Sold Units,2713
+2014,Bedok,Studio Apartment,Rental Units,0
+2014,Bedok,Studio Apartment,Sold Units,259
+2014,Bishan,1-room,Rental Units,396
+2014,Bishan,1-room,Sold Units,0
+2014,Bishan,2-room,Rental Units,0
+2014,Bishan,2-room,Sold Units,0
+2014,Bishan,3-room,Rental Units,0
+2014,Bishan,3-room,Sold Units,2357
+2014,Bishan,4-room,Rental Units,0
+2014,Bishan,4-room,Sold Units,9359
+2014,Bishan,5-room,Rental Units,0
+2014,Bishan,5-room,Sold Units,5716
+2014,Bishan,Executive,Sold Units,1660
+2014,Bishan,Studio Apartment,Rental Units,0
+2014,Bishan,Studio Apartment,Sold Units,176
+2014,Bukit Batok,1-room,Rental Units,305
+2014,Bukit Batok,1-room,Sold Units,0
+2014,Bukit Batok,2-room,Rental Units,95
+2014,Bukit Batok,2-room,Sold Units,0
+2014,Bukit Batok,3-room,Rental Units,1
+2014,Bukit Batok,3-room,Sold Units,10279
+2014,Bukit Batok,4-room,Rental Units,0
+2014,Bukit Batok,4-room,Sold Units,13851
+2014,Bukit Batok,5-room,Rental Units,0
+2014,Bukit Batok,5-room,Sold Units,4832
+2014,Bukit Batok,Executive,Sold Units,2732
+2014,Bukit Batok,Studio Apartment,Rental Units,0
+2014,Bukit Batok,Studio Apartment,Sold Units,180
+2014,Bukit Merah,1-room,Rental Units,4476
+2014,Bukit Merah,1-room,Sold Units,255
+2014,Bukit Merah,2-room,Rental Units,4599
+2014,Bukit Merah,2-room,Sold Units,1157
+2014,Bukit Merah,3-room,Rental Units,165
+2014,Bukit Merah,3-room,Sold Units,15808
+2014,Bukit Merah,4-room,Rental Units,96
+2014,Bukit Merah,4-room,Sold Units,15316
+2014,Bukit Merah,5-room,Rental Units,0
+2014,Bukit Merah,5-room,Sold Units,9479
+2014,Bukit Merah,Executive,Sold Units,44
+2014,Bukit Merah,Studio Apartment,Rental Units,0
+2014,Bukit Merah,Studio Apartment,Sold Units,490
+2014,Bukit Panjang,1-room,Rental Units,223
+2014,Bukit Panjang,1-room,Sold Units,0
+2014,Bukit Panjang,2-room,Rental Units,74
+2014,Bukit Panjang,2-room,Sold Units,435
+2014,Bukit Panjang,3-room,Rental Units,0
+2014,Bukit Panjang,3-room,Sold Units,3532
+2014,Bukit Panjang,4-room,Rental Units,0
+2014,Bukit Panjang,4-room,Sold Units,16307
+2014,Bukit Panjang,5-room,Rental Units,0
+2014,Bukit Panjang,5-room,Sold Units,10101
+2014,Bukit Panjang,Executive,Sold Units,3381
+2014,Bukit Panjang,Studio Apartment,Rental Units,0
+2014,Bukit Panjang,Studio Apartment,Sold Units,410
+2014,Bukit Timah,1-room,Rental Units,0
+2014,Bukit Timah,1-room,Sold Units,0
+2014,Bukit Timah,2-room,Rental Units,0
+2014,Bukit Timah,2-room,Sold Units,0
+2014,Bukit Timah,3-room,Rental Units,0
+2014,Bukit Timah,3-room,Sold Units,441
+2014,Bukit Timah,4-room,Rental Units,0
+2014,Bukit Timah,4-room,Sold Units,920
+2014,Bukit Timah,5-room,Rental Units,0
+2014,Bukit Timah,5-room,Sold Units,682
+2014,Bukit Timah,Executive,Sold Units,380
+2014,Bukit Timah,Studio Apartment,Rental Units,0
+2014,Bukit Timah,Studio Apartment,Sold Units,0
+2014,Central Area,1-room,Rental Units,2075
+2014,Central Area,1-room,Sold Units,0
+2014,Central Area,2-room,Rental Units,971
+2014,Central Area,2-room,Sold Units,345
+2014,Central Area,3-room,Rental Units,52
+2014,Central Area,3-room,Sold Units,4687
+2014,Central Area,4-room,Rental Units,14
+2014,Central Area,4-room,Sold Units,3515
+2014,Central Area,5-room,Rental Units,0
+2014,Central Area,5-room,Sold Units,903
+2014,Central Area,Executive,Sold Units,9
+2014,Central Area,Studio Apartment,Rental Units,0
+2014,Central Area,Studio Apartment,Sold Units,0
+2014,Choa Chu Kang,1-room,Rental Units,355
+2014,Choa Chu Kang,1-room,Sold Units,0
+2014,Choa Chu Kang,2-room,Rental Units,513
+2014,Choa Chu Kang,2-room,Sold Units,238
+2014,Choa Chu Kang,3-room,Rental Units,0
+2014,Choa Chu Kang,3-room,Sold Units,1849
+2014,Choa Chu Kang,4-room,Rental Units,0
+2014,Choa Chu Kang,4-room,Sold Units,20412
+2014,Choa Chu Kang,5-room,Rental Units,0
+2014,Choa Chu Kang,5-room,Sold Units,13720
+2014,Choa Chu Kang,Executive,Sold Units,4762
+2014,Choa Chu Kang,Studio Apartment,Rental Units,0
+2014,Choa Chu Kang,Studio Apartment,Sold Units,544
+2014,Clementi,1-room,Rental Units,474
+2014,Clementi,1-room,Sold Units,0
+2014,Clementi,2-room,Rental Units,683
+2014,Clementi,2-room,Sold Units,249
+2014,Clementi,3-room,Rental Units,10
+2014,Clementi,3-room,Sold Units,11937
+2014,Clementi,4-room,Rental Units,0
+2014,Clementi,4-room,Sold Units,8593
+2014,Clementi,5-room,Rental Units,0
+2014,Clementi,5-room,Sold Units,2915
+2014,Clementi,Executive,Sold Units,619
+2014,Clementi,Studio Apartment,Rental Units,0
+2014,Clementi,Studio Apartment,Sold Units,0
+2014,Geylang,1-room,Rental Units,1044
+2014,Geylang,1-room,Sold Units,0
+2014,Geylang,2-room,Rental Units,2398
+2014,Geylang,2-room,Sold Units,752
+2014,Geylang,3-room,Rental Units,477
+2014,Geylang,3-room,Sold Units,10877
+2014,Geylang,4-room,Rental Units,0
+2014,Geylang,4-room,Sold Units,9181
+2014,Geylang,5-room,Rental Units,0
+2014,Geylang,5-room,Sold Units,3590
+2014,Geylang,Executive,Sold Units,830
+2014,Geylang,Studio Apartment,Rental Units,0
+2014,Geylang,Studio Apartment,Sold Units,107
+2014,Hougang,1-room,Rental Units,532
+2014,Hougang,1-room,Sold Units,0
+2014,Hougang,2-room,Rental Units,624
+2014,Hougang,2-room,Sold Units,268
+2014,Hougang,3-room,Rental Units,30
+2014,Hougang,3-room,Sold Units,10152
+2014,Hougang,4-room,Rental Units,0
+2014,Hougang,4-room,Sold Units,24932
+2014,Hougang,5-room,Rental Units,0
+2014,Hougang,5-room,Sold Units,10606
+2014,Hougang,Executive,Sold Units,4310
+2014,Hougang,Studio Apartment,Rental Units,0
+2014,Hougang,Studio Apartment,Sold Units,192
+2014,Jurong East,1-room,Rental Units,352
+2014,Jurong East,1-room,Sold Units,0
+2014,Jurong East,2-room,Rental Units,110
+2014,Jurong East,2-room,Sold Units,302
+2014,Jurong East,3-room,Rental Units,26
+2014,Jurong East,3-room,Sold Units,6795
+2014,Jurong East,4-room,Rental Units,0
+2014,Jurong East,4-room,Sold Units,7855
+2014,Jurong East,5-room,Rental Units,0
+2014,Jurong East,5-room,Sold Units,5925
+2014,Jurong East,Executive,Sold Units,1871
+2014,Jurong East,Studio Apartment,Rental Units,0
+2014,Jurong East,Studio Apartment,Sold Units,143
+2014,Jurong West,1-room,Rental Units,540
+2014,Jurong West,1-room,Sold Units,0
+2014,Jurong West,2-room,Rental Units,1169
+2014,Jurong West,2-room,Sold Units,461
+2014,Jurong West,3-room,Rental Units,703
+2014,Jurong West,3-room,Sold Units,11765
+2014,Jurong West,4-room,Rental Units,0
+2014,Jurong West,4-room,Sold Units,28348
+2014,Jurong West,5-room,Rental Units,0
+2014,Jurong West,5-room,Sold Units,21553
+2014,Jurong West,Executive,Sold Units,6507
+2014,Jurong West,Studio Apartment,Rental Units,0
+2014,Jurong West,Studio Apartment,Sold Units,709
+2014,Kallang/Whampoa,1-room,Rental Units,4401
+2014,Kallang/Whampoa,1-room,Sold Units,0
+2014,Kallang/Whampoa,2-room,Rental Units,2024
+2014,Kallang/Whampoa,2-room,Sold Units,445
+2014,Kallang/Whampoa,3-room,Rental Units,11
+2014,Kallang/Whampoa,3-room,Sold Units,13140
+2014,Kallang/Whampoa,4-room,Rental Units,1
+2014,Kallang/Whampoa,4-room,Sold Units,9848
+2014,Kallang/Whampoa,5-room,Rental Units,0
+2014,Kallang/Whampoa,5-room,Sold Units,5366
+2014,Kallang/Whampoa,Executive,Sold Units,504
+2014,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2014,Kallang/Whampoa,Studio Apartment,Sold Units,0
+2014,Marine Parade,1-room,Rental Units,0
+2014,Marine Parade,1-room,Sold Units,0
+2014,Marine Parade,2-room,Rental Units,1324
+2014,Marine Parade,2-room,Sold Units,26
+2014,Marine Parade,3-room,Rental Units,1
+2014,Marine Parade,3-room,Sold Units,3036
+2014,Marine Parade,4-room,Rental Units,0
+2014,Marine Parade,4-room,Sold Units,1798
+2014,Marine Parade,5-room,Rental Units,0
+2014,Marine Parade,5-room,Sold Units,1677
+2014,Marine Parade,Executive,Sold Units,0
+2014,Marine Parade,Studio Apartment,Rental Units,0
+2014,Marine Parade,Studio Apartment,Sold Units,0
+2014,Pasir Ris,1-room,Rental Units,176
+2014,Pasir Ris,1-room,Sold Units,0
+2014,Pasir Ris,2-room,Rental Units,44
+2014,Pasir Ris,2-room,Sold Units,278
+2014,Pasir Ris,3-room,Rental Units,1
+2014,Pasir Ris,3-room,Sold Units,387
+2014,Pasir Ris,4-room,Rental Units,0
+2014,Pasir Ris,4-room,Sold Units,11404
+2014,Pasir Ris,5-room,Rental Units,0
+2014,Pasir Ris,5-room,Sold Units,9272
+2014,Pasir Ris,Executive,Sold Units,7460
+2014,Pasir Ris,Studio Apartment,Rental Units,0
+2014,Pasir Ris,Studio Apartment,Sold Units,185
+2014,Punggol,1-room,Rental Units,701
+2014,Punggol,1-room,Sold Units,0
+2014,Punggol,2-room,Rental Units,186
+2014,Punggol,2-room,Sold Units,804
+2014,Punggol,3-room,Rental Units,0
+2014,Punggol,3-room,Sold Units,2707
+2014,Punggol,4-room,Rental Units,0
+2014,Punggol,4-room,Sold Units,16613
+2014,Punggol,5-room,Rental Units,0
+2014,Punggol,5-room,Sold Units,13060
+2014,Punggol,Executive,Sold Units,1126
+2014,Punggol,Studio Apartment,Rental Units,0
+2014,Punggol,Studio Apartment,Sold Units,318
+2014,Queenstown,1-room,Rental Units,575
+2014,Queenstown,1-room,Sold Units,0
+2014,Queenstown,2-room,Rental Units,1699
+2014,Queenstown,2-room,Sold Units,1529
+2014,Queenstown,3-room,Rental Units,49
+2014,Queenstown,3-room,Sold Units,14005
+2014,Queenstown,4-room,Rental Units,0
+2014,Queenstown,4-room,Sold Units,8112
+2014,Queenstown,5-room,Rental Units,0
+2014,Queenstown,5-room,Sold Units,3852
+2014,Queenstown,Executive,Sold Units,354
+2014,Queenstown,Studio Apartment,Rental Units,0
+2014,Queenstown,Studio Apartment,Sold Units,371
+2014,Sembawang,1-room,Rental Units,321
+2014,Sembawang,1-room,Sold Units,0
+2014,Sembawang,2-room,Rental Units,371
+2014,Sembawang,2-room,Sold Units,397
+2014,Sembawang,3-room,Rental Units,0
+2014,Sembawang,3-room,Sold Units,349
+2014,Sembawang,4-room,Rental Units,0
+2014,Sembawang,4-room,Sold Units,8447
+2014,Sembawang,5-room,Rental Units,0
+2014,Sembawang,5-room,Sold Units,7556
+2014,Sembawang,Executive,Sold Units,2870
+2014,Sembawang,Studio Apartment,Rental Units,0
+2014,Sembawang,Studio Apartment,Sold Units,0
+2014,Sengkang,1-room,Rental Units,685
+2014,Sengkang,1-room,Sold Units,0
+2014,Sengkang,2-room,Rental Units,391
+2014,Sengkang,2-room,Sold Units,965
+2014,Sengkang,3-room,Rental Units,0
+2014,Sengkang,3-room,Sold Units,2800
+2014,Sengkang,4-room,Rental Units,0
+2014,Sengkang,4-room,Sold Units,27560
+2014,Sengkang,5-room,Rental Units,0
+2014,Sengkang,5-room,Sold Units,22170
+2014,Sengkang,Executive,Sold Units,4462
+2014,Sengkang,Studio Apartment,Rental Units,0
+2014,Sengkang,Studio Apartment,Sold Units,464
+2014,Serangoon,1-room,Rental Units,182
+2014,Serangoon,1-room,Sold Units,0
+2014,Serangoon,2-room,Rental Units,142
+2014,Serangoon,2-room,Sold Units,77
+2014,Serangoon,3-room,Rental Units,0
+2014,Serangoon,3-room,Sold Units,4543
+2014,Serangoon,4-room,Rental Units,0
+2014,Serangoon,4-room,Sold Units,10231
+2014,Serangoon,5-room,Rental Units,0
+2014,Serangoon,5-room,Sold Units,3753
+2014,Serangoon,Executive,Sold Units,2365
+2014,Serangoon,Studio Apartment,Rental Units,0
+2014,Serangoon,Studio Apartment,Sold Units,0
+2014,Tampines,1-room,Rental Units,775
+2014,Tampines,1-room,Sold Units,0
+2014,Tampines,2-room,Rental Units,387
+2014,Tampines,2-room,Sold Units,315
+2014,Tampines,3-room,Rental Units,16
+2014,Tampines,3-room,Sold Units,13066
+2014,Tampines,4-room,Rental Units,0
+2014,Tampines,4-room,Sold Units,28361
+2014,Tampines,5-room,Rental Units,0
+2014,Tampines,5-room,Sold Units,17147
+2014,Tampines,Executive,Sold Units,5845
+2014,Tampines,Studio Apartment,Rental Units,0
+2014,Tampines,Studio Apartment,Sold Units,687
+2014,Toa Payoh,1-room,Rental Units,1169
+2014,Toa Payoh,1-room,Sold Units,0
+2014,Toa Payoh,2-room,Rental Units,2898
+2014,Toa Payoh,2-room,Sold Units,715
+2014,Toa Payoh,3-room,Rental Units,26
+2014,Toa Payoh,3-room,Sold Units,14994
+2014,Toa Payoh,4-room,Rental Units,0
+2014,Toa Payoh,4-room,Sold Units,9610
+2014,Toa Payoh,5-room,Rental Units,0
+2014,Toa Payoh,5-room,Sold Units,6017
+2014,Toa Payoh,Executive,Sold Units,854
+2014,Toa Payoh,Studio Apartment,Rental Units,0
+2014,Toa Payoh,Studio Apartment,Sold Units,156
+2014,Woodlands,1-room,Rental Units,1492
+2014,Woodlands,1-room,Sold Units,0
+2014,Woodlands,2-room,Rental Units,743
+2014,Woodlands,2-room,Sold Units,383
+2014,Woodlands,3-room,Rental Units,64
+2014,Woodlands,3-room,Sold Units,6248
+2014,Woodlands,4-room,Rental Units,154
+2014,Woodlands,4-room,Sold Units,27345
+2014,Woodlands,5-room,Rental Units,0
+2014,Woodlands,5-room,Sold Units,19405
+2014,Woodlands,Executive,Sold Units,6191
+2014,Woodlands,Studio Apartment,Rental Units,0
+2014,Woodlands,Studio Apartment,Sold Units,650
+2014,Yishun,1-room,Rental Units,726
+2014,Yishun,1-room,Sold Units,0
+2014,Yishun,2-room,Rental Units,460
+2014,Yishun,2-room,Sold Units,438
+2014,Yishun,3-room,Rental Units,18
+2014,Yishun,3-room,Sold Units,14488
+2014,Yishun,4-room,Rental Units,0
+2014,Yishun,4-room,Sold Units,28023
+2014,Yishun,5-room,Rental Units,0
+2014,Yishun,5-room,Sold Units,9061
+2014,Yishun,Executive,Sold Units,2741
+2014,Yishun,Studio Apartment,Rental Units,0
+2014,Yishun,Studio Apartment,Sold Units,743
+2015,Ang Mo Kio,1-room,Rental Units,1318
+2015,Ang Mo Kio,1-room,Sold Units,0
+2015,Ang Mo Kio,2-room,Rental Units,2855
+2015,Ang Mo Kio,2-room,Sold Units,651
+2015,Ang Mo Kio,3-room,Rental Units,13
+2015,Ang Mo Kio,3-room,Sold Units,24224
+2015,Ang Mo Kio,4-room,Rental Units,1
+2015,Ang Mo Kio,4-room,Sold Units,13681
+2015,Ang Mo Kio,5-room,Rental Units,0
+2015,Ang Mo Kio,5-room,Sold Units,5654
+2015,Ang Mo Kio,Executive,Sold Units,490
+2015,Ang Mo Kio,Studio Apartment,Rental Units,0
+2015,Ang Mo Kio,Studio Apartment,Sold Units,281
+2015,Bedok,1-room,Rental Units,2530
+2015,Bedok,1-room,Sold Units,0
+2015,Bedok,2-room,Rental Units,1411
+2015,Bedok,2-room,Sold Units,875
+2015,Bedok,3-room,Rental Units,6
+2015,Bedok,3-room,Sold Units,22633
+2015,Bedok,4-room,Rental Units,0
+2015,Bedok,4-room,Sold Units,20398
+2015,Bedok,5-room,Rental Units,0
+2015,Bedok,5-room,Sold Units,10390
+2015,Bedok,Executive,Sold Units,2714
+2015,Bedok,Studio Apartment,Rental Units,0
+2015,Bedok,Studio Apartment,Sold Units,234
+2015,Bishan,1-room,Rental Units,396
+2015,Bishan,1-room,Sold Units,0
+2015,Bishan,2-room,Rental Units,0
+2015,Bishan,2-room,Sold Units,5
+2015,Bishan,3-room,Rental Units,0
+2015,Bishan,3-room,Sold Units,2357
+2015,Bishan,4-room,Rental Units,0
+2015,Bishan,4-room,Sold Units,9359
+2015,Bishan,5-room,Rental Units,0
+2015,Bishan,5-room,Sold Units,5716
+2015,Bishan,Executive,Sold Units,1660
+2015,Bishan,Studio Apartment,Rental Units,0
+2015,Bishan,Studio Apartment,Sold Units,171
+2015,Bukit Batok,1-room,Rental Units,385
+2015,Bukit Batok,1-room,Sold Units,0
+2015,Bukit Batok,2-room,Rental Units,239
+2015,Bukit Batok,2-room,Sold Units,3
+2015,Bukit Batok,3-room,Rental Units,1
+2015,Bukit Batok,3-room,Sold Units,10277
+2015,Bukit Batok,4-room,Rental Units,0
+2015,Bukit Batok,4-room,Sold Units,13851
+2015,Bukit Batok,5-room,Rental Units,0
+2015,Bukit Batok,5-room,Sold Units,4833
+2015,Bukit Batok,Executive,Sold Units,2732
+2015,Bukit Batok,Studio Apartment,Rental Units,0
+2015,Bukit Batok,Studio Apartment,Sold Units,177
+2015,Bukit Merah,1-room,Rental Units,4476
+2015,Bukit Merah,1-room,Sold Units,255
+2015,Bukit Merah,2-room,Rental Units,4599
+2015,Bukit Merah,2-room,Sold Units,1178
+2015,Bukit Merah,3-room,Rental Units,164
+2015,Bukit Merah,3-room,Sold Units,15801
+2015,Bukit Merah,4-room,Rental Units,0
+2015,Bukit Merah,4-room,Sold Units,15369
+2015,Bukit Merah,5-room,Rental Units,0
+2015,Bukit Merah,5-room,Sold Units,9477
+2015,Bukit Merah,Executive,Sold Units,44
+2015,Bukit Merah,Studio Apartment,Rental Units,0
+2015,Bukit Merah,Studio Apartment,Sold Units,469
+2015,Bukit Panjang,1-room,Rental Units,223
+2015,Bukit Panjang,1-room,Sold Units,0
+2015,Bukit Panjang,2-room,Rental Units,74
+2015,Bukit Panjang,2-room,Sold Units,465
+2015,Bukit Panjang,3-room,Rental Units,0
+2015,Bukit Panjang,3-room,Sold Units,3678
+2015,Bukit Panjang,4-room,Rental Units,0
+2015,Bukit Panjang,4-room,Sold Units,16699
+2015,Bukit Panjang,5-room,Rental Units,0
+2015,Bukit Panjang,5-room,Sold Units,10425
+2015,Bukit Panjang,Executive,Sold Units,3381
+2015,Bukit Panjang,Studio Apartment,Rental Units,0
+2015,Bukit Panjang,Studio Apartment,Sold Units,380
+2015,Bukit Timah,1-room,Rental Units,0
+2015,Bukit Timah,1-room,Sold Units,0
+2015,Bukit Timah,2-room,Rental Units,0
+2015,Bukit Timah,2-room,Sold Units,35
+2015,Bukit Timah,3-room,Rental Units,0
+2015,Bukit Timah,3-room,Sold Units,441
+2015,Bukit Timah,4-room,Rental Units,0
+2015,Bukit Timah,4-room,Sold Units,920
+2015,Bukit Timah,5-room,Rental Units,0
+2015,Bukit Timah,5-room,Sold Units,682
+2015,Bukit Timah,Executive,Sold Units,380
+2015,Bukit Timah,Studio Apartment,Rental Units,0
+2015,Bukit Timah,Studio Apartment,Sold Units,97
+2015,Central Area,1-room,Rental Units,2075
+2015,Central Area,1-room,Sold Units,0
+2015,Central Area,2-room,Rental Units,971
+2015,Central Area,2-room,Sold Units,345
+2015,Central Area,3-room,Rental Units,52
+2015,Central Area,3-room,Sold Units,4687
+2015,Central Area,4-room,Rental Units,14
+2015,Central Area,4-room,Sold Units,3515
+2015,Central Area,5-room,Rental Units,0
+2015,Central Area,5-room,Sold Units,903
+2015,Central Area,Executive,Sold Units,9
+2015,Central Area,Studio Apartment,Rental Units,0
+2015,Central Area,Studio Apartment,Sold Units,0
+2015,Choa Chu Kang,1-room,Rental Units,355
+2015,Choa Chu Kang,1-room,Sold Units,0
+2015,Choa Chu Kang,2-room,Rental Units,513
+2015,Choa Chu Kang,2-room,Sold Units,365
+2015,Choa Chu Kang,3-room,Rental Units,0
+2015,Choa Chu Kang,3-room,Sold Units,2137
+2015,Choa Chu Kang,4-room,Rental Units,0
+2015,Choa Chu Kang,4-room,Sold Units,22485
+2015,Choa Chu Kang,5-room,Rental Units,0
+2015,Choa Chu Kang,5-room,Sold Units,15293
+2015,Choa Chu Kang,Executive,Sold Units,4762
+2015,Choa Chu Kang,Studio Apartment,Rental Units,0
+2015,Choa Chu Kang,Studio Apartment,Sold Units,515
+2015,Clementi,1-room,Rental Units,474
+2015,Clementi,1-room,Sold Units,0
+2015,Clementi,2-room,Rental Units,467
+2015,Clementi,2-room,Sold Units,249
+2015,Clementi,3-room,Rental Units,10
+2015,Clementi,3-room,Sold Units,11937
+2015,Clementi,4-room,Rental Units,0
+2015,Clementi,4-room,Sold Units,8593
+2015,Clementi,5-room,Rental Units,0
+2015,Clementi,5-room,Sold Units,2915
+2015,Clementi,Executive,Sold Units,619
+2015,Clementi,Studio Apartment,Rental Units,0
+2015,Clementi,Studio Apartment,Sold Units,0
+2015,Geylang,1-room,Rental Units,1044
+2015,Geylang,1-room,Sold Units,0
+2015,Geylang,2-room,Rental Units,2398
+2015,Geylang,2-room,Sold Units,816
+2015,Geylang,3-room,Rental Units,472
+2015,Geylang,3-room,Sold Units,11233
+2015,Geylang,4-room,Rental Units,0
+2015,Geylang,4-room,Sold Units,9607
+2015,Geylang,5-room,Rental Units,0
+2015,Geylang,5-room,Sold Units,3591
+2015,Geylang,Executive,Sold Units,830
+2015,Geylang,Studio Apartment,Rental Units,0
+2015,Geylang,Studio Apartment,Sold Units,239
+2015,Hougang,1-room,Rental Units,532
+2015,Hougang,1-room,Sold Units,0
+2015,Hougang,2-room,Rental Units,624
+2015,Hougang,2-room,Sold Units,293
+2015,Hougang,3-room,Rental Units,28
+2015,Hougang,3-room,Sold Units,10290
+2015,Hougang,4-room,Rental Units,0
+2015,Hougang,4-room,Sold Units,25238
+2015,Hougang,5-room,Rental Units,0
+2015,Hougang,5-room,Sold Units,10844
+2015,Hougang,Executive,Sold Units,4310
+2015,Hougang,Studio Apartment,Rental Units,0
+2015,Hougang,Studio Apartment,Sold Units,365
+2015,Jurong East,1-room,Rental Units,352
+2015,Jurong East,1-room,Sold Units,0
+2015,Jurong East,2-room,Rental Units,110
+2015,Jurong East,2-room,Sold Units,308
+2015,Jurong East,3-room,Rental Units,23
+2015,Jurong East,3-room,Sold Units,6983
+2015,Jurong East,4-room,Rental Units,0
+2015,Jurong East,4-room,Sold Units,8188
+2015,Jurong East,5-room,Rental Units,0
+2015,Jurong East,5-room,Sold Units,5925
+2015,Jurong East,Executive,Sold Units,1871
+2015,Jurong East,Studio Apartment,Rental Units,0
+2015,Jurong East,Studio Apartment,Sold Units,137
+2015,Jurong West,1-room,Rental Units,540
+2015,Jurong West,1-room,Sold Units,0
+2015,Jurong West,2-room,Rental Units,1169
+2015,Jurong West,2-room,Sold Units,563
+2015,Jurong West,3-room,Rental Units,698
+2015,Jurong West,3-room,Sold Units,11961
+2015,Jurong West,4-room,Rental Units,0
+2015,Jurong West,4-room,Sold Units,28457
+2015,Jurong West,5-room,Rental Units,0
+2015,Jurong West,5-room,Sold Units,21569
+2015,Jurong West,Executive,Sold Units,6507
+2015,Jurong West,Studio Apartment,Rental Units,0
+2015,Jurong West,Studio Apartment,Sold Units,639
+2015,Kallang/Whampoa,1-room,Rental Units,4401
+2015,Kallang/Whampoa,1-room,Sold Units,0
+2015,Kallang/Whampoa,2-room,Rental Units,2024
+2015,Kallang/Whampoa,2-room,Sold Units,506
+2015,Kallang/Whampoa,3-room,Rental Units,8
+2015,Kallang/Whampoa,3-room,Sold Units,13313
+2015,Kallang/Whampoa,4-room,Rental Units,0
+2015,Kallang/Whampoa,4-room,Sold Units,10178
+2015,Kallang/Whampoa,5-room,Rental Units,0
+2015,Kallang/Whampoa,5-room,Sold Units,5392
+2015,Kallang/Whampoa,Executive,Sold Units,504
+2015,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2015,Kallang/Whampoa,Studio Apartment,Sold Units,38
+2015,Marine Parade,1-room,Rental Units,0
+2015,Marine Parade,1-room,Sold Units,0
+2015,Marine Parade,2-room,Rental Units,1324
+2015,Marine Parade,2-room,Sold Units,26
+2015,Marine Parade,3-room,Rental Units,1
+2015,Marine Parade,3-room,Sold Units,3036
+2015,Marine Parade,4-room,Rental Units,0
+2015,Marine Parade,4-room,Sold Units,1798
+2015,Marine Parade,5-room,Rental Units,0
+2015,Marine Parade,5-room,Sold Units,1677
+2015,Marine Parade,Executive,Sold Units,0
+2015,Marine Parade,Studio Apartment,Rental Units,0
+2015,Marine Parade,Studio Apartment,Sold Units,0
+2015,Pasir Ris,1-room,Rental Units,176
+2015,Pasir Ris,1-room,Sold Units,0
+2015,Pasir Ris,2-room,Rental Units,44
+2015,Pasir Ris,2-room,Sold Units,282
+2015,Pasir Ris,3-room,Rental Units,1
+2015,Pasir Ris,3-room,Sold Units,490
+2015,Pasir Ris,4-room,Rental Units,0
+2015,Pasir Ris,4-room,Sold Units,11641
+2015,Pasir Ris,5-room,Rental Units,0
+2015,Pasir Ris,5-room,Sold Units,9379
+2015,Pasir Ris,Executive,Sold Units,7460
+2015,Pasir Ris,Studio Apartment,Rental Units,0
+2015,Pasir Ris,Studio Apartment,Sold Units,181
+2015,Punggol,1-room,Rental Units,871
+2015,Punggol,1-room,Sold Units,0
+2015,Punggol,2-room,Rental Units,462
+2015,Punggol,2-room,Sold Units,950
+2015,Punggol,3-room,Rental Units,0
+2015,Punggol,3-room,Sold Units,3639
+2015,Punggol,4-room,Rental Units,0
+2015,Punggol,4-room,Sold Units,19631
+2015,Punggol,5-room,Rental Units,0
+2015,Punggol,5-room,Sold Units,14612
+2015,Punggol,Executive,Sold Units,1126
+2015,Punggol,Studio Apartment,Rental Units,0
+2015,Punggol,Studio Apartment,Sold Units,456
+2015,Queenstown,1-room,Rental Units,575
+2015,Queenstown,1-room,Sold Units,0
+2015,Queenstown,2-room,Rental Units,1699
+2015,Queenstown,2-room,Sold Units,1547
+2015,Queenstown,3-room,Rental Units,49
+2015,Queenstown,3-room,Sold Units,14161
+2015,Queenstown,4-room,Rental Units,0
+2015,Queenstown,4-room,Sold Units,8794
+2015,Queenstown,5-room,Rental Units,0
+2015,Queenstown,5-room,Sold Units,3972
+2015,Queenstown,Executive,Sold Units,354
+2015,Queenstown,Studio Apartment,Rental Units,0
+2015,Queenstown,Studio Apartment,Sold Units,353
+2015,Sembawang,1-room,Rental Units,321
+2015,Sembawang,1-room,Sold Units,0
+2015,Sembawang,2-room,Rental Units,371
+2015,Sembawang,2-room,Sold Units,397
+2015,Sembawang,3-room,Rental Units,0
+2015,Sembawang,3-room,Sold Units,349
+2015,Sembawang,4-room,Rental Units,0
+2015,Sembawang,4-room,Sold Units,8447
+2015,Sembawang,5-room,Rental Units,0
+2015,Sembawang,5-room,Sold Units,7556
+2015,Sembawang,Executive,Sold Units,2870
+2015,Sembawang,Studio Apartment,Rental Units,0
+2015,Sembawang,Studio Apartment,Sold Units,0
+2015,Sengkang,1-room,Rental Units,685
+2015,Sengkang,1-room,Sold Units,0
+2015,Sengkang,2-room,Rental Units,391
+2015,Sengkang,2-room,Sold Units,1088
+2015,Sengkang,3-room,Rental Units,0
+2015,Sengkang,3-room,Sold Units,3341
+2015,Sengkang,4-room,Rental Units,0
+2015,Sengkang,4-room,Sold Units,29405
+2015,Sengkang,5-room,Rental Units,0
+2015,Sengkang,5-room,Sold Units,23134
+2015,Sengkang,Executive,Sold Units,4462
+2015,Sengkang,Studio Apartment,Rental Units,0
+2015,Sengkang,Studio Apartment,Sold Units,541
+2015,Serangoon,1-room,Rental Units,272
+2015,Serangoon,1-room,Sold Units,0
+2015,Serangoon,2-room,Rental Units,247
+2015,Serangoon,2-room,Sold Units,77
+2015,Serangoon,3-room,Rental Units,0
+2015,Serangoon,3-room,Sold Units,4543
+2015,Serangoon,4-room,Rental Units,0
+2015,Serangoon,4-room,Sold Units,10231
+2015,Serangoon,5-room,Rental Units,0
+2015,Serangoon,5-room,Sold Units,3753
+2015,Serangoon,Executive,Sold Units,2365
+2015,Serangoon,Studio Apartment,Rental Units,0
+2015,Serangoon,Studio Apartment,Sold Units,0
+2015,Tampines,1-room,Rental Units,775
+2015,Tampines,1-room,Sold Units,0
+2015,Tampines,2-room,Rental Units,387
+2015,Tampines,2-room,Sold Units,353
+2015,Tampines,3-room,Rental Units,14
+2015,Tampines,3-room,Sold Units,13093
+2015,Tampines,4-room,Rental Units,0
+2015,Tampines,4-room,Sold Units,28631
+2015,Tampines,5-room,Rental Units,0
+2015,Tampines,5-room,Sold Units,17312
+2015,Tampines,Executive,Sold Units,5846
+2015,Tampines,Studio Apartment,Rental Units,0
+2015,Tampines,Studio Apartment,Sold Units,649
+2015,Toa Payoh,1-room,Rental Units,1168
+2015,Toa Payoh,1-room,Sold Units,0
+2015,Toa Payoh,2-room,Rental Units,2895
+2015,Toa Payoh,2-room,Sold Units,759
+2015,Toa Payoh,3-room,Rental Units,26
+2015,Toa Payoh,3-room,Sold Units,15096
+2015,Toa Payoh,4-room,Rental Units,0
+2015,Toa Payoh,4-room,Sold Units,9756
+2015,Toa Payoh,5-room,Rental Units,0
+2015,Toa Payoh,5-room,Sold Units,6017
+2015,Toa Payoh,Executive,Sold Units,854
+2015,Toa Payoh,Studio Apartment,Rental Units,0
+2015,Toa Payoh,Studio Apartment,Sold Units,300
+2015,Woodlands,1-room,Rental Units,1603
+2015,Woodlands,1-room,Sold Units,0
+2015,Woodlands,2-room,Rental Units,851
+2015,Woodlands,2-room,Sold Units,433
+2015,Woodlands,3-room,Rental Units,5
+2015,Woodlands,3-room,Sold Units,6343
+2015,Woodlands,4-room,Rental Units,96
+2015,Woodlands,4-room,Sold Units,27763
+2015,Woodlands,5-room,Rental Units,0
+2015,Woodlands,5-room,Sold Units,19639
+2015,Woodlands,Executive,Sold Units,6191
+2015,Woodlands,Studio Apartment,Rental Units,0
+2015,Woodlands,Studio Apartment,Sold Units,855
+2015,Yishun,1-room,Rental Units,1038
+2015,Yishun,1-room,Sold Units,0
+2015,Yishun,2-room,Rental Units,724
+2015,Yishun,2-room,Sold Units,476
+2015,Yishun,3-room,Rental Units,15
+2015,Yishun,3-room,Sold Units,14515
+2015,Yishun,4-room,Rental Units,0
+2015,Yishun,4-room,Sold Units,28155
+2015,Yishun,5-room,Rental Units,0
+2015,Yishun,5-room,Sold Units,9169
+2015,Yishun,Executive,Sold Units,2741
+2015,Yishun,Studio Apartment,Rental Units,0
+2015,Yishun,Studio Apartment,Sold Units,705
+2016,Ang Mo Kio,1-room,Rental Units,1318
+2016,Ang Mo Kio,1-room,Sold Units,0
+2016,Ang Mo Kio,2-room,Rental Units,2855
+2016,Ang Mo Kio,2-room,Sold Units,657
+2016,Ang Mo Kio,3-room,Rental Units,12
+2016,Ang Mo Kio,3-room,Sold Units,24351
+2016,Ang Mo Kio,4-room,Rental Units,1
+2016,Ang Mo Kio,4-room,Sold Units,14117
+2016,Ang Mo Kio,5-room,Rental Units,0
+2016,Ang Mo Kio,5-room,Sold Units,5947
+2016,Ang Mo Kio,Executive,Sold Units,492
+2016,Ang Mo Kio,Studio Apartment,Rental Units,0
+2016,Ang Mo Kio,Studio Apartment,Sold Units,275
+2016,Bedok,1-room,Rental Units,2530
+2016,Bedok,1-room,Sold Units,0
+2016,Bedok,2-room,Rental Units,1376
+2016,Bedok,2-room,Sold Units,829
+2016,Bedok,3-room,Rental Units,6
+2016,Bedok,3-room,Sold Units,22631
+2016,Bedok,4-room,Rental Units,0
+2016,Bedok,4-room,Sold Units,20397
+2016,Bedok,5-room,Rental Units,0
+2016,Bedok,5-room,Sold Units,10390
+2016,Bedok,Executive,Sold Units,2715
+2016,Bedok,Studio Apartment,Rental Units,0
+2016,Bedok,Studio Apartment,Sold Units,226
+2016,Bishan,1-room,Rental Units,564
+2016,Bishan,1-room,Sold Units,0
+2016,Bishan,2-room,Rental Units,240
+2016,Bishan,2-room,Sold Units,9
+2016,Bishan,3-room,Rental Units,0
+2016,Bishan,3-room,Sold Units,2357
+2016,Bishan,4-room,Rental Units,0
+2016,Bishan,4-room,Sold Units,9359
+2016,Bishan,5-room,Rental Units,0
+2016,Bishan,5-room,Sold Units,5716
+2016,Bishan,Executive,Sold Units,1660
+2016,Bishan,Studio Apartment,Rental Units,0
+2016,Bishan,Studio Apartment,Sold Units,167
+2016,Bukit Batok,1-room,Rental Units,385
+2016,Bukit Batok,1-room,Sold Units,0
+2016,Bukit Batok,2-room,Rental Units,239
+2016,Bukit Batok,2-room,Sold Units,7
+2016,Bukit Batok,3-room,Rental Units,1
+2016,Bukit Batok,3-room,Sold Units,10487
+2016,Bukit Batok,4-room,Rental Units,0
+2016,Bukit Batok,4-room,Sold Units,14368
+2016,Bukit Batok,5-room,Rental Units,0
+2016,Bukit Batok,5-room,Sold Units,5335
+2016,Bukit Batok,Executive,Sold Units,2733
+2016,Bukit Batok,Studio Apartment,Rental Units,0
+2016,Bukit Batok,Studio Apartment,Sold Units,173
+2016,Bukit Merah,1-room,Rental Units,4476
+2016,Bukit Merah,1-room,Sold Units,255
+2016,Bukit Merah,2-room,Rental Units,4599
+2016,Bukit Merah,2-room,Sold Units,1225
+2016,Bukit Merah,3-room,Rental Units,162
+2016,Bukit Merah,3-room,Sold Units,15929
+2016,Bukit Merah,4-room,Rental Units,0
+2016,Bukit Merah,4-room,Sold Units,15697
+2016,Bukit Merah,5-room,Rental Units,2
+2016,Bukit Merah,5-room,Sold Units,9476
+2016,Bukit Merah,Executive,Sold Units,44
+2016,Bukit Merah,Studio Apartment,Rental Units,0
+2016,Bukit Merah,Studio Apartment,Sold Units,536
+2016,Bukit Panjang,1-room,Rental Units,223
+2016,Bukit Panjang,1-room,Sold Units,0
+2016,Bukit Panjang,2-room,Rental Units,74
+2016,Bukit Panjang,2-room,Sold Units,474
+2016,Bukit Panjang,3-room,Rental Units,0
+2016,Bukit Panjang,3-room,Sold Units,3678
+2016,Bukit Panjang,4-room,Rental Units,0
+2016,Bukit Panjang,4-room,Sold Units,16699
+2016,Bukit Panjang,5-room,Rental Units,0
+2016,Bukit Panjang,5-room,Sold Units,10425
+2016,Bukit Panjang,Executive,Sold Units,3381
+2016,Bukit Panjang,Studio Apartment,Rental Units,0
+2016,Bukit Panjang,Studio Apartment,Sold Units,371
+2016,Bukit Timah,1-room,Rental Units,0
+2016,Bukit Timah,1-room,Sold Units,0
+2016,Bukit Timah,2-room,Rental Units,0
+2016,Bukit Timah,2-room,Sold Units,45
+2016,Bukit Timah,3-room,Rental Units,0
+2016,Bukit Timah,3-room,Sold Units,441
+2016,Bukit Timah,4-room,Rental Units,0
+2016,Bukit Timah,4-room,Sold Units,920
+2016,Bukit Timah,5-room,Rental Units,0
+2016,Bukit Timah,5-room,Sold Units,682
+2016,Bukit Timah,Executive,Sold Units,380
+2016,Bukit Timah,Studio Apartment,Rental Units,0
+2016,Bukit Timah,Studio Apartment,Sold Units,87
+2016,Central Area,1-room,Rental Units,2075
+2016,Central Area,1-room,Sold Units,0
+2016,Central Area,2-room,Rental Units,971
+2016,Central Area,2-room,Sold Units,345
+2016,Central Area,3-room,Rental Units,52
+2016,Central Area,3-room,Sold Units,4489
+2016,Central Area,4-room,Rental Units,14
+2016,Central Area,4-room,Sold Units,3463
+2016,Central Area,5-room,Rental Units,0
+2016,Central Area,5-room,Sold Units,901
+2016,Central Area,Executive,Sold Units,6
+2016,Central Area,Studio Apartment,Rental Units,0
+2016,Central Area,Studio Apartment,Sold Units,0
+2016,Choa Chu Kang,1-room,Rental Units,565
+2016,Choa Chu Kang,1-room,Sold Units,0
+2016,Choa Chu Kang,2-room,Rental Units,813
+2016,Choa Chu Kang,2-room,Sold Units,378
+2016,Choa Chu Kang,3-room,Rental Units,0
+2016,Choa Chu Kang,3-room,Sold Units,2463
+2016,Choa Chu Kang,4-room,Rental Units,0
+2016,Choa Chu Kang,4-room,Sold Units,23465
+2016,Choa Chu Kang,5-room,Rental Units,2
+2016,Choa Chu Kang,5-room,Sold Units,15950
+2016,Choa Chu Kang,Executive,Sold Units,4762
+2016,Choa Chu Kang,Studio Apartment,Rental Units,0
+2016,Choa Chu Kang,Studio Apartment,Sold Units,502
+2016,Clementi,1-room,Rental Units,474
+2016,Clementi,1-room,Sold Units,0
+2016,Clementi,2-room,Rental Units,467
+2016,Clementi,2-room,Sold Units,249
+2016,Clementi,3-room,Rental Units,7
+2016,Clementi,3-room,Sold Units,12226
+2016,Clementi,4-room,Rental Units,0
+2016,Clementi,4-room,Sold Units,9050
+2016,Clementi,5-room,Rental Units,0
+2016,Clementi,5-room,Sold Units,3132
+2016,Clementi,Executive,Sold Units,621
+2016,Clementi,Studio Apartment,Rental Units,0
+2016,Clementi,Studio Apartment,Sold Units,0
+2016,Geylang,1-room,Rental Units,1231
+2016,Geylang,1-room,Sold Units,0
+2016,Geylang,2-room,Rental Units,2675
+2016,Geylang,2-room,Sold Units,848
+2016,Geylang,3-room,Rental Units,386
+2016,Geylang,3-room,Sold Units,11320
+2016,Geylang,4-room,Rental Units,0
+2016,Geylang,4-room,Sold Units,9607
+2016,Geylang,5-room,Rental Units,0
+2016,Geylang,5-room,Sold Units,3591
+2016,Geylang,Executive,Sold Units,830
+2016,Geylang,Studio Apartment,Rental Units,0
+2016,Geylang,Studio Apartment,Sold Units,216
+2016,Hougang,1-room,Rental Units,532
+2016,Hougang,1-room,Sold Units,0
+2016,Hougang,2-room,Rental Units,624
+2016,Hougang,2-room,Sold Units,442
+2016,Hougang,3-room,Rental Units,24
+2016,Hougang,3-room,Sold Units,10586
+2016,Hougang,4-room,Rental Units,0
+2016,Hougang,4-room,Sold Units,25842
+2016,Hougang,5-room,Rental Units,0
+2016,Hougang,5-room,Sold Units,10844
+2016,Hougang,Executive,Sold Units,4310
+2016,Hougang,Studio Apartment,Rental Units,0
+2016,Hougang,Studio Apartment,Sold Units,658
+2016,Jurong East,1-room,Rental Units,352
+2016,Jurong East,1-room,Sold Units,0
+2016,Jurong East,2-room,Rental Units,110
+2016,Jurong East,2-room,Sold Units,317
+2016,Jurong East,3-room,Rental Units,22
+2016,Jurong East,3-room,Sold Units,6984
+2016,Jurong East,4-room,Rental Units,0
+2016,Jurong East,4-room,Sold Units,8188
+2016,Jurong East,5-room,Rental Units,0
+2016,Jurong East,5-room,Sold Units,5925
+2016,Jurong East,Executive,Sold Units,1871
+2016,Jurong East,Studio Apartment,Rental Units,0
+2016,Jurong East,Studio Apartment,Sold Units,128
+2016,Jurong West,1-room,Rental Units,540
+2016,Jurong West,1-room,Sold Units,0
+2016,Jurong West,2-room,Rental Units,1169
+2016,Jurong West,2-room,Sold Units,663
+2016,Jurong West,3-room,Rental Units,682
+2016,Jurong West,3-room,Sold Units,12132
+2016,Jurong West,4-room,Rental Units,0
+2016,Jurong West,4-room,Sold Units,29193
+2016,Jurong West,5-room,Rental Units,0
+2016,Jurong West,5-room,Sold Units,21995
+2016,Jurong West,Executive,Sold Units,6507
+2016,Jurong West,Studio Apartment,Rental Units,0
+2016,Jurong West,Studio Apartment,Sold Units,629
+2016,Kallang/Whampoa,1-room,Rental Units,4401
+2016,Kallang/Whampoa,1-room,Sold Units,0
+2016,Kallang/Whampoa,2-room,Rental Units,2024
+2016,Kallang/Whampoa,2-room,Sold Units,702
+2016,Kallang/Whampoa,3-room,Rental Units,9
+2016,Kallang/Whampoa,3-room,Sold Units,13955
+2016,Kallang/Whampoa,4-room,Rental Units,0
+2016,Kallang/Whampoa,4-room,Sold Units,11854
+2016,Kallang/Whampoa,5-room,Rental Units,0
+2016,Kallang/Whampoa,5-room,Sold Units,5477
+2016,Kallang/Whampoa,Executive,Sold Units,504
+2016,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2016,Kallang/Whampoa,Studio Apartment,Sold Units,268
+2016,Marine Parade,1-room,Rental Units,0
+2016,Marine Parade,1-room,Sold Units,0
+2016,Marine Parade,2-room,Rental Units,1324
+2016,Marine Parade,2-room,Sold Units,26
+2016,Marine Parade,3-room,Rental Units,1
+2016,Marine Parade,3-room,Sold Units,3036
+2016,Marine Parade,4-room,Rental Units,0
+2016,Marine Parade,4-room,Sold Units,1798
+2016,Marine Parade,5-room,Rental Units,0
+2016,Marine Parade,5-room,Sold Units,1677
+2016,Marine Parade,Executive,Sold Units,0
+2016,Marine Parade,Studio Apartment,Rental Units,0
+2016,Marine Parade,Studio Apartment,Sold Units,0
+2016,Pasir Ris,1-room,Rental Units,176
+2016,Pasir Ris,1-room,Sold Units,0
+2016,Pasir Ris,2-room,Rental Units,44
+2016,Pasir Ris,2-room,Sold Units,286
+2016,Pasir Ris,3-room,Rental Units,1
+2016,Pasir Ris,3-room,Sold Units,490
+2016,Pasir Ris,4-room,Rental Units,0
+2016,Pasir Ris,4-room,Sold Units,11641
+2016,Pasir Ris,5-room,Rental Units,0
+2016,Pasir Ris,5-room,Sold Units,9379
+2016,Pasir Ris,Executive,Sold Units,7460
+2016,Pasir Ris,Studio Apartment,Rental Units,0
+2016,Pasir Ris,Studio Apartment,Sold Units,177
+2016,Punggol,1-room,Rental Units,871
+2016,Punggol,1-room,Sold Units,0
+2016,Punggol,2-room,Rental Units,462
+2016,Punggol,2-room,Sold Units,971
+2016,Punggol,3-room,Rental Units,0
+2016,Punggol,3-room,Sold Units,3814
+2016,Punggol,4-room,Rental Units,0
+2016,Punggol,4-room,Sold Units,20406
+2016,Punggol,5-room,Rental Units,0
+2016,Punggol,5-room,Sold Units,15300
+2016,Punggol,Executive,Sold Units,1126
+2016,Punggol,Studio Apartment,Rental Units,0
+2016,Punggol,Studio Apartment,Sold Units,435
+2016,Queenstown,1-room,Rental Units,575
+2016,Queenstown,1-room,Sold Units,0
+2016,Queenstown,2-room,Rental Units,1699
+2016,Queenstown,2-room,Sold Units,1554
+2016,Queenstown,3-room,Rental Units,48
+2016,Queenstown,3-room,Sold Units,14162
+2016,Queenstown,4-room,Rental Units,0
+2016,Queenstown,4-room,Sold Units,8794
+2016,Queenstown,5-room,Rental Units,0
+2016,Queenstown,5-room,Sold Units,3972
+2016,Queenstown,Executive,Sold Units,354
+2016,Queenstown,Studio Apartment,Rental Units,0
+2016,Queenstown,Studio Apartment,Sold Units,346
+2016,Sembawang,1-room,Rental Units,601
+2016,Sembawang,1-room,Sold Units,0
+2016,Sembawang,2-room,Rental Units,595
+2016,Sembawang,2-room,Sold Units,589
+2016,Sembawang,3-room,Rental Units,0
+2016,Sembawang,3-room,Sold Units,504
+2016,Sembawang,4-room,Rental Units,0
+2016,Sembawang,4-room,Sold Units,9441
+2016,Sembawang,5-room,Rental Units,0
+2016,Sembawang,5-room,Sold Units,8272
+2016,Sembawang,Executive,Sold Units,2870
+2016,Sembawang,Studio Apartment,Rental Units,0
+2016,Sembawang,Studio Apartment,Sold Units,0
+2016,Sengkang,1-room,Rental Units,685
+2016,Sengkang,1-room,Sold Units,0
+2016,Sengkang,2-room,Rental Units,391
+2016,Sengkang,2-room,Sold Units,1240
+2016,Sengkang,3-room,Rental Units,0
+2016,Sengkang,3-room,Sold Units,3737
+2016,Sengkang,4-room,Rental Units,0
+2016,Sengkang,4-room,Sold Units,30619
+2016,Sengkang,5-room,Rental Units,0
+2016,Sengkang,5-room,Sold Units,24069
+2016,Sengkang,Executive,Sold Units,4462
+2016,Sengkang,Studio Apartment,Rental Units,0
+2016,Sengkang,Studio Apartment,Sold Units,778
+2016,Serangoon,1-room,Rental Units,272
+2016,Serangoon,1-room,Sold Units,0
+2016,Serangoon,2-room,Rental Units,247
+2016,Serangoon,2-room,Sold Units,77
+2016,Serangoon,3-room,Rental Units,0
+2016,Serangoon,3-room,Sold Units,4541
+2016,Serangoon,4-room,Rental Units,0
+2016,Serangoon,4-room,Sold Units,10231
+2016,Serangoon,5-room,Rental Units,0
+2016,Serangoon,5-room,Sold Units,3754
+2016,Serangoon,Executive,Sold Units,2365
+2016,Serangoon,Studio Apartment,Rental Units,0
+2016,Serangoon,Studio Apartment,Sold Units,0
+2016,Tampines,1-room,Rental Units,1075
+2016,Tampines,1-room,Sold Units,0
+2016,Tampines,2-room,Rental Units,597
+2016,Tampines,2-room,Sold Units,368
+2016,Tampines,3-room,Rental Units,14
+2016,Tampines,3-room,Sold Units,13224
+2016,Tampines,4-room,Rental Units,0
+2016,Tampines,4-room,Sold Units,28840
+2016,Tampines,5-room,Rental Units,0
+2016,Tampines,5-room,Sold Units,17313
+2016,Tampines,Executive,Sold Units,5846
+2016,Tampines,Studio Apartment,Rental Units,0
+2016,Tampines,Studio Apartment,Sold Units,634
+2016,Toa Payoh,1-room,Rental Units,1168
+2016,Toa Payoh,1-room,Sold Units,0
+2016,Toa Payoh,2-room,Rental Units,2895
+2016,Toa Payoh,2-room,Sold Units,773
+2016,Toa Payoh,3-room,Rental Units,47
+2016,Toa Payoh,3-room,Sold Units,15252
+2016,Toa Payoh,4-room,Rental Units,0
+2016,Toa Payoh,4-room,Sold Units,10066
+2016,Toa Payoh,5-room,Rental Units,0
+2016,Toa Payoh,5-room,Sold Units,6017
+2016,Toa Payoh,Executive,Sold Units,854
+2016,Toa Payoh,Studio Apartment,Rental Units,0
+2016,Toa Payoh,Studio Apartment,Sold Units,286
+2016,Woodlands,1-room,Rental Units,1824
+2016,Woodlands,1-room,Sold Units,0
+2016,Woodlands,2-room,Rental Units,1046
+2016,Woodlands,2-room,Sold Units,475
+2016,Woodlands,3-room,Rental Units,10
+2016,Woodlands,3-room,Sold Units,6476
+2016,Woodlands,4-room,Rental Units,96
+2016,Woodlands,4-room,Sold Units,27947
+2016,Woodlands,5-room,Rental Units,0
+2016,Woodlands,5-room,Sold Units,19713
+2016,Woodlands,Executive,Sold Units,6191
+2016,Woodlands,Studio Apartment,Rental Units,0
+2016,Woodlands,Studio Apartment,Sold Units,824
+2016,Yishun,1-room,Rental Units,1038
+2016,Yishun,1-room,Sold Units,0
+2016,Yishun,2-room,Rental Units,724
+2016,Yishun,2-room,Sold Units,690
+2016,Yishun,3-room,Rental Units,9
+2016,Yishun,3-room,Sold Units,15394
+2016,Yishun,4-room,Rental Units,0
+2016,Yishun,4-room,Sold Units,29657
+2016,Yishun,5-room,Rental Units,0
+2016,Yishun,5-room,Sold Units,9837
+2016,Yishun,Executive,Sold Units,2741
+2016,Yishun,Studio Apartment,Rental Units,0
+2016,Yishun,Studio Apartment,Sold Units,814
+2017,Ang Mo Kio,1-room,Rental Units,1318
+2017,Ang Mo Kio,1-room,Sold Units,0
+2017,Ang Mo Kio,2-room,Rental Units,2855
+2017,Ang Mo Kio,2-room,Sold Units,771
+2017,Ang Mo Kio,3-room,Rental Units,11
+2017,Ang Mo Kio,3-room,Sold Units,24522
+2017,Ang Mo Kio,4-room,Rental Units,1
+2017,Ang Mo Kio,4-room,Sold Units,14480
+2017,Ang Mo Kio,5-room,Rental Units,0
+2017,Ang Mo Kio,5-room,Sold Units,5948
+2017,Ang Mo Kio,Executive,Sold Units,495
+2017,Ang Mo Kio,Studio Apartment,Rental Units,0
+2017,Ang Mo Kio,Studio Apartment,Sold Units,332
+2017,Bedok,1-room,Rental Units,2530
+2017,Bedok,1-room,Sold Units,0
+2017,Bedok,2-room,Rental Units,1376
+2017,Bedok,2-room,Sold Units,833
+2017,Bedok,3-room,Rental Units,6
+2017,Bedok,3-room,Sold Units,22747
+2017,Bedok,4-room,Rental Units,0
+2017,Bedok,4-room,Sold Units,20901
+2017,Bedok,5-room,Rental Units,0
+2017,Bedok,5-room,Sold Units,10498
+2017,Bedok,Executive,Sold Units,2715
+2017,Bedok,Studio Apartment,Rental Units,0
+2017,Bedok,Studio Apartment,Sold Units,222
+2017,Bishan,1-room,Rental Units,564
+2017,Bishan,1-room,Sold Units,0
+2017,Bishan,2-room,Rental Units,240
+2017,Bishan,2-room,Sold Units,14
+2017,Bishan,3-room,Rental Units,0
+2017,Bishan,3-room,Sold Units,2357
+2017,Bishan,4-room,Rental Units,0
+2017,Bishan,4-room,Sold Units,9359
+2017,Bishan,5-room,Rental Units,0
+2017,Bishan,5-room,Sold Units,5716
+2017,Bishan,Executive,Sold Units,1660
+2017,Bishan,Studio Apartment,Rental Units,0
+2017,Bishan,Studio Apartment,Sold Units,162
+2017,Bukit Batok,1-room,Rental Units,593
+2017,Bukit Batok,1-room,Sold Units,0
+2017,Bukit Batok,2-room,Rental Units,463
+2017,Bukit Batok,2-room,Sold Units,1235
+2017,Bukit Batok,3-room,Rental Units,1
+2017,Bukit Batok,3-room,Sold Units,11385
+2017,Bukit Batok,4-room,Rental Units,0
+2017,Bukit Batok,4-room,Sold Units,16989
+2017,Bukit Batok,5-room,Rental Units,0
+2017,Bukit Batok,5-room,Sold Units,6958
+2017,Bukit Batok,Executive,Sold Units,2733
+2017,Bukit Batok,Studio Apartment,Rental Units,0
+2017,Bukit Batok,Studio Apartment,Sold Units,255
+2017,Bukit Merah,1-room,Rental Units,4476
+2017,Bukit Merah,1-room,Sold Units,255
+2017,Bukit Merah,2-room,Rental Units,4599
+2017,Bukit Merah,2-room,Sold Units,1437
+2017,Bukit Merah,3-room,Rental Units,165
+2017,Bukit Merah,3-room,Sold Units,16518
+2017,Bukit Merah,4-room,Rental Units,0
+2017,Bukit Merah,4-room,Sold Units,16827
+2017,Bukit Merah,5-room,Rental Units,2
+2017,Bukit Merah,5-room,Sold Units,9477
+2017,Bukit Merah,Executive,Sold Units,44
+2017,Bukit Merah,Studio Apartment,Rental Units,0
+2017,Bukit Merah,Studio Apartment,Sold Units,623
+2017,Bukit Panjang,1-room,Rental Units,223
+2017,Bukit Panjang,1-room,Sold Units,0
+2017,Bukit Panjang,2-room,Rental Units,74
+2017,Bukit Panjang,2-room,Sold Units,478
+2017,Bukit Panjang,3-room,Rental Units,0
+2017,Bukit Panjang,3-room,Sold Units,3678
+2017,Bukit Panjang,4-room,Rental Units,0
+2017,Bukit Panjang,4-room,Sold Units,16699
+2017,Bukit Panjang,5-room,Rental Units,0
+2017,Bukit Panjang,5-room,Sold Units,10425
+2017,Bukit Panjang,Executive,Sold Units,3381
+2017,Bukit Panjang,Studio Apartment,Rental Units,0
+2017,Bukit Panjang,Studio Apartment,Sold Units,367
+2017,Bukit Timah,1-room,Rental Units,0
+2017,Bukit Timah,1-room,Sold Units,0
+2017,Bukit Timah,2-room,Rental Units,0
+2017,Bukit Timah,2-room,Sold Units,46
+2017,Bukit Timah,3-room,Rental Units,0
+2017,Bukit Timah,3-room,Sold Units,441
+2017,Bukit Timah,4-room,Rental Units,0
+2017,Bukit Timah,4-room,Sold Units,920
+2017,Bukit Timah,5-room,Rental Units,0
+2017,Bukit Timah,5-room,Sold Units,682
+2017,Bukit Timah,Executive,Sold Units,380
+2017,Bukit Timah,Studio Apartment,Rental Units,0
+2017,Bukit Timah,Studio Apartment,Sold Units,86
+2017,Central Area,1-room,Rental Units,2075
+2017,Central Area,1-room,Sold Units,345
+2017,Central Area,2-room,Rental Units,971
+2017,Central Area,2-room,Sold Units,345
+2017,Central Area,3-room,Rental Units,52
+2017,Central Area,3-room,Sold Units,4216
+2017,Central Area,4-room,Rental Units,14
+2017,Central Area,4-room,Sold Units,3424
+2017,Central Area,5-room,Rental Units,0
+2017,Central Area,5-room,Sold Units,901
+2017,Central Area,Executive,Sold Units,6
+2017,Central Area,Studio Apartment,Rental Units,0
+2017,Central Area,Studio Apartment,Sold Units,0
+2017,Choa Chu Kang,1-room,Rental Units,565
+2017,Choa Chu Kang,1-room,Sold Units,0
+2017,Choa Chu Kang,2-room,Rental Units,813
+2017,Choa Chu Kang,2-room,Sold Units,389
+2017,Choa Chu Kang,3-room,Rental Units,0
+2017,Choa Chu Kang,3-room,Sold Units,2463
+2017,Choa Chu Kang,4-room,Rental Units,0
+2017,Choa Chu Kang,4-room,Sold Units,23465
+2017,Choa Chu Kang,5-room,Rental Units,2
+2017,Choa Chu Kang,5-room,Sold Units,15950
+2017,Choa Chu Kang,Executive,Sold Units,4762
+2017,Choa Chu Kang,Studio Apartment,Rental Units,0
+2017,Choa Chu Kang,Studio Apartment,Sold Units,491
+2017,Clementi,1-room,Rental Units,474
+2017,Clementi,1-room,Sold Units,0
+2017,Clementi,2-room,Rental Units,467
+2017,Clementi,2-room,Sold Units,303
+2017,Clementi,3-room,Rental Units,7
+2017,Clementi,3-room,Sold Units,12398
+2017,Clementi,4-room,Rental Units,0
+2017,Clementi,4-room,Sold Units,9249
+2017,Clementi,5-room,Rental Units,0
+2017,Clementi,5-room,Sold Units,3207
+2017,Clementi,Executive,Sold Units,622
+2017,Clementi,Studio Apartment,Rental Units,0
+2017,Clementi,Studio Apartment,Sold Units,0
+2017,Geylang,1-room,Rental Units,1231
+2017,Geylang,1-room,Sold Units,0
+2017,Geylang,2-room,Rental Units,2535
+2017,Geylang,2-room,Sold Units,853
+2017,Geylang,3-room,Rental Units,128
+2017,Geylang,3-room,Sold Units,11316
+2017,Geylang,4-room,Rental Units,0
+2017,Geylang,4-room,Sold Units,9607
+2017,Geylang,5-room,Rental Units,0
+2017,Geylang,5-room,Sold Units,3592
+2017,Geylang,Executive,Sold Units,831
+2017,Geylang,Studio Apartment,Rental Units,0
+2017,Geylang,Studio Apartment,Sold Units,211
+2017,Hougang,1-room,Rental Units,532
+2017,Hougang,1-room,Sold Units,0
+2017,Hougang,2-room,Rental Units,624
+2017,Hougang,2-room,Sold Units,464
+2017,Hougang,3-room,Rental Units,44
+2017,Hougang,3-room,Sold Units,10564
+2017,Hougang,4-room,Rental Units,0
+2017,Hougang,4-room,Sold Units,26074
+2017,Hougang,5-room,Rental Units,0
+2017,Hougang,5-room,Sold Units,11080
+2017,Hougang,Executive,Sold Units,4310
+2017,Hougang,Studio Apartment,Rental Units,0
+2017,Hougang,Studio Apartment,Sold Units,636
+2017,Jurong East,1-room,Rental Units,352
+2017,Jurong East,1-room,Sold Units,0
+2017,Jurong East,2-room,Rental Units,110
+2017,Jurong East,2-room,Sold Units,320
+2017,Jurong East,3-room,Rental Units,22
+2017,Jurong East,3-room,Sold Units,6984
+2017,Jurong East,4-room,Rental Units,0
+2017,Jurong East,4-room,Sold Units,8188
+2017,Jurong East,5-room,Rental Units,0
+2017,Jurong East,5-room,Sold Units,5925
+2017,Jurong East,Executive,Sold Units,1871
+2017,Jurong East,Studio Apartment,Rental Units,0
+2017,Jurong East,Studio Apartment,Sold Units,125
+2017,Jurong West,1-room,Rental Units,813
+2017,Jurong West,1-room,Sold Units,0
+2017,Jurong West,2-room,Rental Units,1442
+2017,Jurong West,2-room,Sold Units,791
+2017,Jurong West,3-room,Rental Units,704
+2017,Jurong West,3-room,Sold Units,11686
+2017,Jurong West,4-room,Rental Units,0
+2017,Jurong West,4-room,Sold Units,29495
+2017,Jurong West,5-room,Rental Units,0
+2017,Jurong West,5-room,Sold Units,22213
+2017,Jurong West,Executive,Sold Units,6507
+2017,Jurong West,Studio Apartment,Rental Units,0
+2017,Jurong West,Studio Apartment,Sold Units,650
+2017,Kallang/Whampoa,1-room,Rental Units,4401
+2017,Kallang/Whampoa,1-room,Sold Units,0
+2017,Kallang/Whampoa,2-room,Rental Units,2024
+2017,Kallang/Whampoa,2-room,Sold Units,730
+2017,Kallang/Whampoa,3-room,Rental Units,9
+2017,Kallang/Whampoa,3-room,Sold Units,13955
+2017,Kallang/Whampoa,4-room,Rental Units,0
+2017,Kallang/Whampoa,4-room,Sold Units,11854
+2017,Kallang/Whampoa,5-room,Rental Units,0
+2017,Kallang/Whampoa,5-room,Sold Units,5477
+2017,Kallang/Whampoa,Executive,Sold Units,504
+2017,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2017,Kallang/Whampoa,Studio Apartment,Sold Units,240
+2017,Marine Parade,1-room,Rental Units,0
+2017,Marine Parade,1-room,Sold Units,0
+2017,Marine Parade,2-room,Rental Units,1324
+2017,Marine Parade,2-room,Sold Units,26
+2017,Marine Parade,3-room,Rental Units,1
+2017,Marine Parade,3-room,Sold Units,3036
+2017,Marine Parade,4-room,Rental Units,0
+2017,Marine Parade,4-room,Sold Units,1798
+2017,Marine Parade,5-room,Rental Units,0
+2017,Marine Parade,5-room,Sold Units,1677
+2017,Marine Parade,Executive,Sold Units,0
+2017,Marine Parade,Studio Apartment,Rental Units,0
+2017,Marine Parade,Studio Apartment,Sold Units,0
+2017,Pasir Ris,1-room,Rental Units,176
+2017,Pasir Ris,1-room,Sold Units,0
+2017,Pasir Ris,2-room,Rental Units,44
+2017,Pasir Ris,2-room,Sold Units,290
+2017,Pasir Ris,3-room,Rental Units,1
+2017,Pasir Ris,3-room,Sold Units,490
+2017,Pasir Ris,4-room,Rental Units,0
+2017,Pasir Ris,4-room,Sold Units,11641
+2017,Pasir Ris,5-room,Rental Units,0
+2017,Pasir Ris,5-room,Sold Units,9379
+2017,Pasir Ris,Executive,Sold Units,7460
+2017,Pasir Ris,Studio Apartment,Rental Units,0
+2017,Pasir Ris,Studio Apartment,Sold Units,173
+2017,Punggol,1-room,Rental Units,1366
+2017,Punggol,1-room,Sold Units,0
+2017,Punggol,2-room,Rental Units,901
+2017,Punggol,2-room,Sold Units,1900
+2017,Punggol,3-room,Rental Units,0
+2017,Punggol,3-room,Sold Units,5061
+2017,Punggol,4-room,Rental Units,0
+2017,Punggol,4-room,Sold Units,22178
+2017,Punggol,5-room,Rental Units,0
+2017,Punggol,5-room,Sold Units,16271
+2017,Punggol,Executive,Sold Units,1126
+2017,Punggol,Studio Apartment,Rental Units,0
+2017,Punggol,Studio Apartment,Sold Units,426
+2017,Queenstown,1-room,Rental Units,575
+2017,Queenstown,1-room,Sold Units,0
+2017,Queenstown,2-room,Rental Units,1699
+2017,Queenstown,2-room,Sold Units,1668
+2017,Queenstown,3-room,Rental Units,48
+2017,Queenstown,3-room,Sold Units,14449
+2017,Queenstown,4-room,Rental Units,0
+2017,Queenstown,4-room,Sold Units,9456
+2017,Queenstown,5-room,Rental Units,0
+2017,Queenstown,5-room,Sold Units,3975
+2017,Queenstown,Executive,Sold Units,355
+2017,Queenstown,Studio Apartment,Rental Units,0
+2017,Queenstown,Studio Apartment,Sold Units,453
+2017,Sembawang,1-room,Rental Units,955
+2017,Sembawang,1-room,Sold Units,0
+2017,Sembawang,2-room,Rental Units,883
+2017,Sembawang,2-room,Sold Units,1537
+2017,Sembawang,3-room,Rental Units,0
+2017,Sembawang,3-room,Sold Units,1191
+2017,Sembawang,4-room,Rental Units,0
+2017,Sembawang,4-room,Sold Units,10880
+2017,Sembawang,5-room,Rental Units,0
+2017,Sembawang,5-room,Sold Units,8518
+2017,Sembawang,Executive,Sold Units,2870
+2017,Sembawang,Studio Apartment,Rental Units,0
+2017,Sembawang,Studio Apartment,Sold Units,0
+2017,Sengkang,1-room,Rental Units,685
+2017,Sengkang,1-room,Sold Units,0
+2017,Sengkang,2-room,Rental Units,391
+2017,Sengkang,2-room,Sold Units,1288
+2017,Sengkang,3-room,Rental Units,0
+2017,Sengkang,3-room,Sold Units,3817
+2017,Sengkang,4-room,Rental Units,0
+2017,Sengkang,4-room,Sold Units,31050
+2017,Sengkang,5-room,Rental Units,0
+2017,Sengkang,5-room,Sold Units,24144
+2017,Sengkang,Executive,Sold Units,4462
+2017,Sengkang,Studio Apartment,Rental Units,0
+2017,Sengkang,Studio Apartment,Sold Units,768
+2017,Serangoon,1-room,Rental Units,272
+2017,Serangoon,1-room,Sold Units,0
+2017,Serangoon,2-room,Rental Units,247
+2017,Serangoon,2-room,Sold Units,154
+2017,Serangoon,3-room,Rental Units,0
+2017,Serangoon,3-room,Sold Units,4535
+2017,Serangoon,4-room,Rental Units,0
+2017,Serangoon,4-room,Sold Units,10231
+2017,Serangoon,5-room,Rental Units,0
+2017,Serangoon,5-room,Sold Units,3757
+2017,Serangoon,Executive,Sold Units,2365
+2017,Serangoon,Studio Apartment,Rental Units,0
+2017,Serangoon,Studio Apartment,Sold Units,73
+2017,Tampines,1-room,Rental Units,1361
+2017,Tampines,1-room,Sold Units,0
+2017,Tampines,2-room,Rental Units,762
+2017,Tampines,2-room,Sold Units,382
+2017,Tampines,3-room,Rental Units,14
+2017,Tampines,3-room,Sold Units,13376
+2017,Tampines,4-room,Rental Units,0
+2017,Tampines,4-room,Sold Units,29038
+2017,Tampines,5-room,Rental Units,0
+2017,Tampines,5-room,Sold Units,17413
+2017,Tampines,Executive,Sold Units,5846
+2017,Tampines,Studio Apartment,Rental Units,0
+2017,Tampines,Studio Apartment,Sold Units,620
+2017,Toa Payoh,1-room,Rental Units,1168
+2017,Toa Payoh,1-room,Sold Units,0
+2017,Toa Payoh,2-room,Rental Units,2895
+2017,Toa Payoh,2-room,Sold Units,901
+2017,Toa Payoh,3-room,Rental Units,48
+2017,Toa Payoh,3-room,Sold Units,15407
+2017,Toa Payoh,4-room,Rental Units,0
+2017,Toa Payoh,4-room,Sold Units,10220
+2017,Toa Payoh,5-room,Rental Units,0
+2017,Toa Payoh,5-room,Sold Units,6017
+2017,Toa Payoh,Executive,Sold Units,854
+2017,Toa Payoh,Studio Apartment,Rental Units,0
+2017,Toa Payoh,Studio Apartment,Sold Units,390
+2017,Woodlands,1-room,Rental Units,2099
+2017,Woodlands,1-room,Sold Units,0
+2017,Woodlands,2-room,Rental Units,1274
+2017,Woodlands,2-room,Sold Units,1066
+2017,Woodlands,3-room,Rental Units,10
+2017,Woodlands,3-room,Sold Units,6855
+2017,Woodlands,4-room,Rental Units,96
+2017,Woodlands,4-room,Sold Units,29314
+2017,Woodlands,5-room,Rental Units,0
+2017,Woodlands,5-room,Sold Units,20359
+2017,Woodlands,Executive,Sold Units,6191
+2017,Woodlands,Studio Apartment,Rental Units,0
+2017,Woodlands,Studio Apartment,Sold Units,889
+2017,Yishun,1-room,Rental Units,1038
+2017,Yishun,1-room,Sold Units,0
+2017,Yishun,2-room,Rental Units,724
+2017,Yishun,2-room,Sold Units,1124
+2017,Yishun,3-room,Rental Units,9
+2017,Yishun,3-room,Sold Units,15645
+2017,Yishun,4-room,Rental Units,0
+2017,Yishun,4-room,Sold Units,30304
+2017,Yishun,5-room,Rental Units,0
+2017,Yishun,5-room,Sold Units,10413
+2017,Yishun,Executive,Sold Units,2741
+2017,Yishun,Studio Apartment,Rental Units,0
+2017,Yishun,Studio Apartment,Sold Units,788
+2018,Ang Mo Kio,1-room,Rental Units,1318
+2018,Ang Mo Kio,1-room,Sold Units,0
+2018,Ang Mo Kio,2-room,Rental Units,2855
+2018,Ang Mo Kio,2-room,Sold Units,781
+2018,Ang Mo Kio,3-room,Rental Units,11
+2018,Ang Mo Kio,3-room,Sold Units,24512
+2018,Ang Mo Kio,4-room,Rental Units,1
+2018,Ang Mo Kio,4-room,Sold Units,14480
+2018,Ang Mo Kio,5-room,Rental Units,0
+2018,Ang Mo Kio,5-room,Sold Units,5949
+2018,Ang Mo Kio,Executive,Sold Units,499
+2018,Ang Mo Kio,Studio Apartment,Rental Units,0
+2018,Ang Mo Kio,Studio Apartment,Sold Units,322
+2018,Bedok,1-room,Rental Units,2530
+2018,Bedok,1-room,Sold Units,0
+2018,Bedok,2-room,Rental Units,1376
+2018,Bedok,2-room,Sold Units,948
+2018,Bedok,3-room,Rental Units,6
+2018,Bedok,3-room,Sold Units,22809
+2018,Bedok,4-room,Rental Units,0
+2018,Bedok,4-room,Sold Units,20967
+2018,Bedok,5-room,Rental Units,0
+2018,Bedok,5-room,Sold Units,10498
+2018,Bedok,Executive,Sold Units,2717
+2018,Bedok,Studio Apartment,Rental Units,0
+2018,Bedok,Studio Apartment,Sold Units,305
+2018,Bishan,1-room,Rental Units,564
+2018,Bishan,1-room,Sold Units,0
+2018,Bishan,2-room,Rental Units,240
+2018,Bishan,2-room,Sold Units,17
+2018,Bishan,3-room,Rental Units,0
+2018,Bishan,3-room,Sold Units,2357
+2018,Bishan,4-room,Rental Units,0
+2018,Bishan,4-room,Sold Units,9359
+2018,Bishan,5-room,Rental Units,0
+2018,Bishan,5-room,Sold Units,5716
+2018,Bishan,Executive,Sold Units,1660
+2018,Bishan,Studio Apartment,Rental Units,0
+2018,Bishan,Studio Apartment,Sold Units,159
+2018,Bukit Batok,1-room,Rental Units,761
+2018,Bukit Batok,1-room,Sold Units,0
+2018,Bukit Batok,2-room,Rental Units,631
+2018,Bukit Batok,2-room,Sold Units,2209
+2018,Bukit Batok,3-room,Rental Units,1
+2018,Bukit Batok,3-room,Sold Units,11568
+2018,Bukit Batok,4-room,Rental Units,0
+2018,Bukit Batok,4-room,Sold Units,18073
+2018,Bukit Batok,5-room,Rental Units,0
+2018,Bukit Batok,5-room,Sold Units,7401
+2018,Bukit Batok,Executive,Sold Units,2734
+2018,Bukit Batok,Studio Apartment,Rental Units,0
+2018,Bukit Batok,Studio Apartment,Sold Units,246
+2018,Bukit Merah,1-room,Rental Units,4476
+2018,Bukit Merah,1-room,Sold Units,255
+2018,Bukit Merah,2-room,Rental Units,4599
+2018,Bukit Merah,2-room,Sold Units,1455
+2018,Bukit Merah,3-room,Rental Units,165
+2018,Bukit Merah,3-room,Sold Units,16328
+2018,Bukit Merah,4-room,Rental Units,0
+2018,Bukit Merah,4-room,Sold Units,17190
+2018,Bukit Merah,5-room,Rental Units,2
+2018,Bukit Merah,5-room,Sold Units,9615
+2018,Bukit Merah,Executive,Sold Units,44
+2018,Bukit Merah,Studio Apartment,Rental Units,0
+2018,Bukit Merah,Studio Apartment,Sold Units,605
+2018,Bukit Panjang,1-room,Rental Units,223
+2018,Bukit Panjang,1-room,Sold Units,0
+2018,Bukit Panjang,2-room,Rental Units,74
+2018,Bukit Panjang,2-room,Sold Units,484
+2018,Bukit Panjang,3-room,Rental Units,0
+2018,Bukit Panjang,3-room,Sold Units,3678
+2018,Bukit Panjang,4-room,Rental Units,0
+2018,Bukit Panjang,4-room,Sold Units,16699
+2018,Bukit Panjang,5-room,Rental Units,0
+2018,Bukit Panjang,5-room,Sold Units,10425
+2018,Bukit Panjang,Executive,Sold Units,3381
+2018,Bukit Panjang,Studio Apartment,Rental Units,0
+2018,Bukit Panjang,Studio Apartment,Sold Units,361
+2018,Bukit Timah,1-room,Rental Units,0
+2018,Bukit Timah,1-room,Sold Units,0
+2018,Bukit Timah,2-room,Rental Units,0
+2018,Bukit Timah,2-room,Sold Units,49
+2018,Bukit Timah,3-room,Rental Units,0
+2018,Bukit Timah,3-room,Sold Units,439
+2018,Bukit Timah,4-room,Rental Units,0
+2018,Bukit Timah,4-room,Sold Units,920
+2018,Bukit Timah,5-room,Rental Units,0
+2018,Bukit Timah,5-room,Sold Units,683
+2018,Bukit Timah,Executive,Sold Units,380
+2018,Bukit Timah,Studio Apartment,Rental Units,0
+2018,Bukit Timah,Studio Apartment,Sold Units,83
+2018,Central Area,1-room,Rental Units,2075
+2018,Central Area,1-room,Sold Units,0
+2018,Central Area,2-room,Rental Units,971
+2018,Central Area,2-room,Sold Units,345
+2018,Central Area,3-room,Rental Units,52
+2018,Central Area,3-room,Sold Units,4214
+2018,Central Area,4-room,Rental Units,14
+2018,Central Area,4-room,Sold Units,3424
+2018,Central Area,5-room,Rental Units,0
+2018,Central Area,5-room,Sold Units,902
+2018,Central Area,Executive,Sold Units,6
+2018,Central Area,Studio Apartment,Rental Units,0
+2018,Central Area,Studio Apartment,Sold Units,0
+2018,Choa Chu Kang,1-room,Rental Units,565
+2018,Choa Chu Kang,1-room,Sold Units,0
+2018,Choa Chu Kang,2-room,Rental Units,813
+2018,Choa Chu Kang,2-room,Sold Units,394
+2018,Choa Chu Kang,3-room,Rental Units,0
+2018,Choa Chu Kang,3-room,Sold Units,2463
+2018,Choa Chu Kang,4-room,Rental Units,0
+2018,Choa Chu Kang,4-room,Sold Units,23465
+2018,Choa Chu Kang,5-room,Rental Units,2
+2018,Choa Chu Kang,5-room,Sold Units,15950
+2018,Choa Chu Kang,Executive,Sold Units,4762
+2018,Choa Chu Kang,Studio Apartment,Rental Units,0
+2018,Choa Chu Kang,Studio Apartment,Sold Units,486
+2018,Clementi,1-room,Rental Units,474
+2018,Clementi,1-room,Sold Units,0
+2018,Clementi,2-room,Rental Units,467
+2018,Clementi,2-room,Sold Units,303
+2018,Clementi,3-room,Rental Units,7
+2018,Clementi,3-room,Sold Units,12299
+2018,Clementi,4-room,Rental Units,0
+2018,Clementi,4-room,Sold Units,9222
+2018,Clementi,5-room,Rental Units,0
+2018,Clementi,5-room,Sold Units,3207
+2018,Clementi,Executive,Sold Units,622
+2018,Clementi,Studio Apartment,Rental Units,0
+2018,Clementi,Studio Apartment,Sold Units,0
+2018,Geylang,1-room,Rental Units,879
+2018,Geylang,1-room,Sold Units,0
+2018,Geylang,2-room,Rental Units,2535
+2018,Geylang,2-room,Sold Units,855
+2018,Geylang,3-room,Rental Units,258
+2018,Geylang,3-room,Sold Units,11350
+2018,Geylang,4-room,Rental Units,0
+2018,Geylang,4-room,Sold Units,9679
+2018,Geylang,5-room,Rental Units,0
+2018,Geylang,5-room,Sold Units,3593
+2018,Geylang,Executive,Sold Units,831
+2018,Geylang,Studio Apartment,Rental Units,0
+2018,Geylang,Studio Apartment,Sold Units,209
+2018,Hougang,1-room,Rental Units,668
+2018,Hougang,1-room,Sold Units,0
+2018,Hougang,2-room,Rental Units,794
+2018,Hougang,2-room,Sold Units,1274
+2018,Hougang,3-room,Rental Units,49
+2018,Hougang,3-room,Sold Units,10858
+2018,Hougang,4-room,Rental Units,0
+2018,Hougang,4-room,Sold Units,26901
+2018,Hougang,5-room,Rental Units,0
+2018,Hougang,5-room,Sold Units,11080
+2018,Hougang,Executive,Sold Units,4311
+2018,Hougang,Studio Apartment,Rental Units,0
+2018,Hougang,Studio Apartment,Sold Units,626
+2018,Jurong East,1-room,Rental Units,433
+2018,Jurong East,1-room,Sold Units,0
+2018,Jurong East,2-room,Rental Units,191
+2018,Jurong East,2-room,Sold Units,322
+2018,Jurong East,3-room,Rental Units,23
+2018,Jurong East,3-room,Sold Units,7046
+2018,Jurong East,4-room,Rental Units,0
+2018,Jurong East,4-room,Sold Units,8188
+2018,Jurong East,5-room,Rental Units,0
+2018,Jurong East,5-room,Sold Units,5925
+2018,Jurong East,Executive,Sold Units,1871
+2018,Jurong East,Studio Apartment,Rental Units,0
+2018,Jurong East,Studio Apartment,Sold Units,123
+2018,Jurong West,1-room,Rental Units,813
+2018,Jurong West,1-room,Sold Units,0
+2018,Jurong West,2-room,Rental Units,1442
+2018,Jurong West,2-room,Sold Units,1226
+2018,Jurong West,3-room,Rental Units,705
+2018,Jurong West,3-room,Sold Units,11915
+2018,Jurong West,4-room,Rental Units,0
+2018,Jurong West,4-room,Sold Units,29761
+2018,Jurong West,5-room,Rental Units,0
+2018,Jurong West,5-room,Sold Units,22213
+2018,Jurong West,Executive,Sold Units,6507
+2018,Jurong West,Studio Apartment,Rental Units,0
+2018,Jurong West,Studio Apartment,Sold Units,626
+2018,Kallang/Whampoa,1-room,Rental Units,4401
+2018,Kallang/Whampoa,1-room,Sold Units,0
+2018,Kallang/Whampoa,2-room,Rental Units,2024
+2018,Kallang/Whampoa,2-room,Sold Units,779
+2018,Kallang/Whampoa,3-room,Rental Units,9
+2018,Kallang/Whampoa,3-room,Sold Units,14077
+2018,Kallang/Whampoa,4-room,Rental Units,0
+2018,Kallang/Whampoa,4-room,Sold Units,12318
+2018,Kallang/Whampoa,5-room,Rental Units,0
+2018,Kallang/Whampoa,5-room,Sold Units,5477
+2018,Kallang/Whampoa,Executive,Sold Units,504
+2018,Kallang/Whampoa,Studio Apartment,Rental Units,0
+2018,Kallang/Whampoa,Studio Apartment,Sold Units,342
+2018,Marine Parade,1-room,Rental Units,0
+2018,Marine Parade,1-room,Sold Units,0
+2018,Marine Parade,2-room,Rental Units,1324
+2018,Marine Parade,2-room,Sold Units,26
+2018,Marine Parade,3-room,Rental Units,1
+2018,Marine Parade,3-room,Sold Units,3034
+2018,Marine Parade,4-room,Rental Units,0
+2018,Marine Parade,4-room,Sold Units,1798
+2018,Marine Parade,5-room,Rental Units,0
+2018,Marine Parade,5-room,Sold Units,1678
+2018,Marine Parade,Executive,Sold Units,0
+2018,Marine Parade,Studio Apartment,Rental Units,0
+2018,Marine Parade,Studio Apartment,Sold Units,0
+2018,Pasir Ris,1-room,Rental Units,176
+2018,Pasir Ris,1-room,Sold Units,0
+2018,Pasir Ris,2-room,Rental Units,44
+2018,Pasir Ris,2-room,Sold Units,294
+2018,Pasir Ris,3-room,Rental Units,1
+2018,Pasir Ris,3-room,Sold Units,490
+2018,Pasir Ris,4-room,Rental Units,0
+2018,Pasir Ris,4-room,Sold Units,11641
+2018,Pasir Ris,5-room,Rental Units,0
+2018,Pasir Ris,5-room,Sold Units,9379
+2018,Pasir Ris,Executive,Sold Units,7460
+2018,Pasir Ris,Studio Apartment,Rental Units,0
+2018,Pasir Ris,Studio Apartment,Sold Units,169
+2018,Punggol,1-room,Rental Units,1366
+2018,Punggol,1-room,Sold Units,0
+2018,Punggol,2-room,Rental Units,901
+2018,Punggol,2-room,Sold Units,1909
+2018,Punggol,3-room,Rental Units,0
+2018,Punggol,3-room,Sold Units,5187
+2018,Punggol,4-room,Rental Units,0
+2018,Punggol,4-room,Sold Units,22456
+2018,Punggol,5-room,Rental Units,0
+2018,Punggol,5-room,Sold Units,16547
+2018,Punggol,Executive,Sold Units,1126
+2018,Punggol,Studio Apartment,Rental Units,0
+2018,Punggol,Studio Apartment,Sold Units,417
+2018,Queenstown,1-room,Rental Units,575
+2018,Queenstown,1-room,Sold Units,0
+2018,Queenstown,2-room,Rental Units,1699
+2018,Queenstown,2-room,Sold Units,1677
+2018,Queenstown,3-room,Rental Units,48
+2018,Queenstown,3-room,Sold Units,14446
+2018,Queenstown,4-room,Rental Units,0
+2018,Queenstown,4-room,Sold Units,9457
+2018,Queenstown,5-room,Rental Units,0
+2018,Queenstown,5-room,Sold Units,3976
+2018,Queenstown,Executive,Sold Units,355
+2018,Queenstown,Studio Apartment,Rental Units,0
+2018,Queenstown,Studio Apartment,Sold Units,443
+2018,Sembawang,1-room,Rental Units,955
+2018,Sembawang,1-room,Sold Units,0
+2018,Sembawang,2-room,Rental Units,883
+2018,Sembawang,2-room,Sold Units,1675
+2018,Sembawang,3-room,Rental Units,0
+2018,Sembawang,3-room,Sold Units,1311
+2018,Sembawang,4-room,Rental Units,0
+2018,Sembawang,4-room,Sold Units,11138
+2018,Sembawang,5-room,Rental Units,0
+2018,Sembawang,5-room,Sold Units,8518
+2018,Sembawang,Executive,Sold Units,2871
+2018,Sembawang,Studio Apartment,Rental Units,0
+2018,Sembawang,Studio Apartment,Sold Units,0
+2018,Sengkang,1-room,Rental Units,685
+2018,Sengkang,1-room,Sold Units,0
+2018,Sengkang,2-room,Rental Units,391
+2018,Sengkang,2-room,Sold Units,1521
+2018,Sengkang,3-room,Rental Units,0
+2018,Sengkang,3-room,Sold Units,3878
+2018,Sengkang,4-room,Rental Units,0
+2018,Sengkang,4-room,Sold Units,31274
+2018,Sengkang,5-room,Rental Units,0
+2018,Sengkang,5-room,Sold Units,24144
+2018,Sengkang,Executive,Sold Units,4463
+2018,Sengkang,Studio Apartment,Rental Units,0
+2018,Sengkang,Studio Apartment,Sold Units,759
+2018,Serangoon,1-room,Rental Units,272
+2018,Serangoon,1-room,Sold Units,0
+2018,Serangoon,2-room,Rental Units,247
+2018,Serangoon,2-room,Sold Units,161
+2018,Serangoon,3-room,Rental Units,0
+2018,Serangoon,3-room,Sold Units,4535
+2018,Serangoon,4-room,Rental Units,0
+2018,Serangoon,4-room,Sold Units,10231
+2018,Serangoon,5-room,Rental Units,0
+2018,Serangoon,5-room,Sold Units,3757
+2018,Serangoon,Executive,Sold Units,2365
+2018,Serangoon,Studio Apartment,Rental Units,0
+2018,Serangoon,Studio Apartment,Sold Units,66
+2018,Tampines,1-room,Rental Units,1615
+2018,Tampines,1-room,Sold Units,0
+2018,Tampines,2-room,Rental Units,955
+2018,Tampines,2-room,Sold Units,398
+2018,Tampines,3-room,Rental Units,14
+2018,Tampines,3-room,Sold Units,13828
+2018,Tampines,4-room,Rental Units,0
+2018,Tampines,4-room,Sold Units,29778
+2018,Tampines,5-room,Rental Units,0
+2018,Tampines,5-room,Sold Units,17715
+2018,Tampines,Executive,Sold Units,5847
+2018,Tampines,Studio Apartment,Rental Units,0
+2018,Tampines,Studio Apartment,Sold Units,604
+2018,Tengah,1-room,Rental Units,0
+2018,Tengah,1-room,Sold Units,0
+2018,Tengah,2-room,Rental Units,0
+2018,Tengah,2-room,Sold Units,0
+2018,Tengah,3-room,Rental Units,0
+2018,Tengah,3-room,Sold Units,0
+2018,Tengah,4-room,Rental Units,0
+2018,Tengah,4-room,Sold Units,0
+2018,Tengah,5-room,Rental Units,0
+2018,Tengah,5-room,Sold Units,0
+2018,Tengah,Executive,Sold Units,0
+2018,Tengah,Studio Apartment,Rental Units,0
+2018,Tengah,Studio Apartment,Sold Units,0
+2018,Toa Payoh,1-room,Rental Units,1168
+2018,Toa Payoh,1-room,Sold Units,0
+2018,Toa Payoh,2-room,Rental Units,2895
+2018,Toa Payoh,2-room,Sold Units,913
+2018,Toa Payoh,3-room,Rental Units,48
+2018,Toa Payoh,3-room,Sold Units,15539
+2018,Toa Payoh,4-room,Rental Units,0
+2018,Toa Payoh,4-room,Sold Units,10639
+2018,Toa Payoh,5-room,Rental Units,0
+2018,Toa Payoh,5-room,Sold Units,6020
+2018,Toa Payoh,Executive,Sold Units,854
+2018,Toa Payoh,Studio Apartment,Rental Units,0
+2018,Toa Payoh,Studio Apartment,Sold Units,378
+2018,Woodlands,1-room,Rental Units,2274
+2018,Woodlands,1-room,Sold Units,0
+2018,Woodlands,2-room,Rental Units,1542
+2018,Woodlands,2-room,Sold Units,1369
+2018,Woodlands,3-room,Rental Units,10
+2018,Woodlands,3-room,Sold Units,7049
+2018,Woodlands,4-room,Rental Units,96
+2018,Woodlands,4-room,Sold Units,29703
+2018,Woodlands,5-room,Rental Units,0
+2018,Woodlands,5-room,Sold Units,20791
+2018,Woodlands,Executive,Sold Units,6191
+2018,Woodlands,Studio Apartment,Rental Units,0
+2018,Woodlands,Studio Apartment,Sold Units,875
+2018,Yishun,1-room,Rental Units,1259
+2018,Yishun,1-room,Sold Units,0
+2018,Yishun,2-room,Rental Units,932
+2018,Yishun,2-room,Sold Units,1580
+2018,Yishun,3-room,Rental Units,9
+2018,Yishun,3-room,Sold Units,15582
+2018,Yishun,4-room,Rental Units,0
+2018,Yishun,4-room,Sold Units,30774
+2018,Yishun,5-room,Rental Units,0
+2018,Yishun,5-room,Sold Units,10413
+2018,Yishun,Executive,Sold Units,2741
+2018,Yishun,Studio Apartment,Rental Units,0
+2018,Yishun,Studio Apartment,Sold Units,774

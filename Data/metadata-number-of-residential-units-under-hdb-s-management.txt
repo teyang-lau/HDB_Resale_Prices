@@ -1,0 +1,77 @@
+# Metadata for Dwelling Units under HDB's Management, by Town and Flat Type
+---
+Identifier: 'f6cbe631-c9cf-4276-84ac-6d95697d32ef'
+Name: 'number-of-residential-units-under-hdb-s-management'
+Title: 'Dwelling Units under HDB''s Management, by Town and Flat Type'
+Description:
+  - 'All figures are as at 31 Mar of each financial year.'
+  - ''
+  - 'Data includes sold flats and public rental flats.'
+  - ''
+  - 'With effect from FY 2014, there are no HUDC flats under HDB''s management.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'Flat Type'
+  - 'HDB'
+  - 'Housing'
+  - 'Property'
+  - 'Public Housing'
+Publisher:
+  Name: 'Housing and Development Board'
+  Admin 1:
+    Name: 'Michelle Tay'
+    Department: 'HDB'
+    Email: 'michelle_mb_tay@hdb.gov.sg'
+  Admin 2:
+    Name: 'Toh Xue Qin'
+    Department: 'HDB'
+    Email: 'toh_xue_qin@hdb.gov.sg'
+Sources:
+  - 'Housing and Development Board'
+Source Url: 'http://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/annual-reports'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2008-04-01 to 2019-03-31'
+Last Updated: '2020-01-02T07:22:18.681328'
+Resources:
+  -
+    Identifier: '34b7e3fe-b3b9-4f08-a5ca-c8574f13ccbd'
+    Title: 'Dwelling Units under HDB''s Management, by Town and Flat Type'
+    Url: 'https://storage.data.gov.sg/number-of-residential-units-under-hdb-s-management/resources/dwelling-units-under-hdbs-management-by-town-and-flat-type-2020-01-02T07-22-18Z.csv'
+    Format: 'CSV'
+    Coverage: '2008-04-01 to 2019-03-31'
+    Description: ''
+    Last Updated: '2020-01-02T07:22:18.028855'
+    Schema:
+      -
+        Name: 'financial_year'
+        Title: 'Financial Year'
+        Type: 'datetime'
+        Sub Type: 'financial_year'
+        Format: 'YYYY'
+        Description: 'Financial year starts on 1 April and ends on 31 March'
+      -
+        Name: 'town_or_estate'
+        Title: 'Town or Estate'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'The 3 HDB estates are Bukit Timah, Central Area and Marine Parade.'
+      -
+        Name: 'flat_type'
+        Title: 'Flat Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'From FY 2015 onwards, 2-room sold flats include 2-Room Flexi
+          flats.'
+      -
+        Name: 'sold_or_rental'
+        Title: 'Sold or Rental'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no_of_dwelling_units'
+        Title: 'Number of Dwelling Units'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number of Dwelling Units'
