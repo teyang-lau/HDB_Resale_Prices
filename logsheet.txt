@@ -1,0 +1,22 @@
+Cleaning
+_____________
+- real_Price: Real resale price that is adjusted for inflation using Singapore's monthly CPI of housing and utilities that were referenced to 2019. Formula is (resale_price / CPI) * 100. 
+- remaining_lease was only available for 2016 onwards. 2016 remaining_lease were integers while 2017 onwards were in strings with years and months. Converted 2017 onwards to float years 
+- flat_model is cleaned for duplicate classes, but should be further categorized/grouped to reduce number of classes.
+
+Augmenting
+_____________
+- downloaded school, supermarket, hawkers names/streets and got their coordinates. This was done through OneMap.sg. MRTs already has its coordinates from a link
+
+
+TO DO
+____________
+- Check for duplicates
+- Reduce number of classes in flat model
+- Calculate distance of nearest school, supermarket, MRTs etc from each house
+- Find the year amenities were built
+
+
+Things to note:
+- Prior to March 2012, data is based on date of approval for the resale transactions.
+- For March 2012 onwards, the data is based on date of registration for the resale transactions.
