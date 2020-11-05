@@ -6,14 +6,23 @@ _____________
 
 Augmenting
 _____________
-- downloaded school, supermarket, hawkers names/streets and got their coordinates. This was done through OneMap.sg. MRTs already has its coordinates from a link
+- downloaded school, supermarket, hawkers, mrt, shopping malls, parks names/streets and got their coordinates. This was done through OneMap.sg. MRTs already has its coordinates from a link
+- parks and supermarkets do not have names as parks data did not come with them, while for supermarkets, postal code was used
+- computed distance to nearest amenities for each of the amenity
+- computed number of each amenities within a 2km radius
 
+Plots
+_____________
+- median was chosen to avoid outliers
+- lollipop charts compared 1997 and 2019 as 1997 was year of Asian Financial Crisis and 2019 was the latest year as 2020 did not have complete year and is affected by covid
+- lollipop charts also compared 2015 and 2019 as 2015 was around the year after cooling measures so there was a dip in prices. CHANGE TO 2014 INSTEAD!!!
+- lollipop charts also looked at all room types and 4-room separately as 4-rooms has the highest frequency of resales
+- ridge plot used only 3-room : executive as the other types of rooms (1,2-room,multigeneration) had very little cases in 2017:2019. This period was chosen as it is the past few years
 
 TO DO
 ____________
 - Check for duplicates
 - Reduce number of classes in flat model
-- Calculate distance of nearest school, supermarket, MRTs etc from each house
 - Find the year amenities were built
 
 
