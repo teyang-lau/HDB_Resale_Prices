@@ -10,6 +10,7 @@ _____________
 - parks and supermarkets do not have names as parks data did not come with them, while for supermarkets, postal code was used
 - computed distance to nearest amenities for each of the amenity
 - computed number of each amenities within a 2km radius
+- computed distance from Dhoby Ghaut MRT as it is one of the station with the most lines 
 
 Plots
 _____________
@@ -18,6 +19,15 @@ _____________
 - lollipop charts also compared 2015 and 2019 as 2015 was around the year after cooling measures so there was a dip in prices. CHANGE TO 2014 INSTEAD!!!
 - lollipop charts also looked at all room types and 4-room separately as 4-rooms has the highest frequency of resales
 - ridge plot used only 3-room : executive as the other types of rooms (1,2-room,multigeneration) had very little cases in 2017:2019. This period was chosen as it is the past few years
+- bubble chart for storeys: also looked at 2017:2019 to check if years make a difference
+- Block number: 3 digit system was introduced in the 1970s, with the 1st digit representing a neighbourhood in a town. So for e.g., AMK neighbourhood 1 starts with 101, 
+and AMK neighbourhood 2 starts with 201. So first digit was separated from last 2 digits and plotted separately
+- Flat model plots are available in both violin and ridgeline plots. Ridgeline plot takes very long to load and the effect is less obvious
+- Lease commencement date plots are available in both boxplot and ridgeline plots. Again, ridgeline plot's effect is less obvious
+- For distance to amenities, some of Kallang/Whampoa do not have the distance, which might be due to OneMap.sg.not being able to locate the place due to the two names in the search 
+- For distance to amenities all year plot, there were some outliers that are more than 3km from nearest ameneties and they might have pulled the regression line, so they were removed.
+
+
 
 TO DO
 ____________
