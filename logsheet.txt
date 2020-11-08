@@ -27,7 +27,7 @@ and AMK neighbourhood 2 starts with 201. So first digit was separated from last 
 - For distance to amenities, some of Kallang/Whampoa do not have the distance, which might be due to OneMap.sg.not being able to locate the place due to the two names in the search 
 - For distance to amenities all year plot, there were some outliers that are more than 3km from nearest ameneties and they might have pulled the regression line, so they were removed.
 
-
+-testingtesting
 
 TO DO
 ____________
