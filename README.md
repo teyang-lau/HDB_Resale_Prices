@@ -16,7 +16,7 @@ Last Updated: 9 November 2020
 
 ### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/Heart_Disease_Prediction/blob/master/heart_disease_prediction.ipynb) for a more detailed description, analysis and insights of the project.** ###
 
-### **If it takes a long time to load, the [html file]() can also be downloaded. **
+### If it takes a long time to load, the [html file]() can also be downloaded. 
 
 
 

@@ -18,7 +18,7 @@ _____________
 - lollipop charts compared 1997 and 2019 as 1997 was year of Asian Financial Crisis and 2019 was the latest year as 2020 did not have complete year and is affected by covid
 - lollipop charts also compared 2015 and 2019 as 2015 was around the year after cooling measures
 - lollipop charts also looked at all room types and 4-room separately as 4-rooms has the highest frequency of resales
-- ridge plot used only 3-room : executive as the other types of rooms (1,2-room,multigeneration) had very little cases in 2017:2019. This period was chosen as it is the past few years
+- ridge plot used only 3-room : executive as the other types of rooms (1,2-room,multigeneration) had very little cases in 2015:2019. This period was chosen as it is the past few years
 - bubble chart for storeys: also looked at 2015:2019 to check if years make a difference
 - Block number: 3 digit system was introduced in the 1970s, with the 1st digit representing a neighbourhood in a town. So for e.g., AMK neighbourhood 1 starts with 101, 
 and AMK neighbourhood 2 starts with 201. So first digit was separated from last 2 digits and plotted separately
@@ -56,7 +56,10 @@ _____________
 - used a train_test_split of 9:1 ratio as data is very big
 - Out-of-bag r-square was very high
 - Test r-square was very high as well
+- Feature importance is slightly different from LR. Here, floor area and lease commence date are still great predictors while distance from dhoby and flat type are now also better predictors
+- Tree based models seem to give low importance to categorical factors
 - Shap values plots are taking very long to plot
+- Only used local/individual shap values to look at the features that drive resale prices. Showed 2 examples from low, medium and high flat prices.
 
 
 TO DO
