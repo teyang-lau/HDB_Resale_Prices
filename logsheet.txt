@@ -39,14 +39,15 @@ as it still has a high VIF of ~53.
 - Recategorized flat models to 6 categories: Standard, Model A, New Generation, Apartment, Maisonette, Special, and dummy encoded it, with Standard as the baseline
 - Dummy encoded region, with Central as the baseline
 - Only continuous features were scaled for linear regression
+- used Cook's Distance as Mahalanobis Distance took up too much memory. A threshold of n/4 was used. About 5000 (5.24%) cases were removed, and outlier removal improved homoscedasticity and model fit.
 
 Linear Regression
 _____________
 - Used 3 methods and all got the same output. 1. Sklearn, which does not have lots of information; 2. OLS, which gives a table like R; 3. ols, which used statistical formula so no need for manual dummy coding
 - No splitting of data into train, val, test as this is meant to follow a statistical approach to determine most important drivers of resale price
 - logged real_price gave a better r2 and adjusted r2.
-- all predictors were significant except num_mrt_2km, which is not surprising given the large dataset
-- Homoscedasticity looks ok, and normality of residuals is normal based on plots of studentized residuals vs predicted values and histogram of studentized residuals
+- all predictors were significant, which is not surprising given the large dataset
+- Homoscedasticity looks normal, and normality of residuals is normal based on plots of studentized residuals vs predicted values and histogram of studentized residuals
 - Feature importance was determined using the standardized coeficients
 - Region appears to have the highest importance followed by floor area and special flat models
 
