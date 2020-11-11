@@ -63,7 +63,7 @@ The median distance of each town appears to be negatively correlated with its me
 
 
 
-<img src = './Pictures/dist_from_dhoby.png' width='500'><img src = './Pictures/dist_from_amenities_median2.png' width='400'>
+<img src = './Pictures/dist_from_dhoby.png' width='450'><img src = './Pictures/dist_from_amenities_median2.png' width='350'>
 
 
 
