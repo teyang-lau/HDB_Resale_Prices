@@ -42,7 +42,7 @@ Between 2015 to 2019, `4 Room`, `3 Room`, `5 Room` and `Executive` flat types ma
 <img src = './Pictures/flat_type_area.png' width='800'>
 
 
-
+<br>
 
 
 The changes in median price amongst the `towns` are not very large from 2018 to 2019, although prices for Toa Payoh and Central Area 4-room flats dropped by about 20%. Other factors might also influence the resale price in addition to the neighborhood/town location of the flats.
@@ -50,7 +50,7 @@ The changes in median price amongst the `towns` are not very large from 2018 to 
 <img src = './Pictures/town_2018vs2019_median.png' width='800'>
 
 
-
+<br>
 
 
 Unsurprisingly, `flat models` also have an effect on the resale price. The special models like the Type S1S2 (The Pinnacle@Duxton) and Terraces tend to fetch higher prices while the older models from the 1960s to 1970s (Standard and New Generation models) tend to go lower.
@@ -60,7 +60,7 @@ Unsurprisingly, `flat models` also have an effect on the resale price. The speci
 <img src = './Pictures/price_by_model.png' width='800'>
 
 
-
+<br>
 
 
 The median distance of each town appears to be negatively correlated with its median resale price, suggesting that distance to the most frequented station of Singapore is a likely driver to how much people pay for HDB flats. Distances from the nearest amenities like hawker centers and malls also appear to have a small relationship.
@@ -70,7 +70,7 @@ The median distance of each town appears to be negatively correlated with its me
 <img src = './Pictures/dist_from_dhoby.png' width='400'><img src = './Pictures/dist_from_amenities_median2.png' width='400'>
 
 
-
+<br>
 
 
 ## Linear Regression and Random Forest Performance
@@ -81,7 +81,7 @@ Linear regression was done using a statistical approach with no train-test split
 
 <img src = './Pictures/lrrf.png' width='1000'>
 
-
+<br>
 
 ## Feature Importance
 
@@ -91,7 +91,7 @@ Feature importance from the 2 models are slightly different. Linear regression s
 
 <img src = './Pictures/feature_importance.png' width='1000'>
 
-
+<br>
 
 ## Conclusion
 
