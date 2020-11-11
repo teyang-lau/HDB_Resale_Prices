@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/HDB_Resale_Prices.svg)](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/LICENSE)
 
 Author: TeYang, Lau <br>
-Last Updated: 11 November 2020
+Last Updated: 12 November 2020
 
 <p align="center">
 <img src = './Pictures/HDB.jpg'>
@@ -14,7 +14,7 @@ Last Updated: 11 November 2020
 
 <br>
 
-### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.ipynb) for a more detailed description, analysis and insights of the project.** ###
+### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.ipynb) for a more detailed analysis of the project.** ###
 
 ### If it takes a long time to load, the [html file](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.html) can also be downloaded. 
 
@@ -23,7 +23,7 @@ Last Updated: 11 November 2020
 ## Project Goals ##
 
 1. To **identify** the drivers of HDB resale prices in Singapore.
-2. To **scrape** additional features from online public datasets that might also influence resale prices
+2. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
 
 
 
@@ -39,15 +39,17 @@ The script for this can be found [here](https://github.com/teyang-lau/HDB_Resale
 
 Between 2015 to 2019, `4 Room`, `3 Room`, `5 Room` and `Executive` flat types made up the majority of resales, and their prices did not change much throughout the years. Their resale price did increase as the number of rooms increase, as well as for `floor area`.
 
-
-
 <img src = './Pictures/flat_type_area.png' width='800'>
+
+
 
 
 
 The changes in median price amongst the `towns` are not very large from 2018 to 2019, although prices for Toa Payoh and Central Area 4-room flats dropped by about 20%. Other factors might also influence the resale price in addition to the neighborhood/town location of the flats.
 
 <img src = './Pictures/town_2018vs2019_median.png' width='800'>
+
+
 
 
 
@@ -59,11 +61,15 @@ Unsurprisingly, `flat models` also have an effect on the resale price. The speci
 
 
 
+
+
 The median distance of each town appears to be negatively correlated with its median resale price, suggesting that distance to the most frequented station of Singapore is a likely driver to how much people pay for HDB flats. Distances from the nearest amenities like hawker centers and malls also appear to have a small relationship.
 
 
 
 <img src = './Pictures/dist_from_dhoby.png' width='400'><img src = './Pictures/dist_from_amenities_median2.png' width='400'>
+
+
 
 
 
