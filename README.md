@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/Heart_Disease_Prediction.svg)](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/LICENSE)
 
 Author: TeYang, Lau <br>
-Last Updated: 10 November 2020
+Last Updated: 11 November 2020
 
 <p align="center">
 <img src = './Pictures/HDB.jpg'>
@@ -69,7 +69,7 @@ The median distance of each town appears to be negatively correlated with its me
 
 ## Linear Regression and Random Forest Performance
 
-Linear regression was done using a statistical approach with no train-test splitting. The model achieved an **adjusted R<sup>2</sup> of 0.86**. For the random forest, the data was split into a 9:1 train test ratio, and validated using both Out-Of-Bag and K-fold cross validation methods. Both achieved a **test R<sup>2</sup> of 0.96** and **mean absolute error of ~$20,000**. 
+Linear regression was done using a statistical approach with no train-test splitting. The model achieved an **adjusted R<sup>2</sup> of 0.90**. For the random forest, the data was split into a 9:1 train test ratio, and validated using both Out-Of-Bag and K-fold cross validation methods. Both achieved a **test R<sup>2</sup> of 0.96** and **mean absolute error of ~$20,000**. 
 
 
 
@@ -93,7 +93,7 @@ In this project, linear regression and random forest were used to looked at the 
 
 Looking at the output of the models, linear regression showed that `regions`, `floor area`, `flat model`, `lease commencement date` and `distance from hawker` are the top 5 drivers of HDB prices. However, random forest gave a slightly different result. `floor area`, and `lease commencement date` and `distance from hawker` still in the top 5 while `distance from Dhoby Ghaut MRT` and `flat type` has also came up on top. This could be due to tree-based models giving lower importance to categorical variables (`region` and `flat model`) due to the way it computes importance.
 
-Nevertheless, the **size of the flat**, **lease date**, and **location** appears to be consistently the most important drivers of HDB resale prices.
+Nevertheless, the **size of the flat**, **lease date**, and certain aspects of **location** appears to be consistently the most important drivers of HDB resale prices.
 
 
 
