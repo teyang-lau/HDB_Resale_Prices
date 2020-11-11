@@ -18,14 +18,14 @@ Last Updated: 12 November 2020
 
 ### If it takes a long time to load, the [html file](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.html) can also be downloaded. 
 
-
+<br>
 
 ## Project Goals ##
 
 1. To **identify** the drivers of HDB resale prices in Singapore.
 2. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
 
-
+<br>
 
 ## Feature Engineering
 
@@ -33,7 +33,7 @@ The names of schools, supermarkets, hawkers, shopping malls, parks and MRTs were
 
 The script for this can be found [here](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/get_coordinates.ipynb).
 
-
+<br>
 
 ## EDA
 
