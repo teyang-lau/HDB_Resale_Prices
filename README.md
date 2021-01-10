@@ -6,11 +6,8 @@
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/HDB_Resale_Prices.svg)](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/LICENSE)
 
 Author: TeYang, Lau <br>
-<<<<<<< HEAD
+
 Last Updated: 11 January 2021
-=======
-Last Updated: 26 November 2020
->>>>>>> cc68d55fbb0ad0fe44d5a2d410a00c5f9f43630d
 
 <p align="center">
 <img src = './Pictures/HDB.jpg'>
