@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/HDB_Resale_Prices.svg)](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/LICENSE)
 
 Author: TeYang, Lau <br>
-Last Updated: 12 November 2020
+Last Updated: 11 January 2021
 
 <p align="center">
 <img src = './Pictures/HDB.jpg'>
@@ -22,8 +22,10 @@ Last Updated: 12 November 2020
 
 ## Project Goals ##
 
-1. To **identify** the drivers of HDB resale prices in Singapore.
-2. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
+1. Start a end-to-end project, from scraping data, to cleaning, modelling, and deploying the model
+2. To **identify** the drivers of HDB resale prices in Singapore.
+3. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
+4. To **deploy** the model  onto a web app, allowing for HDB resale prices prediction for different HDB features
 
 <br>
 
@@ -90,6 +92,18 @@ Feature importance from the 2 models are slightly different. Linear regression s
 
 
 <img src = './Pictures/feature_importance.png' width='1000'>
+
+<br>
+
+
+
+## Model Deployment to Web App
+
+<img src = './Pictures/hdb_price_streamlit.gif' width='1000'>
+
+
+
+I deployed the random forest model onto a web app using Streamlit. It allows users to input HDB features into the app and get the predicted resale price. It also shows the map of Singapore, with the location of the flat, and the nearby amenities within a 2km radius.
 
 <br>
 
