@@ -1,22 +1,26 @@
-import streamlit as st
-# To make things easier later, we're also importing numpy and pandas for
-# working with sample data.
+import streamlit as st # v0.69
 import numpy as np
 import pandas as pd
-from utils_functions import find_postal, find_nearest, dist_from_location, map, _max_width_
+#import utils_functions.py
+from utils_functions import find_postal, find_nearest, dist_from_location, map, map_flats_year, _max_width_
 import pickle
 import streamlit.components.v1 as components
+import pydeck as pdk
 
 _max_width_()
 
-st.title('Singapore HDB Resale Prices Prediction')
+st.title('Interactive App to Visualize and Predict Singapore HDB Resale Prices')
 
-st.image('./Pictures/HDB.jpg', width=900)
+st.text(" ")
+st.text(" ")
+st.text(" ")
+#st.image('./Pictures/HDB.jpg', width=900)
 
-# Create user input sidebar
-
+## CREATE USER INPUT SIDEBAR
 st.sidebar.header('User Input HDB Features')
+
 flat_address = st.sidebar.text_input("Flat Address or Postal Code", '988B BUANGKOK GREEN') # flat address
+    
 town = st.sidebar.selectbox('Town', list(['ANG MO KIO', 'BEDOK', 'BISHAN', 'BUKIT BATOK', 'BUKIT MERAH',
                                           'BUKIT TIMAH', 'CENTRAL AREA', 'CHOA CHU KANG', 'CLEMENTI',
                                           'GEYLANG', 'HOUGANG', 'JURONG EAST', 'JURONG WEST',
@@ -39,16 +43,41 @@ lease_commence_date = st.sidebar.selectbox('Lease Commencement Date', list(rever
 
 
 with st.sidebar.beta_expander("Comparison"):
-    st.slider("2nd Floor Area (sqm)", 34,280,93)
+    st.write('Comparison Feature Coming Soon')
+    #st.slider("2nd Floor Area (sqm)", 34,280,93)
 
+## MAP OF PRICES THROUGHOUT THE YEARS ========================================================================
+st.write("**Median Price of HDB Resale Flats Throughout the Years**")
+year_selected = st.slider("Select Year of Resale", 1990, 2020, 2019)
+
+# Load flats price by year
+@st.cache
+def load_data_select_year(filepath, year_selected):
+    data = pd.read_csv(filepath)
+    return data[data['year'] == year_selected]
+    
+
+flats = load_data_select_year('./Data/all_resale_prices_by_year.csv', year_selected)
+
+map_flats_year(flats, 1.3487, 103.8245, 11.2)  
+
+st.text(" ")
+st.text(" ")
+st.text(" ")
+
+#===============================================================================================================
 
 ## Get flat coordinates
 coord = find_postal(flat_address)
 #coord
-flat_coord = pd.DataFrame({'address':[coord.get('results')[0].get('ADDRESS')],
-                           'LATITUDE':[coord.get('results')[0].get('LATITUDE')], 
-                           'LONGITUDE':[coord.get('results')[0].get('LONGITUDE')]})
-
+try:
+    flat_coord = pd.DataFrame({'address':[coord.get('results')[0].get('ADDRESS')],
+                            'LATITUDE':[coord.get('results')[0].get('LATITUDE')], 
+                            'LONGITUDE':[coord.get('results')[0].get('LONGITUDE')]})
+except IndexError:
+    st.error('Oops! Address is not valid! Please enter a valid address!')
+    pass
+    
 ## Load amenities coordinates
 @st.cache
 def load_data(filepath):
@@ -67,39 +96,46 @@ nearest_supermarket,supermarkets_2km = find_nearest(flat_coord, supermarket_coor
 flat_supermarket = pd.DataFrame.from_dict(nearest_supermarket).T
 flat_supermarket = flat_supermarket.rename(columns={0: 'flat', 1: 'supermarket', 2: 'supermarket_dist',
                                                     3: 'num_supermarket_2km'}).reset_index().drop(['index'], axis=1)
+supermarkets_2km['type'] = ['Supermarket']*len(supermarkets_2km)
 
 # Primary Schools
 nearest_school,schools_2km = find_nearest(flat_coord, school_coord)
 flat_school = pd.DataFrame.from_dict(nearest_school).T
 flat_school = flat_school.rename(columns={0: 'flat', 1: 'school', 2: 'school_dist',
                                           3: 'num_school_2km'}).reset_index().drop('index', axis=1)
+schools_2km['type'] = ['School']*len(schools_2km)
 
 # Hawker Centers
 nearest_hawker,hawkers_2km = find_nearest(flat_coord, hawker_coord)
 flat_hawker = pd.DataFrame.from_dict(nearest_hawker).T
 flat_hawker = flat_hawker.rename(columns={0: 'flat', 1: 'hawker', 2: 'hawker_dist',
                                           3: 'num_hawker_2km'}).reset_index().drop('index', axis=1)
+hawkers_2km['type'] = ['Hawker']*len(hawkers_2km)
 
 # Shopping Malls
 nearest_mall,malls_2km = find_nearest(flat_coord, shop_coord)
 flat_mall = pd.DataFrame.from_dict(nearest_mall).T
 flat_mall = flat_mall.rename(columns={0: 'flat', 1: 'mall', 2: 'mall_dist',
                                       3: 'num_mall_2km'}).reset_index().drop('index', axis=1)
+malls_2km['type'] = ['Mall']*len(malls_2km)
 
 # Parks
 nearest_park,parks_2km = find_nearest(flat_coord, park_coord)
 flat_park = pd.DataFrame.from_dict(nearest_park).T
 flat_park = flat_park.rename(columns={0: 'flat', 1: 'park', 2: 'park_dist',
                                       3: 'num_park_2km'}).reset_index().drop(['index','park'], axis=1)
+parks_2km['type'] = ['Park']*len(parks_2km)
+parks_2km['name'] = ['Park']*len(parks_2km)
 
 # MRT
 nearest_mrt,mrt_2km = find_nearest(flat_coord, mrt_coord)
 flat_mrt = pd.DataFrame.from_dict(nearest_mrt).T
 flat_mrt = flat_mrt.rename(columns={0: 'flat', 1: 'mrt', 2: 'mrt_dist',
                                     3: 'num_mrt_2km'}).reset_index().drop('index', axis=1)
+mrt_2km['type'] = ['MRT']*len(mrt_2km)
 
-amenities_2km = [mrt_2km, malls_2km, schools_2km, parks_2km, hawkers_2km, supermarkets_2km,
-                 flat_coord[['LATITUDE', 'LONGITUDE']].astype(float)]
+amenities = pd.concat([supermarkets_2km, schools_2km, hawkers_2km, malls_2km, parks_2km, mrt_2km])
+amenities = amenities.rename(columns={'lat':'LATITUDE', 'lon':'LONGITUDE'})
 
 # Distance from Dhoby Ghaut
 dist_dhoby = dist_from_location(flat_coord, (1.299308, 103.845285))
@@ -115,6 +151,7 @@ flat_coord = pd.concat([flat_coord, flat_supermarket.drop(['flat'], axis=1),
                        axis=1)
 # st.dataframe(flat_coord)
 
+## ENCODING VARIABLES
 # Flat Type
 replace_values = {'2 ROOM':0, '3 ROOM':1, '4 ROOM':2, '5 ROOM':3, 'EXECUTIVE':4}
 flat_coord['flat_type'] = replace_values.get(flat_type)
@@ -160,6 +197,7 @@ if replace_values.get(flat_model) != 'Standard': d[replace_values.get(flat_model
 #d
 df = pd.DataFrame.from_dict(d)
 flat_coord = pd.concat([flat_coord, pd.DataFrame.from_dict(d)], axis=1)
+flat_coord['selected_flat'] = [1] # for height of building
 
 flat1 = flat_coord[['flat_type', 'storey_range', 'floor_area_sqm', 'lease_commence_date',
        'school_dist', 'num_school_2km', 'hawker_dist', 'num_hawker_2km',
@@ -169,16 +207,28 @@ flat1 = flat_coord[['flat_type', 'storey_range', 'floor_area_sqm', 'lease_commen
        'model_Apartment', 'model_Maisonette', 'model_Model A',
        'model_New Generation', 'model_Special']]
 
-#st.dataframe(flat_coord)
-#st.dataframe(flat1)
 
-## MAP ==============================================================================================
-flats = pd.read_csv('Data/flat_coordinates_clean.csv')[['LATITUDE','LONGITUDE']]
-flats = flats.append([flat_coord[['LATITUDE', 'LONGITUDE']].astype(float)]*1000, ignore_index=True)
-#st.dataframe(flats)
+## MAP OF USER HDB ====================================================================================
+flats = pd.read_csv('Data/flat_coordinates_clean.csv')[['LATITUDE','LONGITUDE','address']]
+flats['selected_flat'] = [0.000001]*len(flats)
+flats = flats.append(flat_coord[['LATITUDE', 'LONGITUDE', 'selected_flat', 'address']], ignore_index=True)
+flats[['LATITUDE', 'LONGITUDE', 'selected_flat']] = flats[['LATITUDE', 'LONGITUDE', 'selected_flat']].astype(float)
+flats['type'] = ['HDB']*len(flats)
+flats = flats.rename(columns={'address':'name'})
+all_buildings = pd.concat([amenities,flats])
+
           
-zoom_level = 11
-st.write("**HDB Resale Flats In Singapore (with amenities)**")
+st.write("**User Selected HDB Resale Flats In Singapore (with amenities)**")
+with st.beta_expander("How to use"):
+    st.markdown("""Input the HDB features on the *left sidebar* to have the model predict the resale price of the HDB flat you are interested in (shown below the map). 
+                If a particular feature is not known, just estimate or leave it as default. Feel free to play around with the values to see the range of prices.
+                
+The map below will display your HDB location (tall red pole), with other resale flats in Singapore (dull yellow hexagons). 
+                Amenities within a 2km radius are also shown (indicated by the round colored circles). They can be toggled on or off by checking the boxes below.
+                
+**Red**: MRT Stations; **Orange**: Shopping Malls; **Blue**: Primary Schools 
+
+**Green**: Parks; **Purple**: Hawker Centers; **Brown**: Supermarkets""")
 
 row1_1, row1_2, row1_3, row1_4 = st.beta_columns(4)
 with row1_1:
@@ -197,18 +247,20 @@ with row2_3:
 with row2_4:
     hide_hdb = st.checkbox('Hide HDBs',False)    
     
-checker = [show_mrt,show_malls,show_schools,show_parks,show_hawkers,show_supermarkets,hide_hdb]
-map(flats, float(flat_coord.iloc[0]['LATITUDE']), float(flat_coord.iloc[0]['LONGITUDE']),
-    zoom_level, amenities_2km, checker)
-## ==============================================================================================
+amenities_toggle = [show_mrt,show_malls,show_schools,show_parks,show_hawkers,show_supermarkets,hide_hdb]
+# map(flats, float(flat_coord.iloc[0]['LATITUDE']), float(flat_coord.iloc[0]['LONGITUDE']),
+#     zoom_level, amenities_2km, checker)
+map(all_buildings, float(flat_coord.iloc[0]['LATITUDE']), float(flat_coord.iloc[0]['LONGITUDE']),
+    13.5, amenities_toggle)
+## ====================================================================================================
 
-## Load Trained Random Forest Model and Predict
+## LOAD TRAINED RANDOM FOREST MODEL AND PREDICT
 rfr = pickle.load(open('hdb_prices_rf_model.pkl', 'rb'))
 predict1 = rfr.predict(flat1)[0]
 
 st.header('Predicted HDB Resale Price is **SGD$%s**' % ("{:,}".format(int(predict1))))
 
-## Shap
+## SHAP
 import shap
 shap.initjs()
 
@@ -236,12 +288,11 @@ with st.beta_expander("See explanation for understanding SHAP values"):
 **Width of bars**: Importance of the feature. The wider it is, the higher impact is has on the price
 """)
 
+st.text(" ")
+st.text(" ")
+st.text(" ")
 
-
-st.text(""" """)
-st.text(""" """)
-st.text(""" """)
-
+## EXPANDER FOR AMENITIES INFORMATION
 st.subheader('Amenities Within 2km Radius')
 with st.beta_expander("MRT Station"):
     st.subheader('Nearest MRT: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['mrt'], flat_coord.iloc[0]['mrt_dist']))
@@ -261,8 +312,23 @@ with st.beta_expander("Hawker Center"):
 with st.beta_expander("Supermarket"):
     st.subheader('Nearest Supermarket: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['supermarket'], flat_coord.iloc[0]['supermarket_dist']))
     st.subheader('Number of Supermarket within 2km: **%d**' % (flat_coord.iloc[0]['num_supermarket_2km']))     
+    
+st.markdown("#")
+st.markdown("#")
 
-#flat_coord
+## EXPANDER FOR Model INFORMATION
+st.subheader('Data and Model Information')
+with st.beta_expander("More info"):
+    st.markdown("""HDB resale prices data were downloaded from [Data.gov.sg](https://data.gov.sg/). Names of `schools`, `supermarkets`, 
+                `hawkers`, `shopping malls`, `parks` and `MRTs` were downloaded/scraped from [Data.gov.sg](https://data.gov.sg/) and Wikipedia and fed 
+                through a function that uses [OneMap.sg](https://www.onemap.sg/main/v2/) api to get their coordinates (latitude and longitude).
+                These coordinates were then fed through other functions that use the [geopy](https://geopy.readthedocs.io/en/stable/#geopy-is-not-a-service) 
+                package to get the distance between locations. By doing this, the nearest distance of each amenity from each house can be computed, 
+                as well as the number of each amenity within a 2km radius of each flat.
+                
+The machine learning model that is used for this resale price prediction is a **random forest model**. It was trained on
+                HDB resale prices data from 2015 to 2019. The data was split into a 9:1 train test ratio, and validated using 10-fold cross validation, 
+                achieving a **test Rsquare of 0.96** and **mean absolute error of ~$20,000**.""")
 
 ## TO DO
 # Expander for price comparison
