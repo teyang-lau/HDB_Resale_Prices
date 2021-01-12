@@ -3,9 +3,10 @@ import numpy as np
 import pandas as pd
 #import utils_functions.py
 from utils_functions import find_postal, find_nearest, dist_from_location, map, map_flats_year, _max_width_
-import pickle
 import streamlit.components.v1 as components
 import pydeck as pdk
+from pathlib import Path
+import joblib
 
 _max_width_()
 
@@ -45,6 +46,27 @@ lease_commence_date = st.sidebar.selectbox('Lease Commencement Date', list(rever
 with st.sidebar.beta_expander("Comparison"):
     st.write('Comparison Feature Coming Soon')
     #st.slider("2nd Floor Area (sqm)", 34,280,93)
+
+
+## LOAD TRAINED RANDOM FOREST MODEL
+cloud_model_location = '1PkTZnHK_K4LBTSkAbCfgtDsk-K9S8rLe' # hosted on GD
+
+@st.cache(allow_output_mutation=True)
+def load_model():
+
+    save_dest = Path('model')
+    save_dest.mkdir(exist_ok=True)  
+    f_checkpoint = Path("model/rf_compressed.pkl")
+    # download from GD if model not present
+    if not f_checkpoint.exists():
+        with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
+            from GD_download import download_file_from_google_drive
+            download_file_from_google_drive(cloud_model_location, f_checkpoint)
+    
+    model = joblib.load(f_checkpoint)
+    return model
+
+rfr = load_model()
 
 ## MAP OF PRICES THROUGHOUT THE YEARS ========================================================================
 st.write("**Median Price of HDB Resale Flats Throughout the Years**")
@@ -254,8 +276,7 @@ map(all_buildings, float(flat_coord.iloc[0]['LATITUDE']), float(flat_coord.iloc[
     13.5, amenities_toggle)
 ## ====================================================================================================
 
-## LOAD TRAINED RANDOM FOREST MODEL AND PREDICT
-rfr = pickle.load(open('hdb_prices_rf_model.pkl', 'rb'))
+## PREDICT
 predict1 = rfr.predict(flat1)[0]
 
 st.header('Predicted HDB Resale Price is **SGD$%s**' % ("{:,}".format(int(predict1))))
