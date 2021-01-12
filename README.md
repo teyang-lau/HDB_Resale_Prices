@@ -95,15 +95,31 @@ Feature importance from the 2 models are slightly different. Linear regression s
 
 <br>
 
+SHAP values also provide local interpretability to the data. Below shows the SHAP force plots for a low, medium and high predicted priced flats, allowing interpretation of how much each features are contributing to each of the flat.
 
+<br>
+
+<img src='./Pictures/shap_low.png'>
+
+<br>
+
+<img src='./Pictures/shap_medium.png'>
+
+<br><img src='./Pictures/shap_high.png'>
+
+
+
+<br><br>
 
 ## Model Deployment to Web App
+
+<br>
 
 <img src = './Pictures/hdb_price_streamlit.gif' width='1000'>
 
 
 
-I deployed the random forest model onto a web app using Streamlit. It allows users to input HDB features into the app and get the predicted resale price. It also shows the map of Singapore, with the location of the flat, and the nearby amenities within a 2km radius.
+The random forest model was deployed onto a web app using Streamlit. It allows users to input HDB features into the app and get the predicted resale price. It shows the map of Singapore, with the location of the flat, and the nearby amenities within a 2km radius. In addition, it also displays a user controlled interactive map that shows the median HDB resale prices throughout the years from 1990 to 2020.
 
 <br>
 
