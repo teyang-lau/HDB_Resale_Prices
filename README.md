@@ -99,13 +99,13 @@ SHAP values also provide local interpretability to the data. Below shows the SHA
 
 <br>
 
-<img src='./Pictures/shap_low.png'>
+<img src='./Pictures/shap_low.PNG'>
 
 <br>
 
-<img src='./Pictures/shap_medium.png'>
+<img src='./Pictures/shap_medium.PNG'>
 
-<br><img src='./Pictures/shap_high.png'>
+<br><img src='./Pictures/shap_high.PNG'>
 
 
 
