@@ -20,12 +20,17 @@ Last Updated: 14 January 2021
 
 <br>
 
-## Project Goals ##
+## Project Goals 
 
 1. Start a end-to-end project, from scraping data, to cleaning, modelling, and deploying the model
 2. To **identify** the drivers of HDB resale prices in Singapore.
 3. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
 4. To **deploy** the model onto a web app, allowing for HDB resale prices prediction for different HDB features
+
+<br>
+
+## About the Data
+The HDB resale price data was downloaded from [Data.gov.sg](https://data.gov.sg/dataset/resale-flat-prices), containing ~800k resale transactions from 1990 to 2020.
 
 <br>
 
