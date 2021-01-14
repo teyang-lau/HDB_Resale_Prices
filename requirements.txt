@@ -7,3 +7,4 @@ geopy==2.0.0
 requests==2.22.0
 shap==0.36.0
 numpy==1.16.5
+numba==0.48.0
