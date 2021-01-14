@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/HDB_Resale_Prices.svg)](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/LICENSE)
 
 Author: TeYang, Lau <br>
-Last Updated: 11 January 2021
+Last Updated: 14 January 2021
 
 <p align="center">
 <img src = './Pictures/HDB.jpg'>
@@ -14,9 +14,9 @@ Last Updated: 11 January 2021
 
 <br>
 
-### **Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.ipynb) for a more detailed analysis of the project.** ###
+### Please refer to this [notebook](https://nbviewer.jupyter.org/github/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.ipynb) for a more detailed analysis of the project. If it takes a long time to load, the [html file](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.html) can also be downloaded.  ###
 
-### If it takes a long time to load, the [html file](https://github.com/teyang-lau/HDB_Resale_Prices/blob/main/flat_prices.html) can also be downloaded. 
+### Check out the interactive web app for Singapore HDB resale price prediction [here](https://share.streamlit.io/teyang-lau/hdb_resale_prices/main/predict_hdb_prices_streamlit.py)! 
 
 <br>
 
@@ -25,7 +25,7 @@ Last Updated: 11 January 2021
 1. Start a end-to-end project, from scraping data, to cleaning, modelling, and deploying the model
 2. To **identify** the drivers of HDB resale prices in Singapore.
 3. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
-4. To **deploy** the model  onto a web app, allowing for HDB resale prices prediction for different HDB features
+4. To **deploy** the model onto a web app, allowing for HDB resale prices prediction for different HDB features
 
 <br>
 
@@ -119,7 +119,7 @@ SHAP values also provide local interpretability to the data. Below shows the SHA
 
 
 
-The random forest model was deployed onto a web app using Streamlit. It allows users to input HDB features into the app and get the predicted resale price. It shows the map of Singapore, with the location of the flat, and the nearby amenities within a 2km radius. In addition, it also displays a user controlled interactive map that shows the median HDB resale prices throughout the years from 1990 to 2020.
+The random forest model was deployed onto a web app using [Streamlit](https://www.streamlit.io/). Try out the app [here](https://share.streamlit.io/teyang-lau/hdb_resale_prices/main/predict_hdb_prices_streamlit.py). It allows users to input HDB features into the app and get the predicted resale price. It shows the map of Singapore, with the location of the flat, and the nearby amenities within a 2km radius. In addition, it also displays a user controlled interactive map that shows the median HDB resale prices throughout the years from 1990 to 2020.
 
 <br>
 
