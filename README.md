@@ -22,7 +22,7 @@ Last Updated: 14 January 2021
 
 <br>
 
-## Project Goals ##
+## Project Goals 
 
 1. Start a end-to-end project, from scraping data, to cleaning, modelling, and deploying the model
 2. To **identify** the drivers of HDB resale prices in Singapore.
@@ -31,7 +31,12 @@ Last Updated: 14 January 2021
 
 <br>
 
-## Feature Engineering
+## About the Data
+The HDB resale price data was downloaded from [Data.gov.sg](https://data.gov.sg/dataset/resale-flat-prices), containing ~800k resale transactions from 1990 to 2020.
+
+<br>
+
+## Data Scraping and Feature Engineering
 
 The names of schools, supermarkets, hawkers, shopping malls, parks and MRTs were downloaded/scraped from [Data.gov.sg](https://data.gov.sg/) and Wikipedia and fed through a function that uses [OneMap.sg](https://www.onemap.sg/main/v2/) api to get their coordinates (latitude and longitude). These coordinates were then fed through other functions that use the geopy package to get the distance between locations. By doing this, the nearest distance of each amenity from each house can be computed, as well as the number of each amenity within a 2km radius of each flat.
 
