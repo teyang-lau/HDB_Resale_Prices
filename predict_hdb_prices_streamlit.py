@@ -76,23 +76,23 @@ def load_model():
 rfr, explainer = load_model()
 
 ## MAP OF PRICES THROUGHOUT THE YEARS ========================================================================
-st.write("**Median Price of HDB Resale Flats Throughout the Years**")
-year_selected = st.slider("Select Year of Resale", 1990, 2020, 2019)
+#st.write("**Median Price of HDB Resale Flats Throughout the Years**")
+#year_selected = st.slider("Select Year of Resale", 1990, 2020, 2019)
 
 # Load flats price by year
-@st.cache
-def load_data_select_year(filepath, year_selected):
-    data = pd.read_csv(filepath)
-    return data[data['year'] == year_selected]
+#@st.cache
+# def load_data_select_year(filepath, year_selected):
+#     data = pd.read_csv(filepath)
+#     return data[data['year'] == year_selected]
     
 
-flats = load_data_select_year('./Data/all_resale_prices_by_year.csv', year_selected)
+#flats = load_data_select_year('./Data/all_resale_prices_by_year.csv', year_selected)
 
-map_flats_year(flats, 1.3487, 103.8245, 11.2)  
+#map_flats_year(flats, 1.3487, 103.8245, 11.2)  
 
-st.text(" ")
-st.text(" ")
-st.text(" ")
+# st.text(" ")
+# st.text(" ")
+# st.text(" ")
 
 #===============================================================================================================
 
