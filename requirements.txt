@@ -9,5 +9,4 @@ requests==2.27.1
 geopy==2.2.0
 altair==4.2.0
 numba==0.55.1
-pickleshare==0.7.5
 gdown==4.5.1
