@@ -6,9 +6,11 @@ from utils_functions import find_postal, find_nearest, dist_from_location, map, 
 import streamlit.components.v1 as components
 import pydeck as pdk
 from pathlib import Path
+import os
+import gdown
 import joblib
 
-_max_width_()
+st.set_page_config(layout="wide")
 
 st.title('Interactive App to Visualize and Predict Singapore HDB Resale Prices')
 
@@ -43,37 +45,59 @@ storey = st.sidebar.selectbox('Storey', list(['01 TO 03','04 TO 06','07 TO 09','
 lease_commence_date = st.sidebar.selectbox('Lease Commencement Date', list(reversed(range(1966, 2017))), index=1)
 
 
-with st.sidebar.beta_expander("Comparison"):
+with st.sidebar.expander("Comparison"):
     st.write('Comparison Feature Coming Soon')
     #st.slider("2nd Floor Area (sqm)", 34,280,93)
 
 
 ## LOAD TRAINED RANDOM FOREST MODEL
-cloud_model_location = '1PkTZnHK_K4LBTSkAbCfgtDsk-K9S8rLe' # hosted on GD
-cloud_explainer_location = '1tj1yodBjRY2sgijAnSa-MGL7D0psxMeO' # hosted on GD
+# cloud_model_location = '1PkTZnHK_K4LBTSkAbCfgtDsk-K9S8rLe' # hosted on GD
+# cloud_explainer_location = '1tj1yodBjRY2sgijAnSa-MGL7D0psxMeO' # hosted on GD
+# cloud_model_location = '17WuPxfOx2Y0GZTf1tff-3aL_UzF89q8k' # hosted on GD
+# cloud_explainer_location = '1SRY7LNPGQRlm7lJcqjdttijemadwyIkk' # hosted on GD
+cloud_model_location = 'https://drive.google.com/u/0/uc?id=17WuPxfOx2Y0GZTf1tff-3aL_UzF89q8k&export=download' # hosted on GD
+cloud_explainer_location = 'https://drive.google.com/u/0/uc?id=1SRY7LNPGQRlm7lJcqjdttijemadwyIkk&export=download' # hosted on GD
 
 @st.cache(allow_output_mutation=True) 
-def load_model():
+# def load_model():
 
-    save_dest = Path('model')
-    save_dest.mkdir(exist_ok=True)  
-    f_checkpoint = Path("model/rf_compressed.pkl")
-    f_checkpoint1 = Path("model/shap_explainer.pkl")
-    # download from GD if model or explainer not present
-    if not f_checkpoint.exists():
-        with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
-            from GD_download import download_file_from_google_drive
-            download_file_from_google_drive(cloud_model_location, f_checkpoint)
-    if not f_checkpoint1.exists():
-        with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
-            from GD_download import download_file_from_google_drive
-            download_file_from_google_drive(cloud_explainer_location, f_checkpoint1)
+#     save_dest = Path('model')
+#     save_dest.mkdir(exist_ok=True)  
+#     f_checkpoint = Path("model/rf_compressed.pkl")
+#     f_checkpoint1 = Path("model/shap_explainer.pkl")
+#     # download from GD if model or explainer not present
+#     if not f_checkpoint.exists():
+#         with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
+#             from GD_download import download_file_from_google_drive
+#             download_file_from_google_drive(cloud_model_location, f_checkpoint)
+#     if not f_checkpoint1.exists():
+#         with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
+#             from GD_download import download_file_from_google_drive
+#             download_file_from_google_drive(cloud_explainer_location, f_checkpoint1)
     
-    model = joblib.load(f_checkpoint)
-    explainer = joblib.load(f_checkpoint1)
-    return model, explainer
+#     model = joblib.load(f_checkpoint)
+#     explainer = joblib.load(f_checkpoint1)
+#     return model, explainer
 
-rfr, explainer = load_model()
+def load_model(cloud_model_location, cloud_explainer_location):
+    # https://clay-atlas.com/us/blog/2021/07/01/python-en-gdown-package-download-file-google-drive/
+    if not os.path.exists('model'):
+        os.makedirs('model')
+    model_save_path = "model/rf_compressed.pkl"
+    explainer_save_path = "model/shap_explainer.pkl"
+    if not os.path.exists(model_save_path):
+        with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
+            gdown.download(cloud_model_location, model_save_path)
+    if not os.path.exists(explainer_save_path):
+        with st.spinner("Downloading model... this may take awhile! \n Don't stop it!"):
+            gdown.download(cloud_explainer_location, explainer_save_path)
+
+    rfr = joblib.load(model_save_path)
+    explainer = joblib.load(explainer_save_path)
+
+    return rfr, explainer
+
+rfr, explainer = load_model(cloud_model_location, cloud_explainer_location)
 
 ## MAP OF PRICES THROUGHOUT THE YEARS ========================================================================
 #st.write("**Median Price of HDB Resale Flats Throughout the Years**")
@@ -248,7 +272,7 @@ all_buildings = pd.concat([amenities,flats])
 
           
 st.write("**User Selected HDB Resale Flats In Singapore (with amenities)**")
-with st.beta_expander("How to use"):
+with st.expander("How to use"):
     st.markdown("""Input the HDB features on the *left sidebar* to have the model predict the resale price of the HDB flat you are interested in (shown below the map). 
                 If a particular feature is not known, just estimate or leave it as default. Feel free to play around with the values to see the range of prices.
                 
@@ -257,16 +281,22 @@ The map below will display your HDB location (tall red pole), with other resale 
                 
 **Red**: MRT Stations; **Orange**: Shopping Malls; **Blue**: Primary Schools 
 
-**Green**: Parks; **Purple**: Hawker Centers; **Brown**: Supermarkets""")
+**Green**: Parks; **Purple**: Hawker Centers; **Brown**: Supermarkets
 
-row1_1, row1_2, row1_3, row1_4 = st.beta_columns(4)
+**Getting an Error?**  
+If you get an error after entering the address, it is most likely because the address does not return a result. Currently, the search is done using [OneMap.sg's](https://www.onemap.sg/main/v2/) API. 
+Try going to [OneMap.sg](https://www.onemap.sg/main/v2/) to find the address. If it cannot find the address of the flat, then it will return the error here!
+
+""")
+
+row1_1, row1_2, row1_3, row1_4 = st.columns(4)
 with row1_1:
     show_mrt = st.checkbox('MRT Stations',True)
 with row1_2:
     show_malls = st.checkbox('Shopping Malls',True)
 with row1_3:  
     show_schools = st.checkbox('Primary Schools',True)
-row2_1, row2_2, row2_3, row2_4 = st.beta_columns(4)
+row2_1, row2_2, row2_3, row2_4 = st.columns(4)
 with row2_1:
     show_parks = st.checkbox('Parks',True)
 with row2_2:
@@ -301,7 +331,7 @@ shap_values = explainer.shap_values(flat1)
 #st_shap(shap.force_plot(explainer.expected_value[0], shap_values[0], flat1))
 fig = shap.force_plot(explainer.expected_value[0], shap_values[0], flat1, matplotlib=True, show=False)
 st.pyplot(fig) # work around using matplotlib, fig is not that sharp
-with st.beta_expander("See explanation for understanding SHAP values"):
+with st.expander("See explanation for understanding SHAP values"):
     st.write("""
              """)
     st.markdown("""SHAP (SHapley Additive exPlanations) values allow us to look at feature importance and was first proposed by [Lundberg and Lee (2006)](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) for model interpretability of any machine learning model. SHAP values have a few advantages:
@@ -324,22 +354,22 @@ st.text(" ")
 
 ## EXPANDER FOR AMENITIES INFORMATION
 st.subheader('Amenities Within 2km Radius')
-with st.beta_expander("MRT Station"):
+with st.expander("MRT Station"):
     st.subheader('Nearest MRT: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['mrt'], flat_coord.iloc[0]['mrt_dist']))
     st.subheader('Number of MRTs within 2km: **%d**' % (flat_coord.iloc[0]['num_mrt_2km']))
-with st.beta_expander("Shopping Mall"):
+with st.expander("Shopping Mall"):
     st.subheader('Nearest Mall: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['mall'], flat_coord.iloc[0]['mall_dist']))
     st.subheader('Number of Malls within 2km: **%d**' % (flat_coord.iloc[0]['num_mall_2km']))
-with st.beta_expander("Primary School"):
+with st.expander("Primary School"):
     st.subheader('Nearest School: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['school'], flat_coord.iloc[0]['school_dist']))
     st.subheader('Number of Schools within 2km: **%d**' % (flat_coord.iloc[0]['num_school_2km']))   
-with st.beta_expander("Park"):
+with st.expander("Park"):
     st.subheader('Nearest Park: %0.2fkm' % (flat_coord.iloc[0]['park_dist']))
     st.subheader('Number of Parks within 2km: **%d**' % (flat_coord.iloc[0]['num_park_2km']))
-with st.beta_expander("Hawker Center"):
+with st.expander("Hawker Center"):
     st.subheader('Nearest Hawker: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['hawker'], flat_coord.iloc[0]['hawker_dist']))
     st.subheader('Number of Hawker within 2km: **%d**' % (flat_coord.iloc[0]['num_hawker_2km'])) 
-with st.beta_expander("Supermarket"):
+with st.expander("Supermarket"):
     st.subheader('Nearest Supermarket: **%s** (%0.2fkm)' % (flat_coord.iloc[0]['supermarket'], flat_coord.iloc[0]['supermarket_dist']))
     st.subheader('Number of Supermarket within 2km: **%d**' % (flat_coord.iloc[0]['num_supermarket_2km']))     
     
@@ -348,7 +378,7 @@ st.markdown("#")
 
 ## EXPANDER FOR Model INFORMATION
 st.subheader('Data and Model Information')
-with st.beta_expander("More info"):
+with st.expander("More info"):
     st.markdown("""HDB resale prices data were downloaded from [Data.gov.sg](https://data.gov.sg/). Names of `schools`, `supermarkets`, 
                 `hawkers`, `shopping malls`, `parks` and `MRTs` were downloaded/scraped from [Data.gov.sg](https://data.gov.sg/) and Wikipedia and fed 
                 through a function that uses [OneMap.sg](https://www.onemap.sg/main/v2/) api to get their coordinates (latitude and longitude).
