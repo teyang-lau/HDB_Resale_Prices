@@ -8,5 +8,6 @@ joblib==1.1.0
 requests==2.27.1
 geopy==2.2.0
 altair==4.2.0
-numba==0.56.4
+numba==0.55.1
+numpy==1.23.1
 gdown
