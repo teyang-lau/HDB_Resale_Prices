@@ -20,34 +20,35 @@ st.text(" ")
 #st.image('./Pictures/HDB.jpg', width=900)
 
 ## CREATE USER INPUT SIDEBAR
-st.sidebar.header('User Input HDB Features')
 
-flat_address = st.sidebar.text_input("Flat Address or Postal Code", '988B BUANGKOK GREEN') # flat address
+with st.sidebar.form('User Input HDB Features'):
+    flat_address = st.text_input("Flat Address or Postal Code", '988B BUANGKOK GREEN') # flat address
     
-town = st.sidebar.selectbox('Town', list(['ANG MO KIO', 'BEDOK', 'BISHAN', 'BUKIT BATOK', 'BUKIT MERAH',
-                                          'BUKIT TIMAH', 'CENTRAL AREA', 'CHOA CHU KANG', 'CLEMENTI',
-                                          'GEYLANG', 'HOUGANG', 'JURONG EAST', 'JURONG WEST',
-                                          'KALLANG/WHAMPOA', 'MARINE PARADE', 'QUEENSTOWN', 'SENGKANG',
-                                          'SERANGOON', 'TAMPINES', 'TOA PAYOH', 'WOODLANDS', 'YISHUN',
-                                          'LIM CHU KANG', 'SEMBAWANG', 'BUKIT PANJANG', 'PASIR RIS','PUNGGOL']),
-                            index=10)
-flat_model = st.sidebar.selectbox('Flat Model', list(['Model A', 'Improved', 'Premium Apartment', 'Standard',
-                                                           'New Generation', 'Maisonette', 'Apartment', 'Simplified',
-                                                           'Model A2', 'DBSS', 'Terrace', 'Adjoined flat', 'Multi Generation',
-                                                           '2-room', 'Executive Maisonette', 'Type S1S2']), index=0)
-flat_type = st.sidebar.selectbox('Flat Type', list(['2 ROOM', '3 ROOM', '4 ROOM', '5 ROOM', 'EXECUTIVE']),
-                                 index=2)
-floor_area = st.sidebar.slider("Floor Area (sqm)", 34,280,93) # floor area
-storey = st.sidebar.selectbox('Storey', list(['01 TO 03','04 TO 06','07 TO 09','10 TO 12','13 TO 15',
-                                              '16 TO 18','19 TO 21','22 TO 24','25 TO 27','28 TO 30',
-                                              '31 TO 33','34 TO 36','37 TO 39','40 TO 42','43 TO 45',
-                                              '46 TO 48','49 TO 51']), index=3)
-lease_commence_date = st.sidebar.selectbox('Lease Commencement Date', list(reversed(range(1966, 2017))), index=1)
+    town = st.selectbox('Town', list(['ANG MO KIO', 'BEDOK', 'BISHAN', 'BUKIT BATOK', 'BUKIT MERAH',
+                                            'BUKIT TIMAH', 'CENTRAL AREA', 'CHOA CHU KANG', 'CLEMENTI',
+                                            'GEYLANG', 'HOUGANG', 'JURONG EAST', 'JURONG WEST',
+                                            'KALLANG/WHAMPOA', 'MARINE PARADE', 'QUEENSTOWN', 'SENGKANG',
+                                            'SERANGOON', 'TAMPINES', 'TOA PAYOH', 'WOODLANDS', 'YISHUN',
+                                            'LIM CHU KANG', 'SEMBAWANG', 'BUKIT PANJANG', 'PASIR RIS','PUNGGOL']),
+                                index=10)
+    flat_model = st.selectbox('Flat Model', list(['Model A', 'Improved', 'Premium Apartment', 'Standard',
+                                                            'New Generation', 'Maisonette', 'Apartment', 'Simplified',
+                                                            'Model A2', 'DBSS', 'Terrace', 'Adjoined flat', 'Multi Generation',
+                                                            '2-room', 'Executive Maisonette', 'Type S1S2']), index=0)
+    flat_type = st.selectbox('Flat Type', list(['2 ROOM', '3 ROOM', '4 ROOM', '5 ROOM', 'EXECUTIVE']),
+                                    index=2)
+    floor_area = st.slider("Floor Area (sqm)", 34,280,93) # floor area
+    storey = st.selectbox('Storey', list(['01 TO 03','04 TO 06','07 TO 09','10 TO 12','13 TO 15',
+                                                '16 TO 18','19 TO 21','22 TO 24','25 TO 27','28 TO 30',
+                                                '31 TO 33','34 TO 36','37 TO 39','40 TO 42','43 TO 45',
+                                                '46 TO 48','49 TO 51']), index=3)
+    lease_commence_date = st.selectbox('Lease Commencement Date', list(reversed(range(1966, 2017))), index=1)
+    submitted1 = st.form_submit_button(label = 'Submit HDB 🔎')
 
 
-with st.sidebar.expander("Comparison"):
-    st.write('Comparison Feature Coming Soon')
-    #st.slider("2nd Floor Area (sqm)", 34,280,93)
+# with st.sidebar.expander("Comparison"):
+#     st.write('Comparison Feature Coming Soon')
+#     #st.slider("2nd Floor Area (sqm)", 34,280,93)
 
 
 ## LOAD TRAINED RANDOM FOREST MODEL
@@ -58,7 +59,6 @@ with st.sidebar.expander("Comparison"):
 cloud_model_location = 'https://drive.google.com/u/0/uc?id=17WuPxfOx2Y0GZTf1tff-3aL_UzF89q8k&export=download' # hosted on GD
 cloud_explainer_location = 'https://drive.google.com/u/0/uc?id=1SRY7LNPGQRlm7lJcqjdttijemadwyIkk&export=download' # hosted on GD
 
-@st.cache(allow_output_mutation=True) 
 # def load_model():
 
 #     save_dest = Path('model')
@@ -77,8 +77,9 @@ cloud_explainer_location = 'https://drive.google.com/u/0/uc?id=1SRY7LNPGQRlm7lJc
     
 #     model = joblib.load(f_checkpoint)
 #     explainer = joblib.load(f_checkpoint1)
-#     return model, explainer
 
+#     return model, explainer
+@st.cache_resource() 
 def load_model(cloud_model_location, cloud_explainer_location):
     # https://clay-atlas.com/us/blog/2021/07/01/python-en-gdown-package-download-file-google-drive/
     if not os.path.exists('model'):
@@ -132,7 +133,7 @@ except IndexError:
     pass
     
 ## Load amenities coordinates
-@st.cache
+@st.cache_data()
 def load_data(filepath):
     return pd.read_csv(filepath)
 
@@ -274,7 +275,7 @@ all_buildings = pd.concat([amenities,flats])
 st.write("**User Selected HDB Resale Flats In Singapore (with amenities)**")
 with st.expander("How to use"):
     st.markdown("""Input the HDB features on the *left sidebar* to have the model predict the resale price of the HDB flat you are interested in (shown below the map). 
-                If a particular feature is not known, just estimate or leave it as default. Feel free to play around with the values to see the range of prices.
+                If a particular feature is not known, just estimate or leave it as default. Feel free to play around with the values to see the range of prices. Press ***Submit HDB*** button to see the prediction!
                 
 The map below will display your HDB location (tall red pole), with other resale flats in Singapore (dull yellow hexagons). 
                 Amenities within a 2km radius are also shown (indicated by the round colored circles). They can be toggled on or off by checking the boxes below.
