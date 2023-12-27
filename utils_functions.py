@@ -12,7 +12,7 @@ def find_postal(add):
     including the postal code, geogaphical coordinates (lat/long)'''
     
     # Do not need to change the URL 
-    url = ""https://www.onemap.gov.sg/api/common/elastic/search?searchVal=" + add + "&returnGeom=Y&getAddrDetails=Y"
+    url = "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=" + add + "&returnGeom=Y&getAddrDetails=Y"
     response = requests.get(url)
     try:
         data = json.loads(response.text) 
