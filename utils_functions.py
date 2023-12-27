@@ -11,8 +11,8 @@ def find_postal(add):
     '''With the block number and street name, get the full address of the hdb flat,
     including the postal code, geogaphical coordinates (lat/long)'''
     
-    # Do not need to change the URL
-    url= "https://developers.onemap.sg/commonapi/search?returnGeom=Y&getAddrDetails=Y&pageNum=1&searchVal="+ add        
+    # Do not need to change the URL 
+    url = ""https://www.onemap.gov.sg/api/common/elastic/search?searchVal=" + add + "&returnGeom=Y&getAddrDetails=Y"
     response = requests.get(url)
     try:
         data = json.loads(response.text) 
